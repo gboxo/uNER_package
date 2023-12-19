@@ -1,0 +1,7 @@
+- Age standardisation
+- CI calculation
+- Joinpoint regression
+- Monte Carlo permutation
+- Least squares regression
+- Generalised Additive Models
+- Proportional contribution estimation

@@ -1,0 +1,5 @@
+- Ranking based on median scores
+- Ranking based on mean scores
+- Summation of scores across tests
+- Equal weighting of tests in scoring process
+- Determination of best biscuit based on lowest overall score

@@ -1,0 +1,13 @@
+- Sample-size calculation
+- Noninferiority margin determination
+- Intention-to-treat analysis
+- Modified intention-to-treat analysis
+- Per-protocol analysis
+- As-treated analysis
+- Generalized linear model for binomial outcome with identity function
+- Generalized linear model for binomial outcome with log-link function
+- Adjustment for randomization site
+- Reporting of two-sided 96.6% confidence intervals
+- Reporting of two-sided 95% confidence intervals
+- Prespecified subgroup analyses
+- Linear regression (for QTcF value assessment)

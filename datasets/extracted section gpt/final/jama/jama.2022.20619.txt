@@ -1,0 +1,11 @@
+- Categorical Analysis
+- t-tests
+- Logistic regression
+- HCC risk scoring
+- Empirical Bayes estimator
+- Frequency calculation
+- Composite outcome scoring
+- Inverse standard deviation weighting
+- Sensitivity analysis
+- ANOVA
+- P-value determination

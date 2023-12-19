@@ -1,0 +1,12 @@
+- Cox regression analysis
+- Adjustment for confounders (region of residence, place of birth, calendar time)
+- Time-varying covariate
+- Restricted cubic splines
+- Flexible parametric survival model
+- Cubic splines
+- Sensitivity analysis
+- Exploratory analysis
+- Military Conscription Register analysis
+- Adjustment for stress resilience and cognitive ability scores
+- Further adjustment for body mass index, muscle strength, and cardiorespiratory exercise capacity
+- Use of ICD codes for outcome assessment

@@ -1,0 +1,78 @@
+Statistical Analysis
+We powered our trial with a sample of 152 for
+the exploration of moderators of training effects
+(see the Supplementary Appendix, available at
+NEJM.org). For the two primary outcomes,
+which were assessed at 1 month and 6 months
+after training, we estimated that, at a two-tailed
+alpha level of less than 0.05, a sample of 152
+participants (76 in each group) would provide
+the trial with 96% power to detect an incidence
+rate ratio of 0.88 or less between the interven-
+tion group and the control group for the count
+of long glances and an adjusted mean between-
+group difference of −0.36 SD or less for the
+standard deviation of lane position in feet.
+The primary analyses were performed in the
+intention-to-treat population, which included all
+the participants who had undergone randomiza-
+tion. Given that driving experience affects driv-
+ing outcomes,19 the analyses of the primary
+outcomes included prespecified adjustment for
+driver’s experience (i.e., the number of months
+with a driver’s license). To assess the primary
+outcomes, we used generalized estimating equa-
+tions with an independent correlation structure
+and with accounting for clustering within par-
+ticipants for each outcome. Trial group (inter-
+vention or control), time point (baseline, 1 month
+after training, or 6 months after training), and
+two interaction terms between group and time
+point (baseline vs. 1 month and baseline vs.
+6 month) were tested. A Poisson distribution
+with a natural logarithmic link function was
+specified in the analysis of the count of long
+glances. A normal distributional assumption with
+an identity link function was specified in the
+analysis of standard deviation of lane position.
+To control for the four tests of the two primary
+outcomes (each primary outcome at 1 month
+and 6 months), we used a Bonferroni-corrected
+alpha of 0.0125.
+To assess secondary real-world outcomes, the
+number of days that the in-vehicle recording
+device was operational was included as a covari-
+ate to control for cases in which the in-vehicle
+recording device had been removed early (e.g., if
+the motor vehicle was destroyed in a collision).
+These analyses were conducted in the as-treated
+population, which involved participants for whom
+data from the in-vehicle recording device were
+available. The number of months of driving ex-
+perience was included as a covariate. Modified
+generalized estimating equation analyses20 with
+assumption of a Poisson distribution and natu-
+ral logarithmic link function were used to ana-
+lyze individual events on the in-vehicle recording
+device per participant (random effect) and to as-
+sess the estimated relative risk of each dichoto-
+mous outcome (i.e., presence or absence of long
+glance and presence or absence of collision or
+near-collision per g-force event). Because there
+was no plan for adjustment of the widths of
+confidence intervals for multiplicity correction
+for secondary outcomes, no definite conclusions
+can be drawn from these results.
+Missing data were handled with the use of
+100 imputed data sets that were based either on
+fully conditional specification imputation for long
+glances or on model-based imputation for stan-
+dard deviation of lane position (primary out-
+comes) and for missing data on the presence or
+absence of long glances as assessed by the in-
+vehicle recording device (secondary outcome)
+(see the Supplementary Appendix). The incidence
+of adverse events related to simulated driving
+during training and evaluation was compared be-
+tween groups with the use of Fisher’s exact tests.
+

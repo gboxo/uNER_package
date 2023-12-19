@@ -1,0 +1,77 @@
+Statistical analysis
+The study hypothesis was that weight-adjusted
+intermediate-dose low-molecular-weight heparin would
+be superior to fixed low-dose low-molecular-weight
+heparin for the prevention of pregnancy-associated
+venous thromboembolism. The sample size was event
+driven, with a targeted number of primary outcome
+events of 29, assuming a 65% relative risk reduction with
+intermediate-dose versus low-dose low-molecular-weight
+heparin, a power of 80%, and a two-sided significance
+level of 0·05. On the basis of an expected incidence of
+venous thromboem­
+bolism of 4–5% in the low-dose
+group,18 the expected sample size was determined to be
+859–1074.
+We did the primary efficacy analysis in the intention-to-
+treat (ITT) population, defined as all women randomly
+assigned to treatment, and included all data and
+adjudicated outcomes from randomisation up to 6 weeks
+post partum. Secondary efficacy analyses were also
+assessed in the ITT population. We also did prespecified
+analyses of the primary efficacy outcome from
+randomisation until 3 months post partum. In post-hoc
+exploratory analyses, we also assessed efficacy outcomes
+during the antepartum and post-partum periods. We did
+prespecified analyses of the primary and secondary
+efficacy outcomes up to 6 weeks post partum in the per-
+protocol population and included outcomes occurring
+during the on-treatment period (defined as the time from
+randomisation to the last day of allocated low-molecular-
+weight heparin dose plus 2 days). Women were considered
+off-treatment in case of deviation from the allocated dose
+for more than 2 consecutive weeks. The per-protocol
+population included women without major protocol
+deviations, a self-reported adherence of 80% or higher,
+and who received at least one dose of allocated study
+treatment and had known date of end of on-treatment
+period.
+We assessed safety in all women who received at least
+one dose of allocated study treatment and who had a
+known date of end of on-treatment period, and included
+in our analyses all data and adjudicated outcomes from
+randomisation up to 6 weeks post partum.
+We did prespecified subgroup analyses of the primary
+efficacy and safety outcomes according to maternal age,
+location of previous venous thromboem­bolism, provok­
+ing factors of previous venous thromboembolism, BMI,
+thrombophilia, parity, low-molecular-weight heparin use
+before randomisation, and use of aspirin during
+pregnancy. We did sensitivity analyses of the primary
+efficacy and safety outcomes including the first pregnancy
+in this study only and excluding women who had a
+miscarriage before 14 weeks.
+For all outcomes, we used the two-sided χ² test (or
+Fisher’s exact test if fewer than five observations) to
+compare the intermediate-dose group with the low-dose
+group. We calculated relative risks (RR) with 95% CIs on
+the basis of normal approximation. We did time-to-event
+analyses using Cox proportional hazards models to
+obtain hazard ratios with 95% CIs, censoring patients at
+loss to follow-up, withdrawal of informed consent, or end
+of study period. We checked the proportionality
+assumption by visual inspection of the log-minus-log
+plots and assessment of Schoenfeld residuals. We did not
+impute missing data and we only analysed observed data.
+Baseline data that were missing but that were then
+collected during follow-up visits were used to complete
+the table of baseline characteristics. For baseline variables
+such as bodyweight, we used the available bodyweight
+closest to the randomisation date. For primary and
+secondary outcomes, data from the visits after missed
+visits were used.
+We did all analyses using R (version 4.0.3), particularly
+using the packages “survival” (version 3.2–7) and
+“epitools” (version 0.5–10.1). This study is registered with
+ClinicalTrials.gov, NCT01828697.
+

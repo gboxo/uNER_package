@@ -1,0 +1,13 @@
+- Categorical analysis
+- t-tests
+- Logistic regression
+- Hierarchical Condition Category risk scoring
+- Empirical Bayes shrinkage estimator
+- Frequency calculation
+- Composite outcome scoring
+- Weighting by inverse standard deviation
+- Sensitivity analysis
+- Quintile classification
+- Analysis of variance with primary care physicians
+- Stata software usage
+- P-value determination for statistical significance

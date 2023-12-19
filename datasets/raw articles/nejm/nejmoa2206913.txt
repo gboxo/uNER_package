@@ -1,0 +1,29 @@
+Statistical Analysis
+We calculated that the pivotal cohort would need
+a target sample size of 100 in order to provide
+the study with 92% power to detect an increase
+from 20% to 35% in the percentage of patients
+with a complete response, at a two-sided alpha
+level of 5%. The observed percentage of patients
+with a complete response in the intention-to-
+treat population (which included all the patients
+enrolled in this cohort) was compared with a
+prespecified value of 20% (for complete response
+in a historical control), which was established
+on the basis of a meta-analysis of 19 studies,
+with the use of an exact binomial test.
+All the patients in the main analysis cohort
+who received obinutuzumab or glofitamab were
+included in the safety population. We used the
+Clopper–Pearson method to calculate 95% con-
+fidence intervals for the percentages of patients
+with a response. Kaplan–Meier plots were calcu-
+lated for survival end points. The confidence
+intervals were not adjusted for multiplicity and
+should not be interpreted as hypothesis tests.
+Prespecified subgroup analyses of the primary
+end point were performed. Efficacy analyses were
+performed in the intention-to-treat population.
+Data were analyzed with the use of SAS soft-
+ware, version 9.4 (SAS Institute). A data-cutoff
+date of March 14, 2022, was used.

@@ -1,0 +1,8 @@
+- Chi-square tests
+- t-tests
+- Linear regression
+- Sociodemographic adjustment
+- Elixhauser adjustment
+- Standardization
+- P value testing
+- Multiple comparisons

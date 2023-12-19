@@ -1,0 +1,13 @@
+- Sample size calculation
+- Progression-free survival percentage comparison
+- Power calculation
+- Two-group continuity corrected chi-square test
+- Odds ratio calculation
+- Kaplan–Meier method
+- Log-rank test (stratified and unweighted)
+- Cox regression model (stratified)
+- Per-protocol analysis
+- Landmark approach
+- Forest plot construction
+- Binomial confidence intervals
+- Generalized-estimating-equations model

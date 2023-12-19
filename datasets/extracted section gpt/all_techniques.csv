@@ -1,0 +1,617 @@
+
+Two-sided p values
+κ (kappa) statistics with Fleiss-Cohen weights
+ClinicalTrialsgov registration (NCT03541174)
+Repeated-measures analysis
+Bootstrapped (Cluster Resampling with Replacement) 95% CIs
+Score method
+Linear multivariable regression model
+Sample size determination for power (90% power, 72% power)
+Kaplan-Meier curves
+Weighted binomial regression
+Rubin’s rules
+Bonferroni adjustment
+Repeated-measures mixed linear model
+Least squares regression
+SAS software, version 9.4
+Wilcoxon rank-sum test
+Kaplan-Meier product limit estimator
+Adjustment for confounders (region of residence, place of birth, calendar time)
+Medical Dictionary for Regulatory Activities
+Intention-to-treat analysis
+Mean (SD) presentation
+Intention-to-treat principle for statistical analysis
+Two-sided test
+Log-binomial regression
+Type I error rate consideration
+Stratified analyses
+Random effects (random intercept)
+Sub-distribution hazard ratio
+R software
+χ² test for trend
+Use of R software for statistical computing
+Intraclass Correlation Coefficient
+Publication rate calculation
+95% Confidence Intervals (CIs)
+Co-morbidity assessment
+Hazard rate reduction
+Clopper-Pearson method
+Bivalirudin
+Trial sequential analysis
+Multiple linear regression
+Cause-specific hazard model
+Predictive mean matching
+Dichotomous outcome analysis
+Categorical variables as absolute and relative frequencies
+Propensity score weighting
+Random effects model (DerSimonian and Laird)
+Adjustment for stratification variables
+Log relative risk (RR) estimation
+Bayesian random effects meta-analysis
+Multivariate Normal Distribution
+Best-case and Worst-case Scenarios
+P value significance testing
+Adjusted Cox proportional-hazards models
+Complete-case analysis
+Trial sequential analysis software
+Premature discontinuation
+Sample-size calculation
+Use of R (version 3 6 2)
+Student’s t-test
+R statistical computing system (used for analyses)
+Contrast statements
+Log(–log) plots
+Re-analysis of eGFR data
+Relative risks
+Hierarchical testing procedure
+Modified per-protocol analysis
+Statistical significance testing (P value)
+Graphical illustration (adjusted and weighted prevalence)
+Common odds ratio
+Autoregressive(1) covariance structure
+Safety population (participants who received at least one dose of the study drug)
+Multiple imputation
+Data collection
+SAS software (version 9.4) for statistical analysis
+Markov chain Monte Carlo sampling
+Analysis of variance with primary care physicians
+Standardisation across trials
+McNemar’s test
+Overdose control principle
+Median
+Time-varying covariate
+Non-inferiority analysis
+Maximum likelihood estimation
+Overlap weights
+Descriptive analyses
+Power Calculations
+Recurrent event analysis
+Two-sample t-test
+Power calculations
+Predefined statistical analysis plan
+Continuous variable analysis (income-to-poverty ratio)
+Sensitivity
+Sensitivity analyses
+Centile based 95% credible intervals
+Use of SAS software
+SAS software (version 9.4) usage for statistical analysis
+Random effects
+too small for meaningful comparison.
+Gelman-Rubin diagnostic
+Elixhauser comorbidity adjustment
+Kaplan-Meier plots
+Negative predictive value
+Intention-to-treat approach
+P value correction (for interim analyses)
+Treatment effect
+Profile Likelihood Method
+Standardization of results
+Interaction terms in regression
+Generalized-estimating-equations model
+Log-transformed Cmax and AUC (Area Under the Curve) for dose-normalized geometric means
+Patients who received any dose of study medication
+Two-sided tests
+virus infection. During the analysis, data from the five
+Point estimates with 95% confidence intervals
+Reliability assessment (using ThinkCheckSubmit checklist)
+Quintile classification
+Proportional-odds logistic-regression model for ordered categorical data
+Ageand sex-adjusted rates calculation
+CKD-EPI 2009 equation
+deidentified data are presented to avoid deductive
+Multiple imputation methods
+Percentage calculation
+SAS Enterprise Guide software
+Efficacy estimand for pharmacodynamic measures
+Modified continual reassessment methods
+Two-sided P value
+Adjusted mean (SE) presentation
+Heterogeneity Tests
+Sociodemographic characteristic adjustment
+Incidence rate ratio
+Hazard ratio
+Between-participant main effects
+Cox-Stuart trend test
+Random effect adjustment
+Firth logistic regression
+Covariance matrix
+Primary composite outcome
+Frequentist approach
+Validly randomly assigned population analysis
+Independent correlation structure
+Reporting of two-sided 96.6% confidence intervals
+Censored data
+Descriptive statistics
+Covariate inclusion
+Data were analysed using SPSS software (version 28) and
+Use of statistical software (STATA, version 17.0)
+Power analysis
+Laplace approximation
+Interaction term testing for non-proportionality of hazards
+Exploratory analyses
+Cochran–Mantel–Haenszel test
+Positive predictive value
+Percentage of manuscripts with ≥50% editor agreement
+Logistic regression
+Forest plot construction
+Ranking based on mean scores
+Hierarchical testing strategy
+Face, Legs, Activity, Cry, Consolability scale (FLACC-R)
+Mean and standard deviation
+Poisson regression model with robust standard errors
+van Elteren’s test
+Further adjustment for body mass index, muscle strength, and cardiorespiratory exercise capacity
+Distribution description
+P-value determination for statistical significance
+Prespecified subgroup analysis
+Design effect accounting for cluster randomized controlled trials
+Mantel-Haenszel weights
+Multiplicity adjustment
+Pharmacokinetic dose proportionality analysis
+Proportional contribution estimation
+Bayesian information criterion
+Inverse-variance-weighted averages
+Multivariable quantile regression
+Unstructured covariance matrix
+Point estimates
+Missing-at-random assumption
+Inverse probability of attrition weight (IPAW)
+Substitution rules
+Mean or mode imputation
+Adjusted risk ratio [RR]
+Data safety and monitoring committee
+Descriptive analysis
+Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach
+Kaplan-Meier curve
+Proc MIANALYZE in SAS
+Log-rank test (stratified and unweighted)
+Inclusion criteria
+Interaction Parameters
+As-treated analysis
+Proportion assessment
+95% confidence intervals
+Two-sided significance level
+Constrained longitudinal data analysis (cLDA)
+Fixed effects (race and ethnicity, sex, state of residence, year)
+Two-group continuity corrected chi-square test
+Missing values
+Unstructured Covariance Structure
+Design Effect
+Effect size
+Meta-regression
+As-treated population analysis
+Tests of between-study heterogeneity
+Use of R statistical software
+Baseline rate
+Cox proportional hazards models
+Mixed-model analytic approach
+Evaluation of safety, pharmacokinetic, and pharmacodynamic parameters
+Normal distributional assumption
+ANCOVA (Analysis of Covariance)
+Weighting by inverse standard deviation
+Type I error consideration
+Two-group t-test with a two-sided significance level
+Generalized linear model for binomial outcome with identity function
+Type I error (alpha)
+Bootstrap confidence intervals
+t test
+Correlation structures
+Prespecified tests for superiority
+Clustering within participants
+Risk Ratio (Relative Effect Measure)
+Fine and Gray model for time-to-event data
+Key secondary endpoint
+Linear mixed model with random coefficients
+Percentage of maximum possible method
+Linear regression models
+T tests
+Repeated-measures mixed-effects linear regression model
+Demographic comparison
+Harmonic mean of person-time years
+High-dimensional propensity-score algorithm
+SAS software (version 9.4) usage
+Clustering of standard errors
+Protocol deviations
+t-tests
+Stratified analysis (by Journal Citation Reports quartile)
+Confidence interval calculation
+Generalized linear model for binomial outcome with log-link function
+2-sample test of proportions
+Normal-normal hierarchical models
+Imputation of missing data
+Sample size estimation
+Cluster Size Sample Size Scenarios
+Half-SD formula
+Cumulative incidence functions
+Modified intention-to-treat population
+Imputation for missing data
+Independent data monitoring committee interim analyses
+E-value assessment
+Poisson regression
+Flexible parametric survival model
+I^2 statistic for heterogeneity assessment
+Efficacy analyses
+χ² test (Chi-squared test)
+Relative risk comparison
+Bayesian logistic-regression model
+Non-informative priors for mean effects
+Hazard ratio calculation
+Restricted cubic splines
+Sample size calculation
+Adjustment for sampling survey weights
+Alpha-spending criteria
+Multilevel Linear Mixed Model
+Kaplan–Meier plots
+Sample size determination
+Binary logistic regression
+Confidence intervals (95% confidence interval)
+Ordinal logistic-regression model
+Prespecified subgroups
+Cox-proportional hazards model
+Hierarchical Condition Category risk scoring
+Within-group standard deviation (SD)
+Estimation of SpO2:FiO2 ratios from PaO2:FiO2 ratios
+Generalized estimating equations
+Compound symmetry covariance structure
+Weighting for national representation and nonresponse bias
+Funnel plots
+Cox regression model (stratified)
+Subgroup-by-trial-group interactions
+Ranking based on median scores
+Modified generalized estimating equation analyses
+Summation of scores across tests
+Proportional hazards assumption
+Joinpoint regression
+Use of ICD codes for outcome assessment
+Post hoc analyses
+Analysis of secondary supportive end points
+Descriptive statistics (counts and percentages, medians and IQRs)
+Mixed-model repeated-measure analyses
+Covariate inclusion in analyses
+Akaike information criterion
+Linear Regression
+Conditional Logistic Regression
+Crossover consideration
+Pattern-mixture models
+Intraclass correlation coefficient
+of people assigned female at birth) as the numbers were
+Stata software usage
+Natural logarithmic link function
+Schoenfeld residual plots
+descriptive statistics were reported. Aggregate and
+Multivariable generalized estimating equations
+Bayesian analyses
+Analysis of covariance (ANCOVA)
+SAS (Statistical Analysis System)
+Adjustment for randomization site
+2-sided α (alpha) level
+Fisher exact test
+Comparative analyses
+Standardized mean differences
+Equal weighting of tests in scoring process
+2 × 2 factorial design analysis
+Bivariate binomial random effects meta-analysis
+Model-based analysis
+Mean percentage calculation
+Sensitivity analysis
+Agresti formula for confidence interval
+Software utilization (SAS software, version 9.4)
+Cluster sizes
+Prespecified Subgroup Analyses
+Fisher's exact test
+Matching (Case-control matching)
+Use of SAS (version 9 4) 
+Sensitivity analysis with censoring
+Mann-Whitney odds
+Analysis of exploratory end points
+Trend analysis
+2-tailed P value
+Hospital fixed effects
+Fixed effects modeling
+Standardised Residuals
+Mediator analysis (as planned, later modified)
+Per-protocol population
+Logistic-regression models
+Visual Analog Scale (VAS)
+MDRD equation
+Quantitative bias analyses
+Linear regression
+Randomization
+Confidence intervals (95% CIs)
+χ² test
+Monte Carlo permutation method
+Model assumptions
+Interaction testing
+Range
+Repeated measures analysis
+Regression-switching approach
+Cluster randomized design
+Time-to-first-event analysis
+Nonparametric ANCOVA
+Kruskal-Wallis rank sum test
+Multiple comparisons analysis
+Specificity
+Citations analysis (overall and stratified by quartile)
+Subgroup analysis
+Hazard ratio estimation
+Interaction effects
+Rate of outcome events per 1000 patient-years
+Power analysis for detecting differences in means and standard deviations
+Generalised linear mixed model
+Identity link function
+disclosure of the identities of individuals with monkeypox
+Skindex-29 score analysis
+Kaplan–Meier method
+Mann-Whitney-Wilcoxon test
+Multivariable logistic regression
+Missing data imputation
+Linear mixed models
+Data collapsing
+Mean differences with 95% confidence intervals
+Modified intention-to-treat (mITT) analysis
+non-binary individuals assigned female at birth were
+Incidence
+Estimation of absolute benefits and harms
+Two-sided 95% confidence interval
+Prespecified adjustment for covariate
+Bootstrapping
+Complier average causal effect
+Full analysis set
+Model-based imputation
+Farrington-Manning test
+Calculation of 95% confidence intervals
+Adjusted risk difference
+Odds ratios with 95% confidence intervals
+Sensitivity analysis for albuminuria levels
+Aggregate data analysis
+Registration of the study at ClinicalTrialsgov, NCT04143802
+Adjustment for covariates in models
+Aggregate measures analysis
+Assessment of Schoenfeld residuals
+Deviations from the missing-at-random assumption
+Interaction term analysis
+Imputation
+Key secondary outcome
+Adjusted Mean Differences
+Wald-type approximate 95% confidence intervals
+Covariate adjustment
+Determination of best biscuit based on lowest overall score
+Categorical analysis
+Assessment of proportionality using log-minus-log plots
+One-sided significance level
+Multiple imputation for missing values
+1-sided 95% Confidence Interval (CI)
+Two-sided testing
+Repeated-measures Poisson regression
+Adjusted mean comparisons
+Sensitivity Analyses
+Win ratio (Generalized odds ratio)
+EQ-5D-5L score analysis
+Post hoc subset analyses
+Pattern mixture models
+Rubin's algorithm for multiple imputation
+Confidence intervals
+Certainty of evidence classification
+Geometric mean presentation
+Landmark approach
+Pearson correlations
+Multiplicity
+Two-sided Tests
+χ2 (Chi-square) test
+Hazard ratio assumption revision
+Standard deviation
+Type I error consideration due to multiple comparisons
+Interim analyses
+Bonferroni correction
+Forest plots
+Hierarchical analysis of endpoints
+Odds ratio calculation
+Cause-specific mortality assessment
+t tests
+Within-participants effects
+Use of SAS version 94 for data analysis
+Continuous data
+STATA for statistical analysis
+Competing-risk model
+Rate ratio estimation
+Coefficient estimation
+Generalised additive models
+Two-sided significance level setting
+Doubly robust weighted least squares estimator
+Absolute values and change from baseline analysis
+Group comparison
+Treatment of skewed data
+Unadjusted linear mixed model
+Fully conditional specification imputation
+Kryger Jensen and Lange test
+Treatment of ordinal variables as continuous
+Modified intention-to-treat analysis
+Chained equations
+Exact McNemar’s test
+Confidence interval (CI) estimation
+Summary receiver operator characteristic (ROC) curves
+Per-protocol Analysis
+Negative binomial model
+Hartung-Knapp-Sidik-Jonkman confidence interval correction
+Ranking creation
+Maximum of diagnosis indicator
+Adjustment for stress resilience and cognitive ability scores
+Relative difference estimation
+Estimation from median and interquartile range
+SAS (Statistical Analysis Software) for data analysis
+Progression-free survival percentage comparison
+Clustering
+Effect sizes with 95% confidence intervals
+Geometric mean concentrations and ratios
+Median and IQR (Interquartile Range)
+Mean frequency function display
+95% CIs (Confidence Intervals)
+Bias-corrected and accelerated bootstrap resampling
+Two-tailed alpha level
+Sample size determination for phase 1 studies
+Unadjusted log-rank tests
+Two-sided tests of superiority
+Random walk Metropolis-Hastings algorithm with Gibbs updates
+Bayesian analysis
+One-way ANOVA Method
+Number needed to treat
+Kaplan-Meier method
+Use of R software
+Significance testing
+Cut-off based analysis (>30 and >50 citations)
+Mann-Whitney U test
+Contrast analysis
+Deidentified data presentation
+Confidence interval (CI) calculation
+Noninferiority margin determination
+Primary endpoint
+Clustered Design
+Score test for proportionality assumption
+Fisher’s exact test
+Least-squares means (LSMs) and 90% confidence intervals (CIs)
+Reporting of two-sided 95% confidence intervals
+Time-to-first-event rates
+Fixed effects
+Loss to follow-up consideration
+Rubin’s formula for confidence intervals
+Competing-risk events
+Testing of proportional hazards using Schoenfeld residuals
+Relative risks estimation
+Linear regression (for QTcF value assessment)
+Post hoc analysis
+Citation analysis within the first two years after publication
+Repeated measures
+Adjusted mean between-group difference
+Time elapsed calculation (between submission and publication, and between publication and retraction)
+Mixed models for repeated measures
+Modified ridit scores
+Prespecified subgroup analyses
+Cox proportional hazards model
+Two-sided χ² test
+Modified Poisson Regression Model
+Estimated relative risk
+Alpha level (significance level)
+Intention-to-treat (ITT) analysis
+Sandwich estimator
+Pharmacokinetic and pharmacodynamic population
+Calculation of relative risks (RR) with 95% confidence intervals (CIs)
+Risk difference estimation
+Cox model
+Multilevel Log-binomial Regression Models
+Finkelstein-Schoenfeld hierarchical composite endpoint
+P value determination
+Poisson distribution
+Logistic regression with logit link
+Markov chain Monte Carlo method
+Fully conditional specification
+Time-to-event outcomes
+Covariates
+Repeated measures design
+Statistical analyses
+Pairwise comparisons
+Leave-one-out site analysis
+Stratification according to randomization
+Statistical analysis
+Use of “survival” R package
+Treatment group
+Absolute risk reduction
+Stratification by factors (VA health care system)
+Exact binomial test
+Cluster-level summaries
+Per-protocol analyses
+Informative priors for heterogeneity
+Binomial confidence intervals
+Robust Standard Errors
+Power calculation
+Cox proportional-hazards model
+Wald standard error
+Definition-based outcome assessment
+Empirical Bayes shrinkage estimator
+Two-tailed t-test
+Dichotomisation of responses
+Hazard ratios (HR)
+Safety analysis assuming binomial distributions
+Cubic splines
+Propensity scores
+Standard χ² tests for heterogeneity
+Cochran-Mantel-Haenszel method
+Intention-to-treat principle
+Last observation carried forward (LOCF)
+Mean ± standard deviation
+Unconditional logistic regression
+Use of “epitools” R package
+grouped with data from cis women (forming a category
+Joint models
+Cox regression analysis
+Exploratory analysis
+Cox models
+Covariates adjustment
+Frequency calculation
+Age standardisation
+Mixed model
+Predefined subgroup analysis
+Mean
+Categorical variables
+Confidence intervals (CIs)
+Interim analysis
+Time-to-event analysis
+Military Conscription Register analysis
+Meta-analysis
+Egger’s test
+Event rate calculation
+Two-tailed tests
+χ2 tests
+Estimation of mean and SD from median and IQR
+Logistic regression for binary outcomes
+Unpaired t-tests
+Proc GENMOD in SAS
+Mixed-effects linear regression modeling
+Unstructured covariance structure and compound symmetric structure in statistical modeling
+Two-sided alpha level
+Composite outcome scoring
+Intention to treat
+χ2 test
+SAS version 94
+Drop-out rate
+Type I error rate
+No adjustment for multiple comparisons
+Generalised linear mixed models
+Kaplan-Meier estimates
+Coefficient of variation
+Marginal model for repeated measures analyses
+Log-rank test
+Restricted maximum likelihood approach
+Per-protocol analysis
+Generalized estimating equation (GEE) model
+Supportive analyses
+Exclusion criteria
+Heparin group
+Absolute number and relative frequency calculation
+Summary data extraction
+Average treatment effect estimation
+Subgroup analyses
+Consensus discussion
+Proc MI in SAS
+Relative risks with 95% confidence intervals
+Median and interquartile range calculation
+Diuretic or antihypertensive rescue medication

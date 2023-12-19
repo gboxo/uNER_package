@@ -1,0 +1,16 @@
+- McNemar’s test
+- Power analysis
+- Two-sided alpha level
+- Intention-to-treat analysis
+- Confidence intervals
+- Subgroup analyses
+- Post hoc analysis
+- Exact McNemar’s test
+- Multiple imputation
+- Markov chain Monte Carlo method
+- Analysis of covariance (ANCOVA)
+- Visual Analog Scale (VAS)
+- Face, Legs, Activity, Cry, Consolability scale (FLACC-R)
+- EQ-5D-5L score analysis
+- Skindex-29 score analysis
+- SAS software (version 9.4) for statistical analysis

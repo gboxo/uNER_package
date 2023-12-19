@@ -1,0 +1,69 @@
+Statistical Analysis
+The sample size was calculated on the basis of a
+comparison of the percentage of patients with
+progression-free survival at 6 months. On the
+basis of a study by Hodi et al.,32 it was expected
+that the percentage of patients with progression-
+free survival at 6 months in the ipilimumab
+group would be 20 to 25%. We estimated that at
+least 80 patients would have to undergo random-
+ization in each group (160 patients in total) for
+the trial to have 90% power to detect an increase
+in progression-free survival at 6 months from
+20% in the ipilimumab group to 45% in the TIL
+group (odds ratio, 3.27), using a two-group con-
+tinuity corrected chi-square test with a two-sided
+significance level of 0.05. With this level of ac-
+crual, an absolute increase from 25 percentage
+points with ipilimumab to 50 percentage points
+with TIL therapy (odds ratio, 3.0) in progression-
+free survival could be detected with 88% power.
+Considering the possibility that 5 to 10% of the
+patients randomly assigned to the TIL group
+would not receive the intended treatment, the
+required sample size was calculated to be 168 to
+176 patients. Although the trial was powered to
+compare progression-free survival at 6 months,
+during the course of the trial it was considered
+statistically more efficient to analyze the entire
+progression-free survival curve with the use of
+survival methods, and this was included in a
+protocol amendment. Considering that the pow-
+er calculation reflected a conservative approach,
+analysis of complete progression-free survival
+would yield sufficient power.
+Progression-free and overall survival curves
+were constructed with the use of the Kaplan–
+Meier method, and treatment groups were com-
+pared with the use of the stratified (unweighted)
+log-rank test and the stratified Cox regression
+model. The trial was considered to be positive if
+the progression-free survival among patients
+who received TILs was significantly longer than
+that among those who received ipilimumab, on
+the basis of the log-rank test with a two-sided
+P value below 0.05. In addition, a prespecified
+per-protocol analysis of the primary end point
+with the use of a landmark approach was per-
+formed, including patients who received the trial
+treatment without rapid clinical progression with-
+in 5 weeks after randomization. As exploratory
+post hoc analyses, comparisons of progression-
+free and overall survival across subgroups of
+interest were performed. Data are presented in a
+forest plot, and survival curves were constructed
+with the use of the Kaplan–Meier method.
+Responses after TIL and ipilimumab treatment
+were reported with their associated 95% bino-
+mial confidence intervals. Health-related quality-
+of-life outcomes were evaluated with the use of
+a generalized-estimating-equations model for
+longitudinal data.33,34 The widths of the confi-
+dence intervals for the secondary end points and
+exploratory post hoc analyses have not been ad-
+justed for multiplicity and cannot be used in
+place of a hypothesis test. Details are provided
+in the Statistical Analyses section of the Supple-
+mentary Appendix, protocol, and statistical
+analysis plan.
+

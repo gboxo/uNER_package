@@ -1,0 +1,499 @@
+κ (kappa) statistics with Fleiss-Cohen weights;Kappa statistics
+Repeated-measures analysis;Repeated-measures analysis
+Bootstrapped (Cluster Resampling with Replacement) 95% CIs;Bootstrapped CIs
+Score method;Score method
+Linear multivariable regression model;Linear regression
+Sample size determination for power (90% power, 72% power);Sample size determination
+Kaplan-Meier curves;Kaplan-Meier curves
+Weighted binomial regression;Weighted regression
+Rubin’s rules;Rubin’s rules
+Bonferroni adjustment;Bonferroni adjustment
+Repeated-measures mixed linear model;Mixed linear model
+Least squares regression;Least squares regression
+Wilcoxon rank-sum test;Wilcoxon test
+Kaplan-Meier product limit estimator;Kaplan-Meier estimator
+Adjustment for confounders (region of residence, place of birth, calendar time);Adjustment for confounders
+Intention-to-treat analysis;Intention-to-treat analysis
+Intention-to-treat principle for statistical analysis;Intention-to-treat principle
+Two-sided test;Two-sided test
+Log-binomial regression;Log-binomial regression
+Type I error rate consideration;Type I error consideration
+Stratified analyses;Stratified analyses
+Random effects (random intercept);Random effects
+Sub-distribution hazard ratio;Sub-distribution hazard ratio
+χ² test for trend;Chi-squared test for trend
+Intraclass Correlation Coefficient;Intraclass Correlation Coefficient
+95% Confidence Intervals (CIs);Confidence Intervals
+Clopper-Pearson method;Clopper-Pearson method
+Trial sequential analysis;Trial sequential analysis
+Multiple linear regression;Multiple linear regression
+Cause-specific hazard model;Cause-specific hazard model
+Predictive mean matching;Predictive mean matching
+Dichotomous outcome analysis;Dichotomous outcome analysis
+Categorical variables as absolute and relative frequencies;Categorical variables analysis
+Propensity score weighting;Propensity score weighting
+Random effects model (DerSimonian and Laird);Random effects model
+Adjustment for stratification variables;Adjustment for stratification
+Log relative risk (RR) estimation;Log relative risk estimation
+Bayesian random effects meta-analysis;Bayesian meta-analysis
+Multivariate Normal Distribution;Multivariate Normal Distribution
+P value significance testing;P value testing
+Adjusted Cox proportional-hazards models;Adjusted Cox model
+Complete-case analysis;Complete-case analysis
+Sample-size calculation;Sample-size calculation
+Student’s t-test;Student’s t-test
+Log(–log) plots;Log-log plots
+Relative risks;Relative risks
+Hierarchical testing procedure;Hierarchical testing
+Modified per-protocol analysis;Per-protocol analysis
+Statistical significance testing (P value);Statistical significance testing
+Common odds ratio;Common odds ratio
+Autoregressive(1) covariance structure;Autoregressive model
+Multiple imputation;Multiple imputation
+Markov chain Monte Carlo sampling;MCMC sampling
+Analysis of variance with primary care physicians;ANOVA
+McNemar’s test;McNemar’s test
+Median;Median
+Time-varying covariate;Time-varying covariate
+Non-inferiority analysis;Non-inferiority analysis
+Maximum likelihood estimation;Maximum likelihood estimation
+Overlap weights;Overlap weights
+Descriptive analyses;Descriptive analyses
+Power Calculations;Power calculations
+Recurrent event analysis;Recurrent event analysis
+Two-sample t-test;Two-sample t-test
+Power calculations;Power calculations
+Continuous variable analysis (income-to-poverty ratio);Continuous variable analysis
+Sensitivity analyses;Sensitivity analyses
+Centile based 95% credible intervals;Centile based credible intervals
+Random effects;Random effects
+Gelman-Rubin diagnostic;Gelman-Rubin diagnostic
+Elixhauser comorbidity adjustment;Elixhauser adjustment
+Kaplan-Meier plots;Kaplan-Meier plots
+Negative predictive value;Negative predictive value
+P value correction (for interim analyses);P value correction
+Profile Likelihood Method;Profile Likelihood Method
+Standardization of results;Standardization
+Interaction terms in regression;Interaction terms
+Generalized-estimating-equations model;Generalized estimating equations
+Log-transformed Cmax and AUC (Area Under the Curve) for dose-normalized geometric means;Log-transformed dose-normalization
+Two-sided tests;Two-sided tests
+Point estimates with 95% confidence intervals;Point estimates with CIs
+Proportional-odds logistic-regression model for ordered categorical data;Proportional-odds logistic regression
+Ageand sex-adjusted rates calculation;Adjusted rates calculation
+CKD-EPI 2009 equation;CKD-EPI equation
+Multiple imputation methods;Multiple imputation
+Modified continual reassessment methods;Continual reassessment method
+Two-sided P value;Two-sided P value
+Adjusted mean (SE) presentation;Adjusted mean presentation
+Heterogeneity Tests;Heterogeneity tests
+Sociodemographic characteristic adjustment;Sociodemographic adjustment
+Incidence rate ratio;Incidence rate ratio
+Hazard ratio;Hazard ratio
+Between-participant main effects;Between-participant effects
+Cox-Stuart trend test;Cox-Stuart test
+Random effect adjustment;Random effect adjustment
+Firth logistic regression;Firth regression
+Covariance matrix;Covariance matrix
+Primary composite outcome;Composite outcome
+Frequentist approach;Frequentist approach
+Validly randomly assigned population analysis ; Randomly assigned population analysis
+Independent correlation structure ; Correlation structure
+Reporting of two-sided 96.6% confidence intervals ; Confidence intervals
+Censored data ; Censored data
+Descriptive statistics ; Descriptive statistics
+Covariate inclusion ; Covariate inclusion
+Power analysis ; Power analysis
+Laplace approximation ; Laplace approximation
+Interaction term testing for non-proportionality of hazards ; Interaction term testing
+Exploratory analyses ; Exploratory analyses
+Cochran–Mantel–Haenszel test ; Cochran–Mantel–Haenszel test
+Positive predictive value ; Positive predictive value
+Logistic regression ; Logistic regression
+Forest plot construction ; Forest plot
+Mean and standard deviation ; Mean and standard deviation
+Poisson regression model with robust standard errors ; Poisson regression
+van Elteren’s test ; van Elteren’s test
+Further adjustment for body mass index, muscle strength, and cardiorespiratory exercise capacity ; Adjustment for covariates
+Distribution description ; Distribution description
+P-value determination for statistical significance ; P-value determination
+Prespecified subgroup analysis ; Subgroup analysis
+Design effect accounting for cluster randomized controlled trials ; Design effect
+Mantel-Haenszel weights ; Mantel-Haenszel weights
+Multiplicity adjustment ; Multiplicity adjustment
+Pharmacokinetic dose proportionality analysis ; Dose proportionality analysis
+Proportional contribution estimation ; Proportional contribution estimation
+Bayesian information criterion ; Bayesian information criterion
+Inverse-variance-weighted averages ; Inverse-variance weighting
+Multivariable quantile regression ; Quantile regression
+Unstructured covariance matrix ; Unstructured covariance
+Point estimates ; Point estimates
+Missing-at-random assumption ; Missing-at-random assumption
+Inverse probability of attrition weight (IPAW) ; Inverse probability weighting
+Substitution rules ; Substitution rules
+Mean or mode imputation ; Imputation
+Adjusted risk ratio [RR] ; Adjusted risk ratio
+Kaplan-Meier curve ; Kaplan-Meier curve
+Proc MIANALYZE in SAS ; MIANALYZE
+Log-rank test (stratified and unweighted) ; Log-rank test
+Interaction Parameters ; Interaction parameters
+Proportion assessment ; Proportion assessment
+95% confidence intervals ; Confidence intervals
+Two-sided significance level ; Significance level
+Constrained longitudinal data analysis (cLDA) ; Longitudinal data analysis
+Fixed effects (race and ethnicity, sex, state of residence, year) ; Fixed effects
+Two-group continuity corrected chi-square test ; Chi-square test
+Missing values ; Missing values
+Unstructured Covariance Structure ; Unstructured covariance
+Design Effect ; Design effect
+Effect size ; Effect size
+Meta-regression ; Meta-regression
+Tests of between-study heterogeneity ; Heterogeneity tests
+Cox proportional hazards models ; Cox models
+Mixed-model analytic approach ; Mixed-model analysis
+Normal distributional assumption ; Normality assumption
+ANCOVA (Analysis of Covariance) ; ANCOVA
+Weighting by inverse standard deviation ; Inverse standard deviation weighting
+Type I error consideration ; Type I error
+Two-group t-test with a two-sided significance level ; Two-group t-test
+Generalized linear model for binomial outcome with identity function ; Generalized linear model
+Type I error (alpha) ; Type I error
+Bootstrap confidence intervals ; Bootstrap intervals
+t test ; t-test
+Correlation structures ; Correlation structures
+Prespecified tests for superiority ; Tests for superiority
+Clustering within participants ; Clustering
+Risk Ratio (Relative Effect Measure) ; Risk Ratio
+Fine and Gray model for time-to-event data ; Fine and Gray model
+Linear mixed model with random coefficients ; Linear mixed model
+Percentage of maximum possible method ; Maximum possible method
+Linear regression models ; Linear regression
+T tests ; t-tests
+Repeated-measures mixed-effects linear regression model ; Repeated-measures regression
+Harmonic mean of person-time years ; Harmonic mean
+High-dimensional propensity-score algorithm ; Propensity-score algorithm
+Clustering of standard errors ; Clustering standard errors
+t-tests ; t-tests
+Stratified analysis (by Journal Citation Reports quartile) ; Stratified analysis
+Confidence interval calculation ; Confidence interval
+Generalized linear model for binomial outcome with log-link function ; Generalized linear model
+2-sample test of proportions ; Test of proportions
+Normal-normal hierarchical models ; Hierarchical models
+Imputation of missing data ; Imputation
+Sample size estimation ; Sample size estimation
+Cluster Size Sample Size Scenarios ; Cluster sample size
+Half-SD formula ; Half-SD method
+Cumulative incidence functions ; Cumulative incidence
+Imputation for missing data ; Imputation
+E-value assessment ; E-value
+Poisson regression ; Poisson regression
+Flexible parametric survival model ; Flexible survival model
+I² statistic for heterogeneity assessment ; I² statistic
+Efficacy analyses ; Efficacy analyses
+χ² test (Chi-squared test) ; Chi-squared test
+Relative risk comparison ; Relative risk
+Bayesian logistic-regression model ; Bayesian logistic regression
+Non-informative priors for mean effects ; Non-informative priors
+Hazard ratio calculation ; Hazard ratio
+Restricted cubic splines ; Restricted cubic splines
+Sample size calculation ; Sample size calculation
+Adjustment for sampling survey weights ; Survey weight adjustment
+Alpha-spending criteria ; Alpha-spending
+Multilevel Linear Mixed Model ; Linear Mixed Model
+Kaplan–Meier plots ; Kaplan–Meier
+Sample size determination ; Sample size determination
+Binary logistic regression ; Logistic regression
+Confidence intervals (95% confidence interval) ; CI
+Ordinal logistic-regression model ; Ordinal logistic regression
+Cox-proportional hazards model ; Cox model
+Hierarchical Condition Category risk scoring ; HCC risk scoring
+Within-group standard deviation (SD) ; Within-group SD
+Estimation of SpO2:FiO2 ratios from PaO2:FiO2 ratios ; SpO2:FiO2 estimation
+Generalized estimating equations ; GEE
+Compound symmetry covariance structure ; Compound symmetry
+Weighting for national representation and nonresponse bias ; Weighting
+Funnel plots ; Funnel plots
+Cox regression model (stratified) ; Stratified Cox model
+Subgroup-by-trial-group interactions ; Subgroup interactions
+Ranking based on median scores ; Median score ranking
+Modified generalized estimating equation analyses ; Modified GEE analyses
+Summation of scores across tests ; Score summation
+Proportional hazards assumption ; Proportional hazards
+Joinpoint regression ; Joinpoint regression
+Post hoc analyses ; Post hoc analyses
+Descriptive statistics (counts and percentages, medians and IQRs) ; Descriptive statistics
+Mixed-model repeated-measure analyses ; Mixed-model repeated measures
+Covariate inclusion in analyses ; Covariate inclusion
+Akaike information criterion ; AIC
+Linear Regression ; Linear regression
+Conditional Logistic Regression ; Conditional logistic regression
+Pattern-mixture models ; Pattern-mixture models
+Intraclass correlation coefficient ; ICC
+Natural logarithmic link function ; Log link function
+Schoenfeld residual plots ; Schoenfeld residuals
+descriptive statistics were reported. Aggregate and ; Descriptive statistics
+Multivariable generalized estimating equations ; Multivariable GEE
+Bayesian analyses ; Bayesian analyses
+Analysis of covariance (ANCOVA) ; ANCOVA
+2-sided α (alpha) level ; 2-sided alpha level
+Fisher exact test ;' Fisher''s exact test'
+Comparative analyses ; Comparative analyses
+Standardized mean differences ; Standardized mean differences
+2 × 2 factorial design analysis ; Factorial design analysis
+Bivariate binomial random effects meta-analysis ; Bivariate meta-analysis
+Model-based analysis ; Model-based analysis
+Mean percentage calculation ; Mean percentage calculation
+Sensitivity analysis ; Sensitivity analysis
+Agresti formula for confidence interval ; Agresti CI formula
+'Fisher''s exact test ';' Fisher''s exact test'
+Sensitivity analysis with censoring ; Sensitivity with censoring
+Mann-Whitney odds ; Mann-Whitney odds
+Trend analysis ; Trend analysis
+2-tailed P value ; 2-tailed P value
+Fixed effects modeling ; Fixed effects modeling
+Standardised Residuals ; Standardised residuals
+Mediator analysis (as planned, later modified) ; Mediator analysis
+Logistic-regression models ; Logistic regression
+MDRD equation ; MDRD equation
+Quantitative bias analyses ; Quantitative bias analyses
+Linear regression ; Linear regression
+Randomization ; Randomization
+Confidence intervals (95% CIs) ; CI
+χ² test ; Chi-square test
+Monte Carlo permutation method ; Monte Carlo permutation
+Model assumptions ; Model assumptions
+Interaction testing ; Interaction testing
+Range ; Range
+Repeated measures analysis ; Repeated measures
+Regression-switching approach ; Regression-switching
+Cluster randomized design ; Cluster randomized design
+Time-to-first-event analysis ; Time-to-event analysis
+Nonparametric ANCOVA ; Nonparametric ANCOVA
+Kruskal-Wallis rank sum test ; Kruskal-Wallis test
+Multiple comparisons analysis ; Multiple comparisons
+Specificity ; Specificity
+Subgroup analysis ; Subgroup analysis
+Hazard ratio estimation ; Hazard ratio estimation
+Interaction effects ; Interaction effects
+Rate of outcome events per 1000 patient-years ; Rate per 1000 patient-years
+Power analysis for detecting differences in means and standard deviations ; Power analysis
+Generalised linear mixed model ; GLMM
+Identity link function ; Identity link function
+Skindex-29 score analysis ; Skindex-29 analysis
+Kaplan–Meier method ; Kaplan–Meier
+Mann-Whitney-Wilcoxon test ; Mann-Whitney test
+Multivariable logistic regression ; Multivariable logistic regression
+Missing data imputation ; Missing data imputation
+Linear mixed models ; Linear mixed models
+Data collapsing ; Data collapsing
+Mean differences with 95% confidence intervals ; Mean differences CI
+Modified intention-to-treat (mITT) analysis ; mITT analysis
+Incidence ; Incidence
+Estimation of absolute benefits and harms ; Absolute benefits and harms estimation
+Two-sided 95% confidence interval ; Two-sided CI
+Prespecified adjustment for covariate ; Prespecified covariate adjustment
+Bootstrapping ; Bootstrapping
+Complier average causal effect ; Complier average causal effect
+Full analysis set ; Full analysis set
+Model-based imputation ; Model-based imputation
+Farrington-Manning test ; Farrington-Manning test
+Calculation of 95% confidence intervals ; CI calculation
+Adjusted risk difference ; Adjusted Risk Difference
+Odds ratios with 95% confidence intervals ; Odds Ratios
+Sensitivity analysis for albuminuria levels ; Sensitivity Analysis
+Aggregate data analysis ; Aggregate Data Analysis
+Adjustment for covariates in models ; Covariate Adjustment
+Aggregate measures analysis ; Aggregate Measures Analysis
+Assessment of Schoenfeld residuals ; Schoenfeld Residuals Assessment
+Deviations from the missing-at-random assumption ; MAR Deviations Analysis
+Interaction term analysis ; Interaction Term Analysis
+Imputation ; Imputation
+Key secondary outcome ; Key Secondary Outcome
+Adjusted Mean Differences ; Adjusted Mean Differences
+Wald-type approximate 95% confidence intervals ; Wald Confidence Intervals
+Covariate adjustment ; Covariate Adjustment
+Categorical analysis ; Categorical Analysis
+Assessment of proportionality using log-minus-log plots ; Proportionality Assessment
+One-sided significance level ; One-sided Significance Level
+Multiple imputation for missing values ; Multiple Imputation
+1-sided 95% Confidence Interval (CI) ; One-sided CI
+Two-sided testing ; Two-sided Testing
+Repeated-measures Poisson regression ; Repeated-Measures Poisson Regression
+Adjusted mean comparisons ; Adjusted Mean Comparisons
+Sensitivity Analyses ; Sensitivity Analyses
+Win ratio (Generalized odds ratio) ; Win Ratio
+Post hoc subset analyses ; Post Hoc Analyses
+Pattern mixture models ; Pattern Mixture Models
+'Rubin''s algorithm for multiple imputation ';' Rubin''s Algorithm'
+Confidence intervals ; Confidence Intervals
+Pearson correlations ; Pearson Correlation
+Multiplicity ; Multiplicity
+Two-sided Tests ; Two-sided Tests
+χ2 (Chi-square) test ; Chi-square Test
+Hazard ratio assumption revision ; Hazard Ratio Assumption Revision
+Standard deviation ; Standard Deviation
+Type I error consideration due to multiple comparisons ; Type I Error Consideration
+Interim analyses ; Interim Analyses
+Bonferroni correction ; Bonferroni Correction
+Hierarchical analysis of endpoints ; Hierarchical Analysis
+Odds ratio calculation ; Odds Ratio Calculation
+Cause-specific mortality assessment ; Cause-specific Mortality Assessment
+t tests ; T Tests
+Within-participants effects ; Within-Participants Effects
+Use of SAS version 94 for data analysis ; SAS Data Analysis
+STATA for statistical analysis ; STATA Analysis
+Competing-risk model ; Competing-Risk Model
+Rate ratio estimation ; Rate Ratio Estimation
+Coefficient estimation ; Coefficient Estimation
+Generalised additive models ; Generalised Additive Models
+Two-sided significance level setting ; Two-sided Significance Level
+Doubly robust weighted least squares estimator ; Doubly Robust Estimator
+Absolute values and change from baseline analysis ; Change From Baseline Analysis
+Group comparison ; Group Comparison
+Treatment of skewed data ; Skewed Data Treatment
+Unadjusted linear mixed model ; Unadjusted Linear Mixed Model
+Fully conditional specification imputation ; Fully Conditional Specification
+Kryger Jensen and Lange test ; Kryger Jensen and Lange Test
+Treatment of ordinal variables as continuous ; Ordinal to Continuous Conversion
+Modified intention-to-treat analysis ; Modified Intention-to-Treat Analysis
+Chained equations ; Chained Equations
+Exact McNemar’s test ; McNemar’s Test
+Confidence interval (CI) estimation ; Confidence Interval Estimation
+Summary receiver operator characteristic (ROC) curves ; Summary ROC Curves
+Per-protocol Analysis ; Per-protocol Analysis
+Negative binomial model ; Negative Binomial Model
+Hartung-Knapp-Sidik-Jonkman confidence interval correction ; HKSJ CI Correction
+Relative difference estimation ; Relative Difference Estimation
+Estimation from median and interquartile range ; Median and IQR Estimation
+SAS (Statistical Analysis Software) for data analysis ; SAS Analysis
+Progression-free survival percentage comparison ; Progression-Free Survival Comparison
+Clustering ; Clustering
+Effect sizes with 95% confidence intervals ; Effect Sizes
+Geometric mean concentrations and ratios ; Geometric Means
+95% CIs (Confidence Intervals) ; 95% CIs
+Bias-corrected and accelerated bootstrap resampling ; BCa Bootstrap
+Two-tailed alpha level ; Two-tailed Alpha Level
+Sample size determination for phase 1 studies ; Sample Size Determination
+Unadjusted log-rank tests ; Unadjusted Log-Rank Tests
+Two-sided tests of superiority ; Two-sided Superiority Tests
+Random walk Metropolis-Hastings algorithm with Gibbs updates ; Metropolis-Hastings Algorithm
+Bayesian analysis ; Bayesian Analysis
+One-way ANOVA Method ; One-way ANOVA
+Number needed to treat ; Number Needed to Treat
+Kaplan-Meier method ; Kaplan-Meier Method
+Use of R software ; R Software Analysis
+Mann-Whitney U test ; Mann-Whitney U Test
+Contrast analysis ; Contrast Analysis
+Confidence interval (CI) calculation ; Confidence Interval Calculation
+Noninferiority margin determination ; Noninferiority Margin
+Clustered Design ; Clustered Design
+Score test for proportionality assumption ; Score Test for Proportionality
+Fisher’s exact test ; Fisher’s Exact Test
+Least-squares means (LSMs) and 90% confidence intervals (CIs) ; Least-squares Means
+Reporting of two-sided 95% confidence intervals ; Two-sided 95% CIs Reporting
+Time-to-first-event rates ; Time-to-First-Event Rates
+Fixed effects ; Fixed Effects
+Rubin’s formula for confidence intervals ; Rubin’s Confidence Intervals
+Competing-risk events ; Competing-Risk Events
+Testing of proportional hazards using Schoenfeld residuals ; Proportional Hazards Testing
+Relative risks estimation ; Relative Risks Estimation
+Linear regression (for QTcF value assessment) ; Linear Regression
+Post hoc analysis ; Post hoc analysis
+Repeated measures ; Repeated measures
+Adjusted mean between-group difference ; Adjusted mean difference
+Mixed models for repeated measures ; Mixed models
+Modified ridit scores ; Ridit scores
+Prespecified subgroup analyses ; Subgroup analyses
+Cox proportional hazards model ; Cox model
+Two-sided χ² test ; Chi-square test
+Modified Poisson Regression Model ; Poisson regression
+Estimated relative risk ; Relative risk
+Alpha level (significance level) ; Alpha level
+Intention-to-treat (ITT) analysis ; Intention-to-treat analysis
+Sandwich estimator ; Sandwich estimator
+Calculation of relative risks (RR) with 95% confidence intervals (CIs) ; Relative risk calculation
+Risk difference estimation ; Risk difference estimation
+Cox model ; Cox model
+Multilevel Log-binomial Regression Models ; Log-binomial regression
+Finkelstein-Schoenfeld hierarchical composite endpoint ; Composite endpoint
+P value determination ; P value determination
+Poisson distribution ; Poisson distribution
+Logistic regression with logit link ; Logistic regression
+Markov chain Monte Carlo method ; Markov chain Monte Carlo
+Fully conditional specification ; Fully conditional specification
+Time-to-event outcomes ; Time-to-event analysis
+Covariates ; Covariates
+Repeated measures design ; Repeated measures design
+Statistical analyses ; Statistical analysis
+Pairwise comparisons ; Pairwise comparisons
+Leave-one-out site analysis ; Leave-one-out analysis
+Statistical analysis ; Statistical analysis
+Use of “survival” R package ; Survival analysis
+Absolute risk reduction ; Absolute risk reduction
+Exact binomial test ; Binomial test
+Cluster-level summaries ; Cluster summaries
+Per-protocol analyses ; Per-protocol analysis
+Informative priors for heterogeneity ; Informative priors
+Binomial confidence intervals ; Binomial intervals
+Robust Standard Errors ; Robust errors
+Power calculation ; Power calculation
+Cox proportional-hazards model ; Cox model
+Wald standard error ; Wald error
+Empirical Bayes shrinkage estimator ; Empirical Bayes estimator
+Two-tailed t-test ; T-test
+Dichotomisation of responses ; Dichotomisation
+Hazard ratios (HR) ; Hazard ratios
+Safety analysis assuming binomial distributions ; Safety analysis
+Cubic splines ; Cubic splines
+Propensity scores ; Propensity scores
+Standard χ² tests for heterogeneity ; Chi-square tests for heterogeneity
+Cochran-Mantel-Haenszel method ; Mantel-Haenszel method
+Intention-to-treat principle ; Intention-to-treat analysis
+Last observation carried forward (LOCF) ; LOCF
+Mean ± standard deviation ; Mean and standard deviation
+Unconditional logistic regression ; Logistic regression
+Use of “epitools” R package ; Epitools analysis
+Joint models ; Joint modeling
+Cox regression analysis ; Cox regression
+Exploratory analysis ; Exploratory analysis
+Cox models ; Cox model
+Covariates adjustment ; Covariate adjustment
+Frequency calculation ; Frequency calculation
+Age standardisation ; Age standardisation
+Mixed model ; Mixed model
+Predefined subgroup analysis ; Subgroup analysis
+Mean ; Mean
+Categorical variables ; Categorical variables
+Confidence intervals (CIs) ; Confidence intervals
+Interim analysis ; Interim analysis
+Meta-analysis ; Meta-analysis
+Egger’s test ; Egger’s test
+Event rate calculation ; Event rate calculation
+Two-tailed tests ; Two-tailed tests
+χ2 tests ; Chi-square tests
+Estimation of mean and SD from median and IQR ; Mean and SD estimation
+Logistic regression for binary outcomes ; Logistic regression
+Unpaired t-tests ; T-tests
+Proc GENMOD in SAS ; GENMOD analysis
+Mixed-effects linear regression modeling ; Mixed-effects regression
+Unstructured covariance structure and compound symmetric structure in statistical modeling ; Covariance structure modeling
+Two-sided alpha level ; Alpha level
+Composite outcome scoring ; Composite outcome scoring
+Intention to treat ; Intention-to-treat analysis
+χ2 test ; Chi-square test
+Type I error rate ; Type I error rate
+Generalised linear mixed models ; Generalized linear mixed models
+Kaplan-Meier estimates ; Kaplan-Meier estimates
+Coefficient of variation ; Coefficient of variation
+Marginal model for repeated measures analyses ; Marginal model for repeated measures
+Log-rank test ; Log-rank test
+Restricted maximum likelihood approach ; Restricted maximum likelihood
+Per-protocol analysis ; Per-protocol analysis
+Generalized estimating equation (GEE) model ; Generalized estimating equation
+Absolute number and relative frequency calculation ; Absolute and relative frequency calculation
+Summary data extraction ; Data extraction
+Average treatment effect estimation ; Treatment effect estimation
+Subgroup analyses ; Subgroup analyses
+Proc MI in SAS ; MI analysis
+Relative risks with 95% confidence intervals ; Relative risk with confidence intervals
+Median and interquartile range calculation ; Median and interquartile range calculation

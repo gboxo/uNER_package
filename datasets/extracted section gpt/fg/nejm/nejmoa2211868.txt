@@ -1,0 +1,14 @@
+- Power analysis
+- Intention-to-treat analysis
+- Per-protocol analysis
+- Linear regression
+- Bootstrap confidence intervals
+- Kryger Jensen and Lange test
+- Binary logistic regression
+- Adjustment for stratification variables
+- Predefined subgroup analysis
+- Logistic regression
+- Poisson regression
+- Hierarchical testing procedure
+- Statistical significance testing (P value)
+- Use of R software for statistical computing

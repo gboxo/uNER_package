@@ -1,0 +1,15 @@
+- Power calculation
+- Ordinal logistic regression
+- Common odds ratio
+- Proportional-odds logistic regression
+- Model-based analysis
+- Covariate Adjustment
+- Wald Confidence Intervals
+- Random effect adjustment
+- Imputation
+- Score Test for Proportionality
+- Win Ratio
+- Agresti CI formula
+- Subgroup interactions
+- Logistic regression
+- Fine and Gray model

@@ -1,0 +1,12 @@
+- Data collapsing
+- Linear regression
+- Continuous variable analysis
+- Fixed effects
+- Interaction terms
+- Coefficient Estimation
+- T-test
+- CI
+- Survey weight adjustment
+- Clustering standard errors
+- Type I error
+- Aggregate Measures Analysis

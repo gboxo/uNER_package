@@ -1,0 +1,54 @@
+tatistical analysis
+We did basic descriptive analyses of the responses
+to the questions on sociodemographics, health
+behaviours, and conspiracy beliefs. We dichotomised
+CAM and CAM-MYCS responses into “correct”
+(strongly agree/agree on CAM, strongly disagree/
+disagree on CAM-MYCS) and “incorrect” (unsure/
+disagree/strongly disagree on CAM, unsure/agree/
+strongly agree on CAM-MYCS) responses, which
+resulted in a total score of 0-11 for CAM and 0-12 for
+CAM-MYCS (1 point for each correct answer). We also
+added the dichotomised “correct”’ CAM and CAM-
+MYCS responses together, resulting in a 0-23 CAM-
+total score. We converted the scores to a “percentage
+correct” (0-100) score, using the percentage of
+maximum possible method. We classified responses
+on whether screening was recommended for certain
+types of cancer as correct if they were marked “yes”
+for breast, colorectal, and cervical cancers, according
+to current recommendations by the European Code of
+Cancer, and incorrect if they were marked “yes” for
+lung, ovarian, and prostate cancers.
+We did multivariable analyses of CAM, CAM-MYCS,
+and CAM-total by using quantile regression. We used
+unconditional logistic regression to do multivariable
+analyses of binary variables. We introduced missing
+values into the models as independent categories. We
+treated ordinal variables as continuous variables to
+test linear trends. Models were adjusted for covid-19
+vaccination (unvaccinated versus one dose or more),
+conspiracy beliefs (yes, no), preference for medicine
+(alternative, conventional), age (<25, 25-34, 35-44,
+and ≥45 years), sex (male, female, and non-binary),
+education level (below college level, at least college
+level), region (Europe, others), medical occupation (no,
+yes), body mass index (body mass index <25, 25-29.9,
+and ≥30), regular alcohol intake (no, yes), smoking
+(never, ever), personal history of cancer (no, yes), and
+source of the survey (ForoCoches, cancer blog, 4Chan/
+Reddit/Hispachan/others). All tests were two tailed,
+with a significance level of 0.05. We used Stata version
+16.0 for all analyses and generated graphs by using
+R version 4.1.2. We obtained consent to participate
+by using the following sentence: “I understand the
+purpose of this study, and I grant consent to the use of
+my responses for the purposes of this study (Yes/No).”
+In total, 46 participants explicitly denied their consent
+to participate by clicking “No.” We calculated the
+sample size by using the previous CAM-total of Shahab
+et al.21 Assuming a one to four ratio, we needed at least
+290 (58:232) participants to detect a 15% two sided
+difference in the CAM-total score with 80% power and
+650 (130:520) participants to detect a 10% difference
+between the two groups.

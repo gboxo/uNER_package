@@ -1,0 +1,5 @@
+- Unpaired t-tests
+- Fisher exact test
+- Firth logistic regression
+- Bonferroni adjustment
+- 2-sample test of proportions

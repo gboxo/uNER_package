@@ -1,0 +1,17 @@
+- Intention-to-treat principle
+- Two-sided test
+- Constrained longitudinal data analysis (cLDA)
+- Analysis of covariance (ANCOVA)
+- Nonparametric ANCOVA
+- Multiple imputation
+- Regression-switching approach
+- Predictive mean matching
+- Logistic-regression models
+- Rubin’s rules
+- Last observation carried forward (LOCF)
+- Leave-one-out site analysis
+- Subgroup analyses
+- Linear mixed model with random coefficients
+- Kaplan–Meier method
+- Cox proportional-hazards model
+- Schoenfeld residual plots

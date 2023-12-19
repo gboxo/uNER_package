@@ -1,0 +1,41 @@
+Statistical Analysis
+The trial was designed to test the superiority of
+semaglutide to placebo with respect to the pri-
+mary end point and secondary confirmatory end
+point with the use of a hierarchical testing strat-
+egy (Table S1). Superiority with respect to the
+primary end point (defined as a two-sided P value
+of <0.05) was required before the secondary con-
+firmatory end point could be tested. A sample of
+192 participants provided 90% power to detect
+superiority with respect to the primary end point
+and 72% power to detect superiority with respect
+to the secondary confirmatory end point.
+Efficacy analyses were performed in the full
+analysis population (all participants who had un-
+dergone randomization) according to the inten-
+tion-to-treat principle. Safety end points were
+assessed in the safety analysis population (all
+participants who had undergone randomization
+and were exposed to at least one dose of sema-
+glutide or placebo). Observation periods included
+the in-trial period (the time from randomization
+to the last contact with a trial site, regardless of
+discontinuation of semaglutide or placebo or the
+use of rescue interventions [i.e., other medications
+for obesity or bariatric surgery]) and the on-treat-
+ment period (the time from the first dose of sema-
+glutide or placebo to 14 days after the last dose
+for efficacy analyses, or the time from the first
+dose to 49 days after the last dose for the safety
+analyses, excluding any temporary interruptions).
+For all estimated between-group differences,
+two-sided 95% confidence intervals were calcu-
+lated; P values are reported only for the primary
+end point and secondary confirmatory end point.
+Analyses of secondary supportive end points and
+exploratory end points were not controlled for
+multiplicity, and findings for these end points
+should not be used to infer definitive treatment
+effects. Statistical analyses were performed with
+the use of SAS software, version 9.4 (SAS Institute).

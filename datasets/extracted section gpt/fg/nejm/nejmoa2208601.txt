@@ -1,0 +1,8 @@
+- Hierarchical testing strategy
+- Intention-to-treat principle
+- Sample size determination for power (90% power, 72% power)
+- Two-sided P value
+- Confidence intervals (95% confidence interval)
+- Analysis of secondary supportive end points
+- Analysis of exploratory end points
+- SAS software (version 9.4) usage for statistical analysis

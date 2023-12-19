@@ -1,0 +1,17 @@
+- Sample size determination
+- Power calculation
+- Two-sided significance level setting
+- Intention-to-treat (ITT) analysis
+- Per-protocol analysis
+- Time-to-event analysis
+- Cox proportional hazards models
+- Subgroup analyses
+- Sensitivity analyses
+- Two-sided χ² test
+- Fisher's exact test
+- Calculation of relative risks (RR) with 95% confidence intervals (CIs)
+- Assessment of proportionality using log-minus-log plots
+- Assessment of Schoenfeld residuals
+- Use of R statistical software
+- Use of “survival” R package
+- Use of “epitools” R package

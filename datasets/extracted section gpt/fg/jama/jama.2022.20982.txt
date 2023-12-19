@@ -1,0 +1,12 @@
+- Demographic comparison
+- Co-morbidity assessment
+- Age- and sex-adjusted rates calculation
+- χ2 tests
+- t-tests
+- Linear regression models
+- Sociodemographic characteristic adjustment
+- Elixhauser comorbidity adjustment
+- Hospital fixed effects
+- Standardization of results
+- P value significance testing
+- Multiple comparisons analysis

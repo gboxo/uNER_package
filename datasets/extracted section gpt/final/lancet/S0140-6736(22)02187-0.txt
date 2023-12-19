@@ -1,0 +1,3 @@
+- Descriptive statistics
+- Aggregate Data Analysis
+- Group Comparison

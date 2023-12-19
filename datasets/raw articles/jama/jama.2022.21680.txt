@@ -1,0 +1,52 @@
+Statistical Analyses
+See Supplement 1 for the complete statistical analysis plan.
+A marginal model was fit for the repeated measures analyses.
+The model included the between-participant main effects of
+MBSR and exercise, their interaction, and the 2- and 3-way in-
+teractions between time and the between-participant ef-
+fects. Time (0, 3 [cognitive measures only], 6, and 18 months)
+was a within-participants effect with an unspecified covari-
+ance matrix due to uneven time intervals between visits.
+Site, age, and sex were included as covariates in the models.
+Clustering by site was accounted for because site was a factor
+in all primary and secondary outcome models.
+The primary test of effectiveness of each intervention was
+the change in the composite scores from baseline to 6 months
+in the participants randomized to undergo the intervention
+compared with those not receiving the intervention, as com-
+puted with the appropriate contrast (eg, MBSR vs no MBSR).
+The 2 × 2 factorial design was analyzed with the 2 main ef-
+fects of exercise (underwent exercise intervention vs did not
+undergo exercise) and MBSR (underwent MBSR intervention
+vs did not undergo MBSR).
+All randomized individuals were included in the primary
+analysis (Figure 1). Participants were analyzed according to their
+randomization group. A Bonferroni-adjusted 2-tailed signifi-
+cance level of .025 was used for each of the 2 primary out-
+comes. Effect sizes with 95% CIs for 6- and 18-month effects
+for all primary and secondary outcomes were computed. Be-
+cause of the potential for type I error due to multiple compari-
+sons, findings for analyses of secondary time points and sec-
+ondary outcomes should be interpreted as exploratory. The
+mixed-model analytic approach used is robust in accounting
+for missing data. Participants were included in the analytic
+model if they had data for at least 1 time point.
+Given neutral findings for the primary outcomes, the im-
+portance of post hoc analyses became clear. Subsequent per-
+protocol analyses were conducted, as were subgroup tests ex-
+amining changes in cognitive outcomes among those who
+showed the most vs the least change in the physiological and
+performance markers described above. The 2 per-protocol
+groups were defined post hoc based on examination of atten-
+dance data and home practice data: participants reporting
+home practice of their randomized intervention (MBSR or ex-
+ercise) on at least 70% of days and participants attending at
+least 70% of classes. Both groups also excluded individuals who
+participated in interventions to which they were not random-
+ized (Supplement 2). Additionally, given that the primary out-
+comes showed no intervention effect, the original plan to ex-
+amine MRI structural changes as part of a mediator analysis
+was modified: rather than examining MRI structural changes
+as mediators, they were analyzed as secondary outcomes. All
+analyses were conducted in SAS, version 9.4 (SAS Institute).
+

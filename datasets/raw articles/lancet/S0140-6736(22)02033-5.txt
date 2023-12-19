@@ -1,0 +1,67 @@
+Statistical analysis
+We planned to enrol approximately 80 people so that
+approximately 13 participants per cohort would complete
+the study. This sample size is typical for phase 1 studies
+evaluating safety, pharmacokinetic, or pharmacodynamic
+parameters and was considered sufficient to evaluate the
+primary outcome of this study, which was safety and
+tolerability. Regarding pharmacodynamics, the sample
+size of nine in each treatment group of LY3437943 and
+15 in the pooled placebo group provided more than
+80% power to detect a placebo-adjusted difference in
+means of 1·4% for HbA1c change from baseline at week 12,
+assuming a common standard deviation of 1·1 using a
+two group t-test with a 10% two-sided significance level.
+This approach also had more than 90% power to detect a
+placebo-adjusted difference in mean bodyweight change
+from baseline of 7 kg at week 12, assuming a common
+standard deviation of 3 kg using a two group t-test with a
+10% two-sided significance level. The safety population
+consisted of all participants who received at least one dose
+of study drug, whether or not they completed all protocol
+requirements. Pharmacodynamics and pharmacokinetics
+were assessed in all patients who received at least
+one dose of study drug and had evaluable data
+(pharmacokinetic and pharmacodynamic population).
+We applied an intention-to-treat principle to the statistical
+analysis, so the analyses were completed using the
+planned treatment groups for the participants, instead of
+the actual treatment assignments.
+An efficacy estimand was used for pharmacodynamic
+measures, defined as the average treatment effect of
+LY3437943 relative to placebo or dulaglutide 1·5 mg at
+12 weeks in the participants who were randomly assigned
+had they remained on their randomised treatment for the
+entire planned 12 weeks’ treatment duration.21 Regarding
+participant drop-outs, we assumed hypothetically that all
+the participants would remain on their randomised
+treatment for the entire planned treatment duration. By
+making this assumption, we exclude all the data points
+after the treatment discontinuation before doing the
+mixed-model repeated-measure analyses, a likelihood-
+based estimation method. Absolute values, as well as
+change from baseline in each parameter, were analysed
+using a mixed-model repeated-measure model to evaluate
+treatment effects, and to perform treatment comparisons.
+The model included treatment, timepoint (of measure­
+ment), and treatment-by-timepoint interaction as fixed
+effects and patient as a random effect. Baseline values
+were used as a covariate in the change from baseline
+analysis. Differences between each LY3437943-treated
+group and the placebo group were estimated. Patients
+who received placebo and dulaglutide 1·5 mg were pooled
+across all cohorts. Least-squares means (LSMs) and
+90% CIs are reported. An unstructured covariance
+structure was used primarily; a compound symmetric
+structure was used if the model failed to converge.
+Pharmacokinetic dose proportionality was explored by
+use of log-transformed Cmax and AUC of LY3437943 within
+a power model (with the log-dose acting as an explanatory
+variable) to estimate ratios of dose-normalised geometric
+means and corresponding 90% CIs. The estimated ratio
+of dose-normalised geometric means of pharmacokinetic
+parameters between the highest and lowest doses was
+used to assess dose proportionality.
+Analyses were completed using SAS version 9.4. The
+study is registered at ClinicalTrials.gov, NCT04143802.
+

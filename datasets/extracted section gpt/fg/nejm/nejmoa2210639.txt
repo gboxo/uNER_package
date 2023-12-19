@@ -1,0 +1,16 @@
+- Power analysis
+- Alpha level (significance level)
+- Effect size
+- Standard deviation
+- Intention-to-treat principle
+- Confidence intervals
+- Repeated-measures mixed-effects linear regression model
+- Compound symmetry covariance structure
+- Sensitivity analyses
+- Pattern-mixture models
+- Joint models
+- CKD-EPI 2009 equation
+- MDRD equation
+- Poisson regression model with robust standard errors
+- Cox proportional-hazards model
+- Prespecified subgroup analyses

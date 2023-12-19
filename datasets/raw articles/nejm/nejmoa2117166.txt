@@ -1,0 +1,60 @@
+Statistical Analysis
+The sample-size calculation is provided in the
+Supplementary Appendix. With the assumption
+that at 72 weeks after randomization 50% of the
+patients in the standard-care group and 45% of
+those in the investigational groups would have
+an unfavorable outcome event, we determined that
+a sample of 181 patients per group in trial stage 2
+would provide the trial with approximately 85%
+power to detect a noninferiority margin of 12
+percentage points. An alpha level of 1.7% (equiv-
+alent to a two-sided 96.6% confidence interval)
+was chosen to allow for both the adaptive nature
+of the design and the multiple comparisons of
+up to three groups. The estimated sample was
+increased to 201 patients per group to allow for
+patients who could not be evaluated. A noninfe-
+riority margin of 12 percentage points as the
+upper boundary of the confidence interval was
+determined to be a reasonable clinical and pub-
+lic health trade-off limit, given the benefits of a
+shorter treatment duration, decreased pill bur-
+den and regimen cost, and the all-oral nature of
+the investigational regimens. This noninferiority
+margin was congruent with that in recent trials
+involving patients with drug-resistant tuberculo-
+sis in which the noninferiority margin was 10 to
+12 percentage points.7,8
+The efficacy outcomes were analyzed in the
+intention-to-treat, modified intention-to-treat,
+and per-protocol populations, and the safety out-
+comes were analyzed in the as-treated popula-
+tion. Binary outcomes were summarized with
+absolute risk differences (with the use of a gen-
+eralized linear model for a binomial outcome
+with an identity function) and risk ratios (with
+the use of a generalized linear model for a bino-
+mial outcome with a log-link function). Adjust-
+ment for randomization site was planned in all
+analyses. For the primary efficacy and safety
+outcomes, corresponding two-sided 96.6% con-
+fidence intervals were reported for effect esti-
+mates, and two-sided 95% confidence intervals
+were reported for secondary efficacy outcomes.
+The secondary outcomes were not adjusted for
+multiplicity. Prespecified subgroup analyses were
+conducted for the primary efficacy outcome. For
+binary safety outcomes, risk differences are re-
+ported with the use of the same approach as that
+described above. For the safety outcome of the
+QTcF value at 24 weeks, the difference in the
+mean value in each investigational group from
+the mean value in the standard-care group was
+assessed with adjustment for baseline QTcF val-
+ues and with the use of linear regression.
+Additional analyses of safety and efficacy were
+conducted in the BPaLC and BPaL groups with
+the use of the same approach but with two-sided
+95% confidence intervals. Additional details are
+provided in the Supplementary Appendix.

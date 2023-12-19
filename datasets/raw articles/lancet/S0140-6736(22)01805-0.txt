@@ -1,0 +1,121 @@
+Statistical analysis
+The trial had 80% power to detect a 20% hazard rate
+reduction in the primary composite outcome, corres­
+ponding to a hazard ratio of 0·80; a 2-sided α=0·04 was
+used to control the Type I error rate, and variability in
+cluster sizes was accounted for by using the harmonic
+mean of person-time years (assuming a baseline rate of
+9·5 events per 100 patient-years and a coefficient of
+variation of 0·216; appendix p 33).7,19 For the key secondary
+outcome, the trial had 84% power to detect a 4 mm Hg
+between-group difference in the mean drop in systolic
+blood pressure; a 2-sided α=0·01 was chosen to control the
+Type I error rate (assuming SD of 7·2, a constant
+conservative intraclass correlation coefficient of 0·4, and an
+average drop across all centres and periods of 28 mm Hg).7
+Patients aged 18 years or older entered the trial for
+follow-up analysis once they received outpatient
+maintenance haemodialysis at a trial centre for at least
+90 days. The 90-day rule was applied to avoid including
+patients who received haemodialysis on a temporary basis
+for indications such as acute kidney injury or drug
+overdose. Patients met the criteria for trial entry either on
+April 3, 2017, or during the ensuing 4-year trial period. The
+primary analysis used an intention-to-treat approach, such
+that all outcomes were attributed to the centre in which
+the patient entered the trial (the index centre), regardless
+of whether the patient transitioned to another kidney
+replacement therapy (eg, home dialysis or kidney
+transplantation), transferred to another haemodialysis
+centre (where they would then receive the dialysate
+temperature procedure of the new centre), or whether
+they opted out or had other reasons to be non-adherent to
+the randomly assigned dialysate temperature in follow-up.
+If cooler dialysate prevents intradialytic injury to the heart
+and other organs, its benefit might extend after it is
+received.
+The referent group in comparative analyses was
+standard temperature dialysate. We assessed the sub-
+distribution hazard ratio of the primary outcome using
+multivariable generalised estimating equations to account
+for the clustering of patient outcomes within centres and
+the competing risk of non-cardiovascular death.22,23
+The model accounted for the randomisation approach
+by adjusting for the covariates constrained in the random­
+isation (appendix p 26). We tested model assumptions
+(appendix p 34). We examined the robust­
+ness of the
+primary outcome result in six prespecified sensitivity
+analyses (as-treated, which accounted for trans­itions to
+different types or locations of kidney replacement therapy
+in follow-up; non-cardiovascular death treated as a
+censoring event; treating other events, such as receipt of a
+kidney transplant or switching to home dialysis, as
+competing-risk events; considering hospital admissions
+for myocardial infarction, ischaemic stroke, or congestive
+heart failure as recurrent events; accounting for additional
+censoring events such as receiving a kidney transplant or
+switching to home dialysis in the cause-specific hazard
+model; and not adjusting for covariates constrained
+in the randomisation [unadjusted]). We conducted two
+prespecified subgroup analyses of the primary outcome
+(pre-existing cardiovascular disease [yes vs no] and trial
+entry date [on April 3 vs after April 3, 2017]) and seven post-
+hoc subgroup analyses.
+We assessed the between-group difference in the key
+secondary outcome (the mean drop in intradialytic
+systolic blood pressure) using an unadjusted linear mixed
+model on the cluster-period summaries, account­ing for
+repeated measures at the cluster level over time.24 It was
+not necessary to account for repeated measures at the
+patient level in these cluster-level analyses. We also used
+this method to analyse the between-group difference in
+five measures of intradialytic hypotension (appendix
+p 31).24 We explored different correlation structures to
+account for the longitudinal aspect of the data,
+including unstructured, compound symmetry, variance
+components, and auto-regressive (AR[1]) correlation
+structures. Our model failed to converge when using an
+unstructured covariance matrix. We explored the impact
+of the period as a fixed effect, where the period variable
+was treated as a continuous variable, a categorical
+variable, or removed from the model. After running
+all model explorations, the lead statistician
+(Stephanie N Dixon; independently and blinded to the
+results) chose the best model based on rule of parsimony,
+overall meaning for trial design and data collection
+methods, and model fit statistics (Akaike information
+criterion and Bayesian information criterion). Using
+these methods, our selected model had a categorical
+fixed-period variable and an autoregressive(1) covariance
+structure.
+We analysed the other secondary and additional time-to-
+event outcomes with the same approach as used for the
+primary outcome. Death (or non-cardiovascular-related
+death) was treated as a competing-risk event in these
+analyses when not part of the outcome. We analysed the
+between-group differences in all-cause emergency
+department visits or hospital admissions using a negative
+binomial model relevant for count data while adjusting for
+clustering of dialysis centres with generalised estimating
+equations and using the log of time as an offset. Between-
+group differences in patient-reported symptoms are
+reported as relative risks obtained from a model with a
+binomial distribution and log link function using
+a generalised estimating equations approach and a
+sandwich estimator to account for clustering of dialysis
+centres.
+In accordance with prespecified alpha-spending
+criteria,19 analyses of the primary composite outcome
+(including additional and subgroup analyses) are
+presented with 96% CIs, and analyses of blood pressure
+outcomes are presented with 99% CIs. Once alpha was
+spent, there was no allowance for multiplicity and
+inferences might not be reproducible; no other p values
+are reported. Other outcomes are presented with either
+95% or 99% CIs.
+All analyses were done in SAS, version 9.4. An
+independent data safety and monitoring committee met
+five times during the trial period and decided not to do any
+interim analyses of outcomes. The study is registered with
+ClinicalTrials.gov, NCT02628366.

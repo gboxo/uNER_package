@@ -1,0 +1,6 @@
+- χ2 test
+- Per-protocol analysis
+- Post hoc subset analyses
+- R statistical computing system (used for analyses)
+- 2-tailed P value
+- Type I error consideration due to multiple comparisons

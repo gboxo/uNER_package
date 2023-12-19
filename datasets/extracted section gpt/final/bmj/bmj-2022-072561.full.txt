@@ -1,0 +1,9 @@
+- Descriptive analyses
+- Dichotomisation
+- Maximum possible method
+- Quantile regression
+- Logistic regression
+- Ordinal to Continuous Conversion
+- Covariate Adjustment
+- Two-tailed tests
+- Sample size calculation

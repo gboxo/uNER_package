@@ -1,0 +1,12 @@
+- McNemar’s test
+- Power analysis
+- Alpha level
+- Intention-to-treat analysis
+- Confidence Intervals
+- Subgroup analyses
+- Post hoc analysis
+- McNemar’s Test
+- Multiple imputation
+- Markov chain Monte Carlo
+- ANCOVA
+- Skindex-29 analysis

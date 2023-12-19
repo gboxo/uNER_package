@@ -1,0 +1,9 @@
+- Descriptive analyses
+- Dichotomisation of responses
+- Percentage of maximum possible method
+- Multivariable quantile regression
+- Unconditional logistic regression
+- Treatment of ordinal variables as continuous
+- Adjustment for covariates in models
+- Two-tailed tests
+- Sample size calculation

@@ -1,0 +1,83 @@
+Statistical Analysis
+Primary Outcomes
+Participants were analyzed as randomized regardless of inter-
+vention adherence. Prior to unblinding, we modified the
+original primary analytic plan, replacing the ANCOVA with
+mixed-effects linear regression modeling,29(pp189-240) a more
+state-of-the-art approach because of its robustness to data
+missing at random.29(pp105-141),30 As is standard with this ap-
+proach, the models use an individual’s weight or SF-12 PCS
+measured at either time point as the outcome, using all avail-
+able data. Thus, participants could contribute up to one
+12-month outcome and up to 1 baseline measure. Models in-
+cluded terms representing the effects of time point, interac-
+tion between treatment and time, and randomization strata.
+Random effects accounted for within-person correlation.
+We omitted the treatment group main effect. The treatment
+effect estimate is based on the intervention’s interaction
+with the primary end point. This approach is justified by
+the study’s large sample and randomized block design,
+which promotes outcome equality at baseline.29(pp105-141),30
+We did not account for clustering because the intervention
+was self-directed.
+Secondary Outcomes
+For prespecified secondary analyses of 12-month outcomes,11
+including dichotomized IPAQ scores and HbA1c concentra-
+tion, we used linear mixed models, with the same model speci-
+fication as used for coprimary outcome models. For 24-
+month outcomes, we prespecified linear mixed models that
+mirrored 12-month models. However, after identifying sub-
+stantial missing data during model preparation (but before run-
+ning the 24-month analyses), we specified models that in-
+cluded available data from all 3 time points and adjusted for
+whether the outcome was measured after the COVID-19 pan-
+demic began, because the pandemic affected use of VA and
+weight-related care7 (hence EHR data availability), and health
+behaviors.31,32 The 24-month models were run following the
+12-month analyses.
+We estimated means and standard deviations for continu-
+ous variables and frequencies for categorical variables to de-
+scribe weight-related care, stratified by treatment group. We
+also report descriptive statistics for intervention engagement
+among intervention participants.
+Post Hoc Analyses
+For weight and SF-12 PCS, we examined missingness rates
+and distributions at baseline by treatment group, between
+those with and without 12- and 24-month data. The missing-
+at-random assumption was evaluated for informative miss-
+ingness using plots, which display baseline distributions for
+completers (baseline and 12-month, and baseline and
+24-month) vs noncompleters (baseline-only).33 When data
+were not informatively missing per plots, the missing-at-
+random assumption was deemed appropriate. When miss-
+ingness was substantial or differed between groups, we
+evaluated characteristics associated with missingness and
+adjusted for available covariates in sensitivity analyses.34 If
+data were then deemed informatively missing, we fit pattern
+mixture models.
+In exploratory analyses, we performed interaction test-
+ing to examine whether treatment effects on the coprimary out-
+comes differed by sex. As is standard practice for a conserva-
+tive estimation of interaction testing, both outcome models
+included main effects for sex and intervention, and interven-
+tion by sex interaction terms. Otherwise, we used the base lin-
+ear mixed model for the SF-12 PCS. For weight, we used mul-
+tiple linear regression with an outcome of percent change from
+baseline weight to better estimate clinical meaningfulness of
+effects in females vs males. Absolute weight was not used for
+this assessment because females with obesity have smaller
+baseline weights (eg, female participants had lower baseline
+weights than male participants in the prior trial testing this
+intervention),8 so they would likely lose less absolute weight,
+which might lead to an incorrect conclusion that the interven-
+tion is less effective for females.
+To assess sensitivity of the primary analysis to choice of
+baseline weight, we estimated the model using EHR-
+recorded weights closest to randomization when available.
+Analyses were conducted with R version 4.1.2. Copri-
+mary outcomes used a 2-sided significance level of α = .025;
+all other comparisons used a 2-sided significance level of
+α = .05. Because of potential type I error from multiple com-
+parisons, findings from secondary analyses should be consid-
+ered exploratory.
+

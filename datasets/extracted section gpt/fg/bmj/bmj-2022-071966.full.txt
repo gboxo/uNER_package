@@ -1,0 +1,30 @@
+- Frequentist approach
+- Random effects model (DerSimonian and Laird)
+- Relative risks with 95% confidence intervals
+- Mean differences with 95% confidence intervals
+- Estimation from median and interquartile range
+- Estimation of SpO2:FiO2 ratios from PaO2:FiO2 ratios
+- Design effect accounting for cluster randomized controlled trials
+- I^2 statistic for heterogeneity assessment
+- Intention-to-treat analysis
+- Bayesian analyses
+- Informative priors for heterogeneity
+- Non-informative priors for mean effects
+- Bayesian random effects meta-analysis
+- Normal-normal hierarchical models
+- Random walk Metropolis-Hastings algorithm with Gibbs updates
+- Markov chain Monte Carlo sampling
+- Gelman-Rubin diagnostic
+- Centile based 95% credible intervals
+- Trial sequential analysis
+- Subgroup analyses
+- Sensitivity analyses
+- Restricted maximum likelihood approach
+- Hartung-Knapp-Sidik-Jonkman confidence interval correction
+- Meta-regression
+- Funnel plots
+- Egger’s test
+- STATA for statistical analysis
+- Trial sequential analysis software
+- Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach
+- Certainty of evidence classification

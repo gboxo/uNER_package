@@ -1,0 +1,10 @@
+- Matching (Case-control matching)
+- Conditional Logistic Regression
+- Student’s t-test
+- Mann-Whitney U test
+- Kruskal-Wallis rank sum test
+- χ2 (Chi-square) test
+- Profile Likelihood Method
+- Bootstrapping
+- Linear Regression
+- Mann-Whitney-Wilcoxon test

@@ -1,0 +1,25 @@
+- Sample size calculation
+- Two-tailed alpha level
+- Incidence rate ratio
+- Adjusted mean between-group difference
+- Intention-to-treat analysis
+- Prespecified adjustment for covariate
+- Generalized estimating equations
+- Independent correlation structure
+- Clustering within participants
+- Poisson distribution
+- Natural logarithmic link function
+- Normal distributional assumption
+- Identity link function
+- Bonferroni correction
+- Covariate inclusion
+- As-treated population analysis
+- Modified generalized estimating equation analyses
+- Random effects
+- Estimated relative risk
+- Dichotomous outcome analysis
+- Confidence intervals
+- Missing data imputation
+- Fully conditional specification imputation
+- Model-based imputation
+- Fisher’s exact test

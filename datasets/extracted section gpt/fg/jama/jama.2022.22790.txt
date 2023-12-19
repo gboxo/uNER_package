@@ -1,0 +1,9 @@
+- Trend analysis
+- Cox-Stuart trend test
+- Multivariable logistic regression
+- Linear regression
+- Logistic regression
+- T tests
+- Stratified analyses
+- Sensitivity analyses
+- Weighting for national representation and nonresponse bias

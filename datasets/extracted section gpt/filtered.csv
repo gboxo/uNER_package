@@ -1,0 +1,500 @@
+,Two-sided p values
+0,κ (kappa) statistics with Fleiss-Cohen weights
+2,Repeated-measures analysis
+3,Bootstrapped (Cluster Resampling with Replacement) 95% CIs
+4,Score method
+5,Linear multivariable regression model
+6,"Sample size determination for power (90% power, 72% power)"
+7,Kaplan-Meier curves
+8,Weighted binomial regression
+9,Rubin’s rules
+10,Bonferroni adjustment
+11,Repeated-measures mixed linear model
+12,Least squares regression
+14,Wilcoxon rank-sum test
+15,Kaplan-Meier product limit estimator
+16,"Adjustment for confounders (region of residence, place of birth, calendar time)"
+18,Intention-to-treat analysis
+20,Intention-to-treat principle for statistical analysis
+21,Two-sided test
+22,Log-binomial regression
+23,Type I error rate consideration
+24,Stratified analyses
+25,Random effects (random intercept)
+26,Sub-distribution hazard ratio
+28,χ² test for trend
+30,Intraclass Correlation Coefficient
+32,95% Confidence Intervals (CIs)
+35,Clopper-Pearson method
+37,Trial sequential analysis
+38,Multiple linear regression
+39,Cause-specific hazard model
+40,Predictive mean matching
+41,Dichotomous outcome analysis
+42,Categorical variables as absolute and relative frequencies
+43,Propensity score weighting
+44,Random effects model (DerSimonian and Laird)
+45,Adjustment for stratification variables
+46,Log relative risk (RR) estimation
+47,Bayesian random effects meta-analysis
+48,Multivariate Normal Distribution
+50,P value significance testing
+51,Adjusted Cox proportional-hazards models
+52,Complete-case analysis
+55,Sample-size calculation
+57,Student’s t-test
+60,Log(–log) plots
+62,Relative risks
+63,Hierarchical testing procedure
+64,Modified per-protocol analysis
+65,Statistical significance testing (P value)
+67,Common odds ratio
+68,Autoregressive(1) covariance structure
+70,Multiple imputation
+73,Markov chain Monte Carlo sampling
+74,Analysis of variance with primary care physicians
+76,McNemar’s test
+78,Median
+79,Time-varying covariate
+80,Non-inferiority analysis
+81,Maximum likelihood estimation
+82,Overlap weights
+83,Descriptive analyses
+84,Power Calculations
+85,Recurrent event analysis
+86,Two-sample t-test
+87,Power calculations
+89,Continuous variable analysis (income-to-poverty ratio)
+91,Sensitivity analyses
+92,Centile based 95% credible intervals
+95,Random effects
+97,Gelman-Rubin diagnostic
+98,Elixhauser comorbidity adjustment
+99,Kaplan-Meier plots
+100,Negative predictive value
+102,P value correction (for interim analyses)
+104,Profile Likelihood Method
+105,Standardization of results
+106,Interaction terms in regression
+107,Generalized-estimating-equations model
+108,Log-transformed Cmax and AUC (Area Under the Curve) for dose-normalized geometric means
+110,Two-sided tests
+112,Point estimates with 95% confidence intervals
+115,Proportional-odds logistic-regression model for ordered categorical data
+116,Ageand sex-adjusted rates calculation
+117,CKD-EPI 2009 equation
+119,Multiple imputation methods
+123,Modified continual reassessment methods
+124,Two-sided P value
+125,Adjusted mean (SE) presentation
+126,Heterogeneity Tests
+127,Sociodemographic characteristic adjustment
+128,Incidence rate ratio
+129,Hazard ratio
+130,Between-participant main effects
+131,Cox-Stuart trend test
+132,Random effect adjustment
+133,Firth logistic regression
+134,Covariance matrix
+135,Primary composite outcome
+136,Frequentist approach
+137,Validly randomly assigned population analysis
+138,Independent correlation structure
+139,Reporting of two-sided 96.6% confidence intervals
+140,Censored data
+141,Descriptive statistics
+142,Covariate inclusion
+145,Power analysis
+146,Laplace approximation
+147,Interaction term testing for non-proportionality of hazards
+148,Exploratory analyses
+149,Cochran–Mantel–Haenszel test
+150,Positive predictive value
+152,Logistic regression
+153,Forest plot construction
+157,Mean and standard deviation
+158,Poisson regression model with robust standard errors
+159,van Elteren’s test
+160,"Further adjustment for body mass index, muscle strength, and cardiorespiratory exercise capacity"
+161,Distribution description
+162,P-value determination for statistical significance
+163,Prespecified subgroup analysis
+164,Design effect accounting for cluster randomized controlled trials
+165,Mantel-Haenszel weights
+166,Multiplicity adjustment
+167,Pharmacokinetic dose proportionality analysis
+168,Proportional contribution estimation
+169,Bayesian information criterion
+170,Inverse-variance-weighted averages
+171,Multivariable quantile regression
+172,Unstructured covariance matrix
+173,Point estimates
+174,Missing-at-random assumption
+175,Inverse probability of attrition weight (IPAW)
+176,Substitution rules
+177,Mean or mode imputation
+178,Adjusted risk ratio [RR]
+182,Kaplan-Meier curve
+183,Proc MIANALYZE in SAS
+184,Log-rank test (stratified and unweighted)
+186,Interaction Parameters
+188,Proportion assessment
+189,95% confidence intervals
+190,Two-sided significance level
+191,Constrained longitudinal data analysis (cLDA)
+192,"Fixed effects (race and ethnicity, sex, state of residence, year)"
+193,Two-group continuity corrected chi-square test
+194,Missing values
+195,Unstructured Covariance Structure
+196,Design Effect
+197,Effect size
+198,Meta-regression
+200,Tests of between-study heterogeneity
+203,Cox proportional hazards models
+204,Mixed-model analytic approach
+206,Normal distributional assumption
+207,ANCOVA (Analysis of Covariance)
+208,Weighting by inverse standard deviation
+209,Type I error consideration
+210,Two-group t-test with a two-sided significance level
+211,Generalized linear model for binomial outcome with identity function
+212,Type I error (alpha)
+213,Bootstrap confidence intervals
+214,t test
+215,Correlation structures
+216,Prespecified tests for superiority
+217,Clustering within participants
+218,Risk Ratio (Relative Effect Measure)
+219,Fine and Gray model for time-to-event data
+221,Linear mixed model with random coefficients
+222,Percentage of maximum possible method
+223,Linear regression models
+224,T tests
+225,Repeated-measures mixed-effects linear regression model
+227,Harmonic mean of person-time years
+228,High-dimensional propensity-score algorithm
+230,Clustering of standard errors
+232,t-tests
+233,Stratified analysis (by Journal Citation Reports quartile)
+234,Confidence interval calculation
+235,Generalized linear model for binomial outcome with log-link function
+236,2-sample test of proportions
+237,Normal-normal hierarchical models
+238,Imputation of missing data
+239,Sample size estimation
+240,Cluster Size Sample Size Scenarios
+241,Half-SD formula
+242,Cumulative incidence functions
+244,Imputation for missing data
+246,E-value assessment
+247,Poisson regression
+248,Flexible parametric survival model
+249,I² statistic for heterogeneity assessment
+250,Efficacy analyses
+251,χ² test (Chi-squared test)
+252,Relative risk comparison
+253,Bayesian logistic-regression model
+254,Non-informative priors for mean effects
+255,Hazard ratio calculation
+256,Restricted cubic splines
+257,Sample size calculation
+258,Adjustment for sampling survey weights
+259,Alpha-spending criteria
+260,Multilevel Linear Mixed Model
+261,Kaplan–Meier plots
+262,Sample size determination
+263,Binary logistic regression
+264,Confidence intervals (95% confidence interval)
+265,Ordinal logistic-regression model
+267,Cox-proportional hazards model
+268,Hierarchical Condition Category risk scoring
+269,Within-group standard deviation (SD)
+270,Estimation of SpO2:FiO2 ratios from PaO2:FiO2 ratios
+271,Generalized estimating equations
+272,Compound symmetry covariance structure
+273,Weighting for national representation and nonresponse bias
+274,Funnel plots
+275,Cox regression model (stratified)
+276,Subgroup-by-trial-group interactions
+277,Ranking based on median scores
+278,Modified generalized estimating equation analyses
+279,Summation of scores across tests
+280,Proportional hazards assumption
+281,Joinpoint regression
+283,Post hoc analyses
+285,"Descriptive statistics (counts and percentages, medians and IQRs)"
+286,Mixed-model repeated-measure analyses
+287,Covariate inclusion in analyses
+288,Akaike information criterion
+289,Linear Regression
+290,Conditional Logistic Regression
+292,Pattern-mixture models
+293,Intraclass correlation coefficient
+296,Natural logarithmic link function
+297,Schoenfeld residual plots
+298,descriptive statistics were reported. Aggregate and
+299,Multivariable generalized estimating equations
+300,Bayesian analyses
+301,Analysis of covariance (ANCOVA)
+304,2-sided α (alpha) level
+305,Fisher exact test
+306,Comparative analyses
+307,Standardized mean differences
+309,2 × 2 factorial design analysis
+310,Bivariate binomial random effects meta-analysis
+311,Model-based analysis
+312,Mean percentage calculation
+313,Sensitivity analysis
+314,Agresti formula for confidence interval
+318,Fisher's exact test
+321,Sensitivity analysis with censoring
+322,Mann-Whitney odds
+324,Trend analysis
+325,2-tailed P value
+327,Fixed effects modeling
+328,Standardised Residuals
+329,"Mediator analysis (as planned, later modified)"
+331,Logistic-regression models
+333,MDRD equation
+334,Quantitative bias analyses
+335,Linear regression
+336,Randomization
+337,Confidence intervals (95% CIs)
+338,χ² test
+339,Monte Carlo permutation method
+340,Model assumptions
+341,Interaction testing
+342,Range
+343,Repeated measures analysis
+344,Regression-switching approach
+345,Cluster randomized design
+346,Time-to-first-event analysis
+347,Nonparametric ANCOVA
+348,Kruskal-Wallis rank sum test
+349,Multiple comparisons analysis
+350,Specificity
+352,Subgroup analysis
+353,Hazard ratio estimation
+354,Interaction effects
+355,Rate of outcome events per 1000 patient-years
+356,Power analysis for detecting differences in means and standard deviations
+357,Generalised linear mixed model
+358,Identity link function
+360,Skindex-29 score analysis
+361,Kaplan–Meier method
+362,Mann-Whitney-Wilcoxon test
+363,Multivariable logistic regression
+364,Missing data imputation
+365,Linear mixed models
+366,Data collapsing
+367,Mean differences with 95% confidence intervals
+368,Modified intention-to-treat (mITT) analysis
+370,Incidence
+371,Estimation of absolute benefits and harms
+372,Two-sided 95% confidence interval
+373,Prespecified adjustment for covariate
+374,Bootstrapping
+375,Complier average causal effect
+376,Full analysis set
+377,Model-based imputation
+378,Farrington-Manning test
+379,Calculation of 95% confidence intervals
+380,Adjusted risk difference
+381,Odds ratios with 95% confidence intervals
+382,Sensitivity analysis for albuminuria levels
+383,Aggregate data analysis
+385,Adjustment for covariates in models
+386,Aggregate measures analysis
+387,Assessment of Schoenfeld residuals
+388,Deviations from the missing-at-random assumption
+389,Interaction term analysis
+390,Imputation
+391,Key secondary outcome
+392,Adjusted Mean Differences
+393,Wald-type approximate 95% confidence intervals
+394,Covariate adjustment
+396,Categorical analysis
+397,Assessment of proportionality using log-minus-log plots
+398,One-sided significance level
+399,Multiple imputation for missing values
+400,1-sided 95% Confidence Interval (CI)
+401,Two-sided testing
+402,Repeated-measures Poisson regression
+403,Adjusted mean comparisons
+404,Sensitivity Analyses
+405,Win ratio (Generalized odds ratio)
+407,Post hoc subset analyses
+408,Pattern mixture models
+409,Rubin's algorithm for multiple imputation
+410,Confidence intervals
+414,Pearson correlations
+415,Multiplicity
+416,Two-sided Tests
+417,χ2 (Chi-square) test
+418,Hazard ratio assumption revision
+419,Standard deviation
+420,Type I error consideration due to multiple comparisons
+421,Interim analyses
+422,Bonferroni correction
+424,Hierarchical analysis of endpoints
+425,Odds ratio calculation
+426,Cause-specific mortality assessment
+427,t tests
+428,Within-participants effects
+429,Use of SAS version 94 for data analysis
+431,STATA for statistical analysis
+432,Competing-risk model
+433,Rate ratio estimation
+434,Coefficient estimation
+435,Generalised additive models
+436,Two-sided significance level setting
+437,Doubly robust weighted least squares estimator
+438,Absolute values and change from baseline analysis
+439,Group comparison
+440,Treatment of skewed data
+441,Unadjusted linear mixed model
+442,Fully conditional specification imputation
+443,Kryger Jensen and Lange test
+444,Treatment of ordinal variables as continuous
+445,Modified intention-to-treat analysis
+446,Chained equations
+447,Exact McNemar’s test
+448,Confidence interval (CI) estimation
+449,Summary receiver operator characteristic (ROC) curves
+450,Per-protocol Analysis
+451,Negative binomial model
+452,Hartung-Knapp-Sidik-Jonkman confidence interval correction
+456,Relative difference estimation
+457,Estimation from median and interquartile range
+458,SAS (Statistical Analysis Software) for data analysis
+459,Progression-free survival percentage comparison
+460,Clustering
+461,Effect sizes with 95% confidence intervals
+462,Geometric mean concentrations and ratios
+465,95% CIs (Confidence Intervals)
+466,Bias-corrected and accelerated bootstrap resampling
+467,Two-tailed alpha level
+468,Sample size determination for phase 1 studies
+469,Unadjusted log-rank tests
+470,Two-sided tests of superiority
+471,Random walk Metropolis-Hastings algorithm with Gibbs updates
+472,Bayesian analysis
+473,One-way ANOVA Method
+474,Number needed to treat
+475,Kaplan-Meier method
+476,Use of R software
+479,Mann-Whitney U test
+480,Contrast analysis
+482,Confidence interval (CI) calculation
+483,Noninferiority margin determination
+485,Clustered Design
+486,Score test for proportionality assumption
+487,Fisher’s exact test
+488,Least-squares means (LSMs) and 90% confidence intervals (CIs)
+489,Reporting of two-sided 95% confidence intervals
+490,Time-to-first-event rates
+491,Fixed effects
+493,Rubin’s formula for confidence intervals
+494,Competing-risk events
+495,Testing of proportional hazards using Schoenfeld residuals
+496,Relative risks estimation
+497,Linear regression (for QTcF value assessment)
+498,Post hoc analysis
+500,Repeated measures
+501,Adjusted mean between-group difference
+503,Mixed models for repeated measures
+504,Modified ridit scores
+505,Prespecified subgroup analyses
+506,Cox proportional hazards model
+507,Two-sided χ² test
+508,Modified Poisson Regression Model
+509,Estimated relative risk
+510,Alpha level (significance level)
+511,Intention-to-treat (ITT) analysis
+512,Sandwich estimator
+514,Calculation of relative risks (RR) with 95% confidence intervals (CIs)
+515,Risk difference estimation
+516,Cox model
+517,Multilevel Log-binomial Regression Models
+518,Finkelstein-Schoenfeld hierarchical composite endpoint
+519,P value determination
+520,Poisson distribution
+521,Logistic regression with logit link
+522,Markov chain Monte Carlo method
+523,Fully conditional specification
+524,Time-to-event outcomes
+525,Covariates
+526,Repeated measures design
+527,Statistical analyses
+528,Pairwise comparisons
+529,Leave-one-out site analysis
+531,Statistical analysis
+532,Use of “survival” R package
+534,Absolute risk reduction
+536,Exact binomial test
+537,Cluster-level summaries
+538,Per-protocol analyses
+539,Informative priors for heterogeneity
+540,Binomial confidence intervals
+541,Robust Standard Errors
+542,Power calculation
+543,Cox proportional-hazards model
+544,Wald standard error
+546,Empirical Bayes shrinkage estimator
+547,Two-tailed t-test
+548,Dichotomisation of responses
+549,Hazard ratios (HR)
+550,Safety analysis assuming binomial distributions
+551,Cubic splines
+552,Propensity scores
+553,Standard χ² tests for heterogeneity
+554,Cochran-Mantel-Haenszel method
+555,Intention-to-treat principle
+556,Last observation carried forward (LOCF)
+557,Mean ± standard deviation
+558,Unconditional logistic regression
+559,Use of “epitools” R package
+561,Joint models
+562,Cox regression analysis
+563,Exploratory analysis
+564,Cox models
+565,Covariates adjustment
+566,Frequency calculation
+567,Age standardisation
+568,Mixed model
+569,Predefined subgroup analysis
+570,Mean
+571,Categorical variables
+572,Confidence intervals (CIs)
+573,Interim analysis
+576,Meta-analysis
+577,Egger’s test
+578,Event rate calculation
+579,Two-tailed tests
+580,χ2 tests
+581,Estimation of mean and SD from median and IQR
+582,Logistic regression for binary outcomes
+583,Unpaired t-tests
+584,Proc GENMOD in SAS
+585,Mixed-effects linear regression modeling
+586,Unstructured covariance structure and compound symmetric structure in statistical modeling
+587,Two-sided alpha level
+588,Composite outcome scoring
+589,Intention to treat
+590,χ2 test
+593,Type I error rate
+595,Generalised linear mixed models
+596,Kaplan-Meier estimates
+597,Coefficient of variation
+598,Marginal model for repeated measures analyses
+599,Log-rank test
+600,Restricted maximum likelihood approach
+601,Per-protocol analysis
+602,Generalized estimating equation (GEE) model
+606,Absolute number and relative frequency calculation
+607,Summary data extraction
+608,Average treatment effect estimation
+609,Subgroup analyses
+611,Proc MI in SAS
+612,Relative risks with 95% confidence intervals
+613,Median and interquartile range calculation

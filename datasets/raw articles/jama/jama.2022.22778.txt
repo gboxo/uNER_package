@@ -1,0 +1,61 @@
+Statistical Analysis
+The individual-year data were collapsed into a data set with 1
+observation per individual, inputting the individual’s age in
+2012 if the person was observed in both 2011 and 2012. We
+took the maximum of each diagnosis indicator between 2011
+and 2012, thus classifying an individual as having a condition
+if it was observed in either 2011 or 2012. There were no miss-
+ing data in our sample because to construct the sample we
+required observing individuals continuously enrolled in the
+Medicaid program or CHIP, year of birth, and income. Condi-
+tional on observing this information, we had no missing data
+for any outcomes or demographic adjustment variables.
+A linear multivariable regression model was estimated for
+each outcome comparing the prevalence across children and
+adolescents with different levels of family income (which en-
+tered the model as a continuous income-to-poverty ratio),
+allowing for a differential effect of income among children aged
+5 to 9 years (reference group) compared with children and ado-
+lescents aged 10 to 17 years. The relationship between each out-
+come and income was estimated adjusting for race and eth-
+nicity as fixed effects (as self-reported in the ACS based on
+detailed fixed categories and a write-in option), female sex as
+a fixed effect (as self-reported in ACS), fixed effects for state
+of residence (as reported in MAX Person Summary files),
+whether age was measured in 2011 or 2012, and fixed effects
+for the year of the ACS that provided income information.
+We thus measured the association between income and the
+prevalence of conditions (and mortality) net of variation in mor-
+bidity and mortality that can be attributed to other observ-
+able demographic (such as sex and race and ethnicity) and geo-
+graphic differences.
+The coefficient multiplying the income term was the co-
+efficient of interest. It measured, in each age group when
+the interaction term was added, what the absolute difference
+in the probability of the outcome was at 100% of poverty
+higher income (corresponding to $18 106 more income in
+2011 and $21 811 more in 2021 for a family of 3). Tests of sta-
+tistical significance were based on 95% CIs for a 2-tailed t test
+(P value < .05 used as significance threshold), accounting for
+ACS sampling survey weights and clustering of standard er-
+rors among individuals who resided in the same state. To aid
+in the interpretation of magnitudes we also computed the size
+of the association coefficient relative to adjusted prevalence
+of each outcome within each age group at mean income in the
+sample. Because of the potential for type I error due to mul-
+tiple comparisons, findings should be interpreted as explor-
+atory. All analyses were performed in Stata for Unix 16.1/MP.
+To illustrate the shape of the relationship between health
+and income graphically, we plotted the adjusted and
+weighted prevalence of each condition (in percentages)
+within each ventile of the in-sample income distribution for
+children aged 5 to 9 years and for children and adolescents
+aged 10 to 17 years. These data points were plotted together
+with the age group–specific linear trends from the regression
+model described above.
+The main analysis used aggregate measures of mental
+health and substance use disorders as outcomes. In the eFig-
+ure in Supplement 1, a graphical illustration of the associa-
+tion between adjusted prevalence and income is shown for 8
+underlying mental health disorders and 3 underlying sub-
+stance use disorders individually.

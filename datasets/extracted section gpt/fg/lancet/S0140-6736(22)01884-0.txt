@@ -1,0 +1,25 @@
+- Risk Ratio (Relative Effect Measure)
+- 95% Confidence Intervals (CIs)
+- Two-sided Tests
+- Clustered Design
+- Multilevel Log-binomial Regression Models
+- Standardised Residuals
+- Unstructured Covariance Structure
+- Intraclass Correlation Coefficient
+- One-way ANOVA Method
+- Bootstrapped (Cluster Resampling with Replacement) 95% CIs
+- Modified Poisson Regression Model
+- Robust Standard Errors
+- Multivariate Normal Distribution
+- Multilevel Linear Mixed Model
+- Adjusted Mean Differences
+- Sensitivity Analyses
+- Per-protocol Analysis
+- Best-case and Worst-case Scenarios
+- Cluster Size Sample Size Scenarios
+- Prespecified Subgroup Analyses
+- Heterogeneity Tests
+- Interaction Parameters
+- Design Effect
+- Intraclass Correlation Coefficient
+- Power Calculations

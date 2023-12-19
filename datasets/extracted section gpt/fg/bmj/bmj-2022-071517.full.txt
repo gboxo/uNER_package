@@ -1,0 +1,12 @@
+- Descriptive analysis
+- Median and interquartile range calculation
+- Absolute number and relative frequency calculation
+- Publication rate calculation
+- Proportion assessment
+- Percentage calculation
+- Distribution description
+- Ranking creation
+- Reliability assessment (using ThinkCheckSubmit checklist)
+- Time elapsed calculation (between submission and publication, and between publication and retraction)
+- Stratified analysis (by Journal Citation Reports quartile)
+- Citations analysis (overall and stratified by quartile)

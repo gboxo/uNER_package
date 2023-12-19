@@ -1,0 +1,14 @@
+- Data collapsing
+- Maximum of diagnosis indicator
+- Linear multivariable regression model
+- Continuous variable analysis (income-to-poverty ratio)
+- Fixed effects (race and ethnicity, sex, state of residence, year)
+- Interaction terms in regression
+- Coefficient estimation
+- Two-tailed t-test
+- Confidence intervals (95% CIs)
+- Adjustment for sampling survey weights
+- Clustering of standard errors
+- Type I error consideration
+- Graphical illustration (adjusted and weighted prevalence)
+- Aggregate measures analysis

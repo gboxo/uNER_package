@@ -1,0 +1,17 @@
+- Power calculation
+- Ordinal logistic-regression model
+- Common odds ratio
+- Modified intention-to-treat population
+- Proportional-odds logistic-regression model for ordered categorical data
+- Model-based analysis
+- Covariate adjustment
+- Wald-type approximate 95% confidence intervals
+- Random effect adjustment
+- Imputation of missing data
+- Score test for proportionality assumption
+- Win ratio (Generalized odds ratio)
+- Agresti formula for confidence interval
+- Subgroup-by-trial-group interactions
+- Logistic regression for binary outcomes
+- Fine and Gray model for time-to-event data
+- No adjustment for multiple comparisons

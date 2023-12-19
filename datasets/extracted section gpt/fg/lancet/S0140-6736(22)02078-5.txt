@@ -1,0 +1,20 @@
+- Sample size estimation
+- Power calculation
+- Non-inferiority analysis
+- One-sided significance level
+- Per-protocol analysis
+- Modified intention-to-treat (mITT) analysis
+- Cochran-Mantel-Haenszel method
+- Confidence interval (CI) calculation
+- Wald standard error
+- Prespecified tests for superiority
+- Two-sided tests of superiority
+- Bayesian analysis
+- Sensitivity analysis
+- Subgroup analysis
+- Kaplan-Meier product limit estimator
+- Log-rank test
+- Cox-proportional hazards model
+- Testing of proportional hazards using Schoenfeld residuals
+- Descriptive statistics (counts and percentages, medians and IQRs)
+- Use of statistical software (STATA, version 17.0)

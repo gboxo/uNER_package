@@ -1,0 +1,24 @@
+Statistical Analysis
+Dose escalation and selection of the dose or
+doses for a phase 2 study were guided by
+modified continual reassessment methods.
+These methods were based on a Bayesian logis-
+tic-regression model and an overdose control
+principle.28,29
+Safety was assessed in patients who had re-
+ceived at least one dose of talquetamab. Efficacy
+was assessed in patients who had received at
+least one dose of talquetamab, had undergone
+at least one postbaseline disease assessment,
+and had a response that could be evaluated.
+Pharmacokinetics, pharmacodynamics, and im-
+munogenicity were evaluated in patients who
+had received at least one dose of talquetamab
+and had at least one sample that could be evalu-
+ated after the dose was received.
+In the analysis of response, the percentage of
+patients with a partial response or better was
+calculated with a two-sided 95% confidence in-
+terval. Data were summarized with the use of
+descriptive statistics. Additional statistical meth-
+ods are described in the study protocol.

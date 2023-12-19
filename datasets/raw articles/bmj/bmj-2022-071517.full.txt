@@ -1,0 +1,41 @@
+Statistical analysis
+We used a descriptive analysis of the characteristics
+of the retracted papers identified, by reference to the
+variables of interest, with continuous variables being
+expressed as median and interquartile range, and
+categorical variables as absolute number and relative
+frequency.
+We calculated the publication rate of papers that
+were retracted because of paper mills per 100 000
+papers published in a given year, over the total number
+of papers published for the same year. Therefore, we
+assessed the proportion of papers mill publications
+regarding the total number of publications in each
+year of the study period. Additionally, we calculated
+the percentage of paper mill papers retracted per year,
+with respect to the total number of retractions per year,
+to ascertain the proportion of paper mill retractions
+compared with retractions for any other reason.
+We described the distribution of this type of papers
+by Journal Citation Reports category of the journal
+in which they were published. We created a ranking
+of journals and publishers based on the number of
+retracted paper mill papers they published during
+the study period. We have determined if the journal
+of publication was reliable, that is, not suspected of
+being a predatory journal, in the subsample of the
+scientific journals that published the most retracted
+paper mill papers. To assess the reliability of a journal,
+we used the ThinkCheckSubmit checklist (https://
+thinkchecksubmit.org/journals).
+We calculated the time elapsed between the paper’s
+submission and publication and the time elapsed
+between the paper’s publication and retraction, in
+days. Analysis of the times elapsed between submission
+and publication and the times between publication
+and retraction were stratified by the Journal Citation
+Reports quartile of the journal in which the paper was
+published. Similarly, we analysed the total citations
+received by the papers, both overall and stratified by
+quartile. All statistical analyses were done using the
+Stata version 17.0 computer software programme.

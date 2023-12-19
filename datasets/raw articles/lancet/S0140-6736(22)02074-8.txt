@@ -1,0 +1,128 @@
+Data analysis
+For each included trial, summary data were extracted
+from the principal and relevant subsidiary peer-reviewed
+publications, independently and in duplicate by two
+authors (KJM, AJR) with discrepancies resolved by
+consensus discussion (appendix p 4). For trials without
+previously published relevant outcomes, results were
+provided by trial investigators.
+The main focus of efficacy analyses was on kidney
+disease progression, acute kidney injury, and a composite
+of cardiovascular death or hospitalisation for heart failure.
+Kidney disease progression was defined as a sustained
+eGFR decrease (≥50%) from randomisation, end-stage
+kidney disease (ie, start of maintenance dialysis or receipt
+of a kidney transplant), a sustained low eGFR
+(<15 mL/min per 1·73 m² or <10 mL/min per 1·73 m²) or
+death from kidney failure (appendix p 9). For eight trials
+this kidney disease progression outcome was unavailable
+publicly, and thus individual trial investigators provided a
+re-analysis of eGFR data to derive our composite kidney
+disease progression outcome and any other unavailable
+outcomes of interest3,4,7,8,12,17–19 (data unavailable from the
+short duration SOLOIST-WHF trial20). The kidney failure
+component of the primary outcome was defined as a
+composite of maintenance dialysis, kidney transplantation,
+or sustained low eGFR. On the basis of previously reported
+results, we considered acute kidney injury an efficacy
+outcome (rather than a safety outcome). Acute kidney
+injury was defined by its specific Medical Dictionary for
+Regulatory Activities Preferred Term, wherever possible
+(appendix pp 10–11). The composite of hospitalisation for
+heart failure or cardiovascular death excluded urgent heart
+failure visits to enable standardisation across trials.
+Cardiovascular and non-cardiovascular death were also
+assessed and retained individual trial definitions. All-
+cause mortality is a less generalisable outcome than cause-
+specific mortality, but it was included for completeness.
+1790
+Safety outcomes focused on key medical complications
+that previous meta-analyses have indicated are potentially
+caused by SGLT2 inhibition: ketoacidosis and lower limb
+amputation,1 with information on lower limb amputation
+particularly sought because the CANVAS trial reported a
+significant excess of amputation among participants
+allocated to SGLT2 inhibition.21 Additional information on
+urinary tract infections (all infections and restricted to
+serious infections), mycotic genital infections, severe
+hypoglycaemia, and bone fractures was included for
+completeness. Details on the derivation of each outcome
+by trial are provided in the appendix (pp 10–11).
+For the trials in chronic kidney disease, we used
+prespecified subgroups according to investigator-reported
+primary kidney diagnosis when possible. This applied for
+DAPA-CKD and EMPA-KIDNEY, with the subgroups:
+diabetic kidney disease or nephropathy; ischaemic and
+hypertensive kidney disease; glomerular disease (also
+known as glomerulonephritis); and other kidney disease
+or diagnosis or unknown combined.10,12,13 CREDENCE
+excluded suspected non-diabetic kidney disease, and so all
+participants were considered to have diabetic kidney
+disease.7 A sensitivity analysis excluding SCORED was
+conducted due to an absence of data on investigator-
+reported primary kidney diagnosis.9 On the basis of
+previous DAPA-CKD publications,22,23 exploratory analyses
+were also conducted by subtype of glomerular disease:
+immunoglobulin A (IgA) nephropathy versus focal
+segmental
+glomerulosclerosis
+versus
+other
+glomerulonephritides.
+Analyses were done separately in patients with and
+without diabetes at baseline (except for analyses by
+primary kidney diagnosis). When possible, diabetes-
+specific (or primary kidney diagnosis-specific) effects of
+treatment were obtained from Cox models reported in
+trial publications. When these effects were unavailable
+(appendix pp 10–11), log relative risk (RR) and the
+associated SE were estimated from the numbers of
+events and participants in each arm. Inverse-variance-
+weighted averages of log hazard ratios or log RRs were
+then used to estimate the treatment effects, summarised
+as RR (95% CI), in each patient group and overall.24,25
+This information-weighted-average approach has the
+desirable property that, at the point of random
+assignment, every participant has the same opportunity
+to contribute the same amount of statistical information
+to the meta-analysis as every other participant, without
+making any assumptions about the nature of any true
+heterogeneity in results between the trials.
+Tests of between-study heterogeneity were conducted in
+our previous meta-analysis published in 2021, which
+established that effects were generally similar across its
+included trials (excluding DELIVER and EMPA-KIDNEY).1
+Standard χ² tests for heterogeneity were used to assess
+whether treatment effects differed between those with and
+without diabetes at recruitment, by trial population (based
+on predefined trial eligibility [table]) and by primary
+kidney diagnosis. Heterogeneity was also assessed post
+hoc for the lower limb amputation outcome, comparing
+CANVAS with the other 12 trials combined. In forest
+plots, trials were ordered by their mean baseline eGFR
+values and effect modification by kidney function was
+assessed by a standard χ² test for trend across the set of
+ordered results. Heterogeneity and trend p values were
+interpreted in the context of the multiple exploratory
+hypotheses being tested and the absence of individual
+participant-level data. For trials reporting median eGFR
+and its IQR, mean and SD values were estimated.43 A
+sensitivity analysis reordering trials by median baseline
+level of albuminuria (urine albumin-to-creatinine ratio)
+was conducted.
+Rates of outcome events were presented per 1000 patient-
+years. For the outcomes of kidney disease progression,
+acute kidney injury, cardiovascular death or hospitalisation
+for heart failure, ketoacidosis, and lower limb amputation,
+absolute benefits and harms of SGLT2 inhibitors versus
+placebo per 1000 patient-years were estimated by diabetes
+status and patient group. Absolute effects were estimated
+by applying the diabetes status-specific RRs, or their
+95% CIs, to the corresponding mean event rates in the
+placebo arms (first event only). As in our previous report,1
+data from SOLOIST-WHF were excluded from these
+analyses due to the extremely high absolute risks in this
+trial in patients with a recent hospitalisation for heart
+failure.20
+All analyses were performed in SAS (version 9.4) and
+R (version 3.6.2). Our outline protocol was registe

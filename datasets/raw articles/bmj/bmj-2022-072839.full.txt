@@ -1,0 +1,9 @@
+Statistical analysis
+For all six tests, each biscuit variety was ranked based
+on median and mean scores, with a score of 1 (ranked
+first) assigned to the biscuit with the best result and
+a score of 4 (ranked last) assigned to the biscuit with
+the worst result. We added the scores for each test
+together, with each test given equal weighting in the
+scoring process. The biscuit with the lowest overall
+score was thus considered the best biscuit.

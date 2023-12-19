@@ -1,0 +1,46 @@
+Statistical analysis
+We calculated age standardised rates and
+corresponding 95% confidence intervals by
+standardisation, based on the world standard
+population reported in the Global Burden of Disease
+Study 2019.15 Rates in our estimates are shown per
+100 000 population.
+To assess the magnitude and direction of temporal
+trends in the incidence, DALY, and mortality for
+early onset type 2 diabetes, we calculated average
+annual per cent change and corresponding 95%
+confidence intervals by joinpoint regression.16 The
+Joinpoint Regression Program software (version
+4.9.0.0, National Cancer Institute, USA) took trend
+data and fitted the simplest joinpoint model allowed
+by the data. The programme started with the minimum
+number of joinpoints (eg, a straight line of 0 joinpoint)
+and tested whether more joinpoints were significant
+and should be added to the model. We used a Monte
+Carlo permutation method for tests of significance. The
+average annual per cent change was calculated from
+the annual per cent change of each segment in the last
+significant model in a weighted manner.
+We conducted comparisons between the sexes, age
+groups (five year intervals; 15-19, 20-24, 25-29, 30-
+34, and 35-39 years), and sociodemographic index
+(five categories). The supplementary materials provide
+details about sociodemographic index. Least squares
+regression and generalised additive models were
+applied to examine the possible linear or non-linear
+relations between sociodemographic index and age
+standardised rates or corresponding average annual
+per cent change.
+The proportional contribution of each risk factor
+was estimated by dividing the attributable DALY for
+that factor by the total DALY for early onset type 2
+diabetes. Because the protective effect of moderate
+consumption of alcohol on type 2 diabetes is
+debated,17 and the population attributable fraction
+by high fasting plasma glucose level was assumed
+to be 100% in the Global Burden of Disease Study
+2019,14 we did not include consumption of alcohol
+and high fasting plasma glucose level in our final
+analysis. R software (version 4.1.0) was used for the
+statistical analyses. A P value <0.05 was regarded as
+significant.

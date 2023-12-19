@@ -1,0 +1,26 @@
+- Statistical analysis
+- Sample size calculation
+- Type I error (alpha)
+- Power analysis
+- Within-group standard deviation (SD)
+- Two-sided significance level
+- Drop-out rate
+- Randomization
+- Mixed model
+- Treatment group
+- Covariates
+- Missing-at-random assumption
+- Primary endpoint
+- Key secondary endpoint
+- Multiplicity adjustment
+- Sensitivity analyses
+- Deviations from the missing-at-random assumption
+- Mixed models for repeated measures
+- Premature discontinuation
+- Diuretic or antihypertensive rescue medication
+- Supportive analyses
+- Protocol deviations
+- Substitution rules
+- Exploratory analyses
+- Prespecified subgroups
+- ClinicalTrialsgov registration (NCT03541174)

@@ -1,0 +1,746 @@
+- Categorical analysis
+- t-tests
+- Logistic regression
+- Hierarchical Condition Category risk scoring
+- Empirical Bayes shrinkage estimator
+- Frequency calculation
+- Composite outcome scoring
+- Weighting by inverse standard deviation
+- Sensitivity analysis
+- Quintile classification
+- Analysis of variance with primary care physicians
+- Stata software usage
+- P-value determination for statistical significance
+- t tests
+- Repeated-measures mixed linear model
+- Contrast statements
+- Repeated-measures analysis
+- Multiple imputation methods
+- Half-SD formula
+- Post hoc analyses
+- Repeated-measures Poisson regression
+- Generalized estimating equation (GEE) model
+- Sensitivity analyses
+- Adjusted mean comparisons
+- Confidence interval (CI) estimation
+- χ2 test
+- Per-protocol analysis
+- Post hoc subset analyses
+- R statistical computing system (used for analyses)
+- 2-tailed P value
+- Type I error consideration due to multiple comparisons
+- Demographic comparison
+- Co-morbidity assessment
+- Age- and sex-adjusted rates calculation
+- χ2 tests
+- t-tests
+- Linear regression models
+- Sociodemographic characteristic adjustment
+- Elixhauser comorbidity adjustment
+- Hospital fixed effects
+- Standardization of results
+- P value significance testing
+- Multiple comparisons analysis
+- Doubly robust weighted least squares estimator
+- Average treatment effect estimation
+- Propensity score weighting
+- Inverse probability of attrition weight (IPAW)
+- Sensitivity analysis
+- Imputation for missing data
+- Complier average causal effect
+- Bias-corrected and accelerated bootstrap resampling
+- Mean or mode imputation
+- Two-sided testing
+- Data collapsing
+- Maximum of diagnosis indicator
+- Linear multivariable regression model
+- Continuous variable analysis (income-to-poverty ratio)
+- Fixed effects (race and ethnicity, sex, state of residence, year)
+- Interaction terms in regression
+- Coefficient estimation
+- Two-tailed t-test
+- Confidence intervals (95% CIs)
+- Adjustment for sampling survey weights
+- Clustering of standard errors
+- Type I error consideration
+- Graphical illustration (adjusted and weighted prevalence)
+- Aggregate measures analysis
+- ANCOVA (Analysis of Covariance)
+- Mixed-effects linear regression modeling
+- Linear mixed models
+- Descriptive statistics
+- Pattern mixture models
+- Interaction testing
+- Multiple linear regression
+- Risk difference estimation
+- 1-sided 95% Confidence Interval (CI)
+- Farrington-Manning test
+- Per-protocol analysis
+- Full analysis set
+- Relative risks estimation
+- χ2 test
+- t test
+- Mann-Whitney U test
+- Bootstrapping
+- Kaplan-Meier curve
+- Log-rank test
+- Sensitivity analysis
+- Multiple imputation
+- Trend analysis
+- Cox-Stuart trend test
+- Multivariable logistic regression
+- Linear regression
+- Logistic regression
+- T tests
+- Stratified analyses
+- Sensitivity analyses
+- Weighting for national representation and nonresponse bias
+- Standardized mean differences
+- Multiple imputation
+- Bonferroni correction
+- Fully conditional specification
+- Proc MI in SAS
+- Proc GENMOD in SAS
+- Fixed effects modeling
+- Cluster randomized design
+- Proc MIANALYZE in SAS
+- Sensitivity analyses
+- Logistic regression with logit link
+- Complete-case analysis
+- Repeated measures design
+- Treatment of skewed data
+- Interaction term analysis
+- Post hoc analysis
+- Marginal model for repeated measures analyses
+- Between-participant main effects
+- Interaction effects
+- Within-participants effects
+- Covariance matrix
+- Covariates adjustment
+- Clustering
+- Contrast analysis
+- 2 × 2 factorial design analysis
+- Bonferroni adjustment
+- Effect sizes with 95% confidence intervals
+- Mixed-model analytic approach
+- Post hoc analyses
+- Per-protocol analyses
+- Subgroup analyses
+- Mediator analysis (as planned, later modified)
+- Unpaired t-tests
+- Fisher exact test
+- Firth logistic regression
+- Bonferroni adjustment
+- 2-sample test of proportions
+- Mean
+- Median
+- Range
+- Sensitivity
+- Specificity
+- Positive predictive value
+- Negative predictive value
+- Generalised linear mixed model
+- Maximum likelihood estimation
+- Laplace approximation
+- Bivariate binomial random effects meta-analysis
+- Summary receiver operator characteristic (ROC) curves
+- κ (kappa) statistics with Fleiss-Cohen weights
+- Mean percentage calculation
+- Percentage of manuscripts with ≥50% editor agreement
+- Cut-off based analysis (>30 and >50 citations)
+- Citation analysis within the first two years after publication
+- Linear mixed models
+- Bonferroni correction
+- Pairwise comparisons
+- Mean ± standard deviation
+- 95% confidence intervals
+- Pearson correlations
+- Cox regression analysis
+- Adjustment for confounders (region of residence, place of birth, calendar time)
+- Time-varying covariate
+- Restricted cubic splines
+- Flexible parametric survival model
+- Cubic splines
+- Sensitivity analysis
+- Exploratory analysis
+- Military Conscription Register analysis
+- Adjustment for stress resilience and cognitive ability scores
+- Further adjustment for body mass index, muscle strength, and cardiorespiratory exercise capacity
+- Use of ICD codes for outcome assessment
+- Descriptive analysis
+- Median and interquartile range calculation
+- Absolute number and relative frequency calculation
+- Publication rate calculation
+- Proportion assessment
+- Percentage calculation
+- Distribution description
+- Ranking creation
+- Reliability assessment (using ThinkCheckSubmit checklist)
+- Time elapsed calculation (between submission and publication, and between publication and retraction)
+- Stratified analysis (by Journal Citation Reports quartile)
+- Citations analysis (overall and stratified by quartile)
+- Descriptive analyses
+- Dichotomisation of responses
+- Percentage of maximum possible method
+- Multivariable quantile regression
+- Unconditional logistic regression
+- Treatment of ordinal variables as continuous
+- Adjustment for covariates in models
+- Two-tailed tests
+- Sample size calculation
+- Descriptive statistics
+- Generalised linear mixed models
+- Intention-to-treat analysis
+- Random effects (random intercept)
+- Fixed effects
+- Intraclass correlation coefficient
+- Unstructured covariance matrix
+- Multiple imputation
+- Chained equations
+- Repeated measures analysis
+- Linear regression
+- Logistic regression
+- Matching (Case-control matching)
+- Conditional Logistic Regression
+- Student’s t-test
+- Mann-Whitney U test
+- Kruskal-Wallis rank sum test
+- χ2 (Chi-square) test
+- Profile Likelihood Method
+- Bootstrapping
+- Linear Regression
+- Mann-Whitney-Wilcoxon test
+- Ranking based on median scores
+- Ranking based on mean scores
+- Summation of scores across tests
+- Equal weighting of tests in scoring process
+- Determination of best biscuit based on lowest overall score
+- Frequentist approach
+- Random effects model (DerSimonian and Laird)
+- Relative risks with 95% confidence intervals
+- Mean differences with 95% confidence intervals
+- Estimation from median and interquartile range
+- Estimation of SpO2:FiO2 ratios from PaO2:FiO2 ratios
+- Design effect accounting for cluster randomized controlled trials
+- I^2 statistic for heterogeneity assessment
+- Intention-to-treat analysis
+- Bayesian analyses
+- Informative priors for heterogeneity
+- Non-informative priors for mean effects
+- Bayesian random effects meta-analysis
+- Normal-normal hierarchical models
+- Random walk Metropolis-Hastings algorithm with Gibbs updates
+- Markov chain Monte Carlo sampling
+- Gelman-Rubin diagnostic
+- Centile based 95% credible intervals
+- Trial sequential analysis
+- Subgroup analyses
+- Sensitivity analyses
+- Restricted maximum likelihood approach
+- Hartung-Knapp-Sidik-Jonkman confidence interval correction
+- Meta-regression
+- Funnel plots
+- Egger’s test
+- STATA for statistical analysis
+- Trial sequential analysis software
+- Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach
+- Certainty of evidence classification
+- Age standardisation
+- Calculation of 95% confidence intervals
+- Joinpoint regression
+- Monte Carlo permutation method
+- Least squares regression
+- Generalised additive models
+- Proportional contribution estimation
+- Incidence
+- Primary endpoint
+- Heparin group
+- Absolute risk reduction
+- Bivalirudin
+- 2-sided α (alpha) level
+- Data collection
+- Predefined statistical analysis plan
+- Intention to treat
+- Sensitivity analyses
+- Per-protocol population
+- Patients who received any dose of study medication
+- Inclusion criteria
+- Exclusion criteria
+- Imputation
+- Missing values
+- Censored data
+- Categorical variables
+- χ² test (Chi-squared test)
+- Fisher’s exact test
+- Continuous data
+- Mean and standard deviation
+- Median and IQR (Interquartile Range)
+- Student’s t-test
+- Wilcoxon rank-sum test
+- Time-to-first-event rates
+- Kaplan-Meier method
+- Log-rank test
+- Hazard ratios (HR)
+- 95% CIs (Confidence Intervals)
+- Cox model
+- Proportional hazards assumption
+- Log(–log) plots
+- Number needed to treat
+- Treatment effect
+- Prespecified subgroups
+- Statistical analyses
+- Two-sided tests
+- SAS version 94
+
+- Sample size estimation
+- Power calculation
+- Non-inferiority analysis
+- One-sided significance level
+- Per-protocol analysis
+- Modified intention-to-treat (mITT) analysis
+- Cochran-Mantel-Haenszel method
+- Confidence interval (CI) calculation
+- Wald standard error
+- Prespecified tests for superiority
+- Two-sided tests of superiority
+- Bayesian analysis
+- Sensitivity analysis
+- Subgroup analysis
+- Kaplan-Meier product limit estimator
+- Log-rank test
+- Cox-proportional hazards model
+- Testing of proportional hazards using Schoenfeld residuals
+- Descriptive statistics (counts and percentages, medians and IQRs)
+- Use of statistical software (STATA, version 17.0)
+- Statistical analysis
+- Sample size calculation
+- Type I error (alpha)
+- Power analysis
+- Within-group standard deviation (SD)
+- Two-sided significance level
+- Drop-out rate
+- Randomization
+- Mixed model
+- Treatment group
+- Covariates
+- Missing-at-random assumption
+- Primary endpoint
+- Key secondary endpoint
+- Multiplicity adjustment
+- Sensitivity analyses
+- Deviations from the missing-at-random assumption
+- Mixed models for repeated measures
+- Premature discontinuation
+- Diuretic or antihypertensive rescue medication
+- Supportive analyses
+- Protocol deviations
+- Substitution rules
+- Exploratory analyses
+- Prespecified subgroups
+- ClinicalTrialsgov registration (NCT03541174)
+Statistical analysis
+Data were analysed using SPSS software (version 28) and
+descriptive statistics were reported. Aggregate and
+deidentified data are presented to avoid deductive
+disclosure of the identities of individuals with monkeypox
+virus infection. During the analysis, data from the five
+non-binary individuals assigned female at birth were
+grouped with data from cis women (forming a category
+of people assigned female at birth) as the numbers were
+too small for meaningful comparison.
+- Risk Ratio (Relative Effect Measure)
+- 95% Confidence Intervals (CIs)
+- Two-sided Tests
+- Clustered Design
+- Multilevel Log-binomial Regression Models
+- Standardised Residuals
+- Unstructured Covariance Structure
+- Intraclass Correlation Coefficient
+- One-way ANOVA Method
+- Bootstrapped (Cluster Resampling with Replacement) 95% CIs
+- Modified Poisson Regression Model
+- Robust Standard Errors
+- Multivariate Normal Distribution
+- Multilevel Linear Mixed Model
+- Adjusted Mean Differences
+- Sensitivity Analyses
+- Per-protocol Analysis
+- Best-case and Worst-case Scenarios
+- Cluster Size Sample Size Scenarios
+- Prespecified Subgroup Analyses
+- Heterogeneity Tests
+- Interaction Parameters
+- Design Effect
+- Intraclass Correlation Coefficient
+- Power Calculations
+- Mean (SD) presentation
+- Adjusted mean (SE) presentation
+- Categorical variables as absolute and relative frequencies
+- Intention-to-treat (ITT) analysis
+- Kaplan-Meier estimates
+- χ² test
+- Mantel-Haenszel weights
+- Adjusted risk difference
+- Adjusted risk ratio [RR]
+- Subgroup analyses
+- ANCOVA (Analysis of Covariance)
+- Finkelstein-Schoenfeld hierarchical composite endpoint
+- Mann-Whitney odds
+- van Elteren’s test
+- Modified ridit scores
+- Sensitivity analyses
+- Rubin's algorithm for multiple imputation
+- Geometric mean presentation
+- Two-sided p values
+- SAS (Statistical Analysis Software) for data analysis
+- Hazard rate reduction
+- Hazard ratio
+- Type I error rate
+- Cluster sizes
+- Harmonic mean of person-time years
+- Baseline rate
+- Coefficient of variation
+- Power analysis
+- Primary composite outcome
+- Key secondary outcome
+- Intention-to-treat approach
+- Intraclass correlation coefficient
+- Comparative analyses
+- Sub-distribution hazard ratio
+- Multivariable generalized estimating equations
+- Model assumptions
+- Sensitivity analyses
+- As-treated analysis
+- Competing-risk events
+- Cause-specific hazard model
+- Subgroup analyses
+- Unadjusted linear mixed model
+- Cluster-level summaries
+- Repeated measures
+- Correlation structures
+- Unstructured covariance matrix
+- Akaike information criterion
+- Bayesian information criterion
+- Autoregressive(1) covariance structure
+- Time-to-event outcomes
+- Negative binomial model
+- Relative risks
+- Sandwich estimator
+- Alpha-spending criteria
+- Confidence intervals (CIs)
+- Multiplicity
+- Data safety and monitoring committee
+- Interim analyses
+- SAS (Statistical Analysis System)
+
+
+- Sample size determination for phase 1 studies
+- Evaluation of safety, pharmacokinetic, and pharmacodynamic parameters
+- Two-group t-test with a two-sided significance level
+- Power analysis for detecting differences in means and standard deviations
+- Safety population (participants who received at least one dose of the study drug)
+- Pharmacokinetic and pharmacodynamic population
+- Intention-to-treat principle for statistical analysis
+- Efficacy estimand for pharmacodynamic measures
+- Mixed-model repeated-measure analyses
+- Absolute values and change from baseline analysis
+- Least-squares means (LSMs) and 90% confidence intervals (CIs)
+- Unstructured covariance structure and compound symmetric structure in statistical modeling
+- Pharmacokinetic dose proportionality analysis
+- Log-transformed Cmax and AUC (Area Under the Curve) for dose-normalized geometric means
+- Registration of the study at ClinicalTrialsgov, NCT04143802
+- Use of SAS version 94 for data analysis
+- Summary data extraction
+- Consensus discussion
+- Efficacy analyses
+- Definition-based outcome assessment
+- Re-analysis of eGFR data
+- Medical Dictionary for Regulatory Activities
+- Standardisation across trials
+- Cause-specific mortality assessment
+- Prespecified subgroup analysis
+- Sensitivity analysis
+- Exploratory analyses
+- Cox models
+- Log relative risk (RR) estimation
+- Inverse-variance-weighted averages
+- Meta-analysis
+- Tests of between-study heterogeneity
+- Standard χ² tests for heterogeneity
+- Forest plots
+- χ² test for trend
+- Estimation of mean and SD from median and IQR
+- Sensitivity analysis for albuminuria levels
+- Rate of outcome events per 1000 patient-years
+- Estimation of absolute benefits and harms
+- Use of SAS (version 9 4) 
+- Use of R (version 3 6 2)
+- Descriptive statistics
+- Aggregate data analysis
+- Deidentified data presentation
+- Group comparison
+- Sample size determination
+- Power calculation
+- Two-sided significance level setting
+- Intention-to-treat (ITT) analysis
+- Per-protocol analysis
+- Time-to-event analysis
+- Cox proportional hazards models
+- Subgroup analyses
+- Sensitivity analyses
+- Two-sided χ² test
+- Fisher's exact test
+- Calculation of relative risks (RR) with 95% confidence intervals (CIs)
+- Assessment of proportionality using log-minus-log plots
+- Assessment of Schoenfeld residuals
+- Use of R statistical software
+- Use of “survival” R package
+- Use of “epitools” R package
+- Power calculations
+- Time-to-first-event analysis
+- Cox proportional hazards model
+- Recurrent event analysis
+- Meta-analysis
+- Odds ratio calculation
+- Hazard ratio assumption revision
+- Covariate inclusion in analyses
+- Validly randomly assigned population analysis
+- Rate ratio estimation
+- Mean frequency function display
+- Prespecified subgroup analyses
+- Hierarchical analysis of endpoints
+- Cumulative incidence functions
+- Kaplan-Meier curves
+- Interaction term testing for non-proportionality of hazards
+- Analysis of covariance (ANCOVA)
+- Multiple imputation for missing values
+- Safety analysis assuming binomial distributions
+- Sensitivity analysis with censoring
+- Independent data monitoring committee interim analyses
+- Use of SAS software
+- Use of R software
+- Power analysis
+- Sample size calculation
+- Two-sided alpha level
+- Intention-to-treat analysis
+- Exact binomial test
+- Meta-analysis
+- Clopper-Pearson method
+- Kaplan-Meier plots
+- Subgroup analyses
+- SAS software (version 9.4) usage
+- Power analysis
+- Alpha level (significance level)
+- Effect size
+- Standard deviation
+- Intention-to-treat principle
+- Confidence intervals
+- Repeated-measures mixed-effects linear regression model
+- Compound symmetry covariance structure
+- Sensitivity analyses
+- Pattern-mixture models
+- Joint models
+- CKD-EPI 2009 equation
+- MDRD equation
+- Poisson regression model with robust standard errors
+- Cox proportional-hazards model
+- Prespecified subgroup analyses
+- Modified continual reassessment methods
+- Bayesian logistic-regression model
+- Overdose control principle
+- Descriptive statistics
+- Two-sided 95% confidence interval
+- Intention-to-treat principle
+- Two-sided test
+- Constrained longitudinal data analysis (cLDA)
+- Analysis of covariance (ANCOVA)
+- Nonparametric ANCOVA
+- Multiple imputation
+- Regression-switching approach
+- Predictive mean matching
+- Logistic-regression models
+- Rubin’s rules
+- Last observation carried forward (LOCF)
+- Leave-one-out site analysis
+- Subgroup analyses
+- Linear mixed model with random coefficients
+- Kaplan–Meier method
+- Cox proportional-hazards model
+- Schoenfeld residual plots
+- Logistic regression
+- Odds ratios with 95% confidence intervals
+- Analysis of covariance (ANCOVA)
+- Geometric mean concentrations and ratios
+- Subgroup analyses
+- Bonferroni correction
+- Two-sided significance level
+- Point estimates with 95% confidence intervals
+- SAS software, version 9.4
+- Power calculation
+- Relative difference estimation
+- Event rate calculation
+- Type I error rate consideration
+- Sample size determination
+- Crossover consideration
+- Loss to follow-up consideration
+- Interim analysis
+- Intention-to-treat principle
+- Kaplan–Meier plots
+- Log-rank test
+- Cox proportional hazards model
+- Stratification according to randomization
+- Hazard ratio calculation
+- Confidence interval calculation
+- Multiple imputation
+- P value correction (for interim analyses)
+- SAS Enterprise Guide software
+- R software
+- Standardized mean differences
+- Propensity scores
+- Logistic regression
+- High-dimensional propensity-score algorithm
+- Overlap weights
+- Log-binomial regression
+- Weighted binomial regression
+- Sensitivity analyses
+- E-value assessment
+- Quantitative bias analyses
+- Hierarchical testing strategy
+- Intention-to-treat principle
+- Sample size determination for power (90% power, 72% power)
+- Two-sided P value
+- Confidence intervals (95% confidence interval)
+- Analysis of secondary supportive end points
+- Analysis of exploratory end points
+- SAS software (version 9.4) usage for statistical analysis
+- Sample size calculation
+- Progression-free survival percentage comparison
+- Power calculation
+- Two-group continuity corrected chi-square test
+- Odds ratio calculation
+- Kaplan–Meier method
+- Log-rank test (stratified and unweighted)
+- Cox regression model (stratified)
+- Per-protocol analysis
+- Landmark approach
+- Forest plot construction
+- Binomial confidence intervals
+- Generalized-estimating-equations model
+- Fisher's exact test
+- Two-sample t-test
+- Cochran–Mantel–Haenszel test
+- Analysis of covariance (ANCOVA)
+- Hierarchical testing procedure
+- Multiple imputation
+- Rubin’s formula for confidence intervals
+- Sample size calculation
+- Power analysis
+- Two-sided test
+- Intention-to-treat analysis
+- Per-protocol analysis
+- Sensitivity analyses
+- Multiple imputation
+- Modified per-protocol analysis
+- Relative risk comparison
+- Confidence interval calculation
+- Score method
+- Significance testing
+- P value determination
+- Power calculation
+- Ordinal logistic-regression model
+- Common odds ratio
+- Modified intention-to-treat population
+- Proportional-odds logistic-regression model for ordered categorical data
+- Model-based analysis
+- Covariate adjustment
+- Wald-type approximate 95% confidence intervals
+- Random effect adjustment
+- Imputation of missing data
+- Score test for proportionality assumption
+- Win ratio (Generalized odds ratio)
+- Agresti formula for confidence interval
+- Subgroup-by-trial-group interactions
+- Logistic regression for binary outcomes
+- Fine and Gray model for time-to-event data
+- No adjustment for multiple comparisons
+- Sample size calculation
+- Two-tailed alpha level
+- Incidence rate ratio
+- Adjusted mean between-group difference
+- Intention-to-treat analysis
+- Prespecified adjustment for covariate
+- Generalized estimating equations
+- Independent correlation structure
+- Clustering within participants
+- Poisson distribution
+- Natural logarithmic link function
+- Normal distributional assumption
+- Identity link function
+- Bonferroni correction
+- Covariate inclusion
+- As-treated population analysis
+- Modified generalized estimating equation analyses
+- Random effects
+- Estimated relative risk
+- Dichotomous outcome analysis
+- Confidence intervals
+- Missing data imputation
+- Fully conditional specification imputation
+- Model-based imputation
+- Fisher’s exact test
+- Power analysis
+- Intention-to-treat analysis
+- Per-protocol analysis
+- Linear regression
+- Bootstrap confidence intervals
+- Kryger Jensen and Lange test
+- Binary logistic regression
+- Adjustment for stratification variables
+- Predefined subgroup analysis
+- Logistic regression
+- Poisson regression
+- Hierarchical testing procedure
+- Statistical significance testing (P value)
+- Use of R software for statistical computing
+- Power calculation
+- Hazard ratio estimation
+- Two-sided alpha level
+- Interim analysis
+- Type I error rate
+- Unadjusted log-rank tests
+- Stratification by factors (VA health care system)
+- Competing-risk model
+- Adjusted Cox proportional-hazards models
+- Prespecified subgroup analyses
+- Point estimates
+- 95% confidence intervals
+- Software utilization (SAS software, version 9.4)
+- Sample-size calculation
+- Noninferiority margin determination
+- Intention-to-treat analysis
+- Modified intention-to-treat analysis
+- Per-protocol analysis
+- As-treated analysis
+- Generalized linear model for binomial outcome with identity function
+- Generalized linear model for binomial outcome with log-link function
+- Adjustment for randomization site
+- Reporting of two-sided 96.6% confidence intervals
+- Reporting of two-sided 95% confidence intervals
+- Prespecified subgroup analyses
+- Linear regression (for QTcF value assessment)
+- McNemar’s test
+- Power analysis
+- Two-sided alpha level
+- Intention-to-treat analysis
+- Confidence intervals
+- Subgroup analyses
+- Post hoc analysis
+- Exact McNemar’s test
+- Multiple imputation
+- Markov chain Monte Carlo method
+- Analysis of covariance (ANCOVA)
+- Visual Analog Scale (VAS)
+- Face, Legs, Activity, Cry, Consolability scale (FLACC-R)
+- EQ-5D-5L score analysis
+- Skindex-29 score analysis
+- SAS software (version 9.4) for statistical analysis

@@ -1,0 +1,5 @@
+- Modified continual reassessment methods
+- Bayesian logistic-regression model
+- Overdose control principle
+- Descriptive statistics
+- Two-sided 95% confidence interval

@@ -1,0 +1,20 @@
+- Mean (SD) presentation
+- Adjusted mean (SE) presentation
+- Categorical variables as absolute and relative frequencies
+- Intention-to-treat (ITT) analysis
+- Kaplan-Meier estimates
+- χ² test
+- Mantel-Haenszel weights
+- Adjusted risk difference
+- Adjusted risk ratio [RR]
+- Subgroup analyses
+- ANCOVA (Analysis of Covariance)
+- Finkelstein-Schoenfeld hierarchical composite endpoint
+- Mann-Whitney odds
+- van Elteren’s test
+- Modified ridit scores
+- Sensitivity analyses
+- Rubin's algorithm for multiple imputation
+- Geometric mean presentation
+- Two-sided p values
+- SAS (Statistical Analysis Software) for data analysis

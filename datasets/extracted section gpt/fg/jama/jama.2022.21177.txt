@@ -1,0 +1,7 @@
+- ANCOVA (Analysis of Covariance)
+- Mixed-effects linear regression modeling
+- Linear mixed models
+- Descriptive statistics
+- Pattern mixture models
+- Interaction testing
+- Multiple linear regression

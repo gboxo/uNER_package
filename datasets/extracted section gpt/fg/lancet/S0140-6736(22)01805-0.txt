@@ -1,0 +1,40 @@
+- Hazard rate reduction
+- Hazard ratio
+- Type I error rate
+- Cluster sizes
+- Harmonic mean of person-time years
+- Baseline rate
+- Coefficient of variation
+- Power analysis
+- Primary composite outcome
+- Key secondary outcome
+- Intention-to-treat approach
+- Intraclass correlation coefficient
+- Comparative analyses
+- Sub-distribution hazard ratio
+- Multivariable generalized estimating equations
+- Model assumptions
+- Sensitivity analyses
+- As-treated analysis
+- Competing-risk events
+- Cause-specific hazard model
+- Subgroup analyses
+- Unadjusted linear mixed model
+- Cluster-level summaries
+- Repeated measures
+- Correlation structures
+- Unstructured covariance matrix
+- Akaike information criterion
+- Bayesian information criterion
+- Autoregressive(1) covariance structure
+- Time-to-event outcomes
+- Negative binomial model
+- Relative risks
+- Sandwich estimator
+- Alpha-spending criteria
+- Confidence intervals (CIs)
+- Multiplicity
+- Data safety and monitoring committee
+- Interim analyses
+- SAS (Statistical Analysis System)
+

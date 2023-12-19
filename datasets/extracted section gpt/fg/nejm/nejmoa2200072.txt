@@ -1,0 +1,9 @@
+- Logistic regression
+- Odds ratios with 95% confidence intervals
+- Analysis of covariance (ANCOVA)
+- Geometric mean concentrations and ratios
+- Subgroup analyses
+- Bonferroni correction
+- Two-sided significance level
+- Point estimates with 95% confidence intervals
+- SAS software, version 9.4

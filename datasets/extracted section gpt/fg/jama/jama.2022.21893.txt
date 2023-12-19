@@ -1,0 +1,12 @@
+- t tests
+- Repeated-measures mixed linear model
+- Contrast statements
+- Repeated-measures analysis
+- Multiple imputation methods
+- Half-SD formula
+- Post hoc analyses
+- Repeated-measures Poisson regression
+- Generalized estimating equation (GEE) model
+- Sensitivity analyses
+- Adjusted mean comparisons
+- Confidence interval (CI) estimation

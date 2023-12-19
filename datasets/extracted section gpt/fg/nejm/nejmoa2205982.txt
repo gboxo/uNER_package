@@ -1,0 +1,7 @@
+- Fisher's exact test
+- Two-sample t-test
+- Cochran–Mantel–Haenszel test
+- Analysis of covariance (ANCOVA)
+- Hierarchical testing procedure
+- Multiple imputation
+- Rubin’s formula for confidence intervals

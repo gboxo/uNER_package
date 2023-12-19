@@ -1,0 +1,93 @@
+Statistical Analysis
+We estimated that 1200 patients (600 per trial
+group) would provide the trial with more than
+90% power to detect superiority of methylpred-
+nisolone over placebo with respect to the pri-
+mary end point, assuming that the magnitude of
+the treatment effect could be described with the
+use of an ordinal logistic-regression model with
+a common odds ratio parameter of 0.70. This
+assumption implies that the odds of having a
+less favorable outcome is 30% lower among pa-
+tients randomly assigned to receive methylpred-
+nisolone than among those assigned to receive
+placebo and that this statement is true for any
+possible definition of a “less favorable outcome”
+based on a dichotomization of the primary end
+point. Between-group comparisons were per-
+formed in a population of patients who had
+undergone randomization and surgery and re-
+ceived methylprednisolone or placebo (the mod-
+ified intention-to-treat population). We chose
+this population because eligibility was defined
+with respect to surgery, and the trial end points
+were all postoperative outcomes.
+The distribution of the ranked outcome com-
+ponents of the primary end point was compared
+between the trial groups with the use of a pro-
+portional-odds logistic-regression model for or-
+dered categorical data. A model-based analysis
+was chosen in order to incorporate covariate
+adjustment to increase statistical power.20 Treat-
+ment effects were expressed with the use of odds
+ratios, with an odds ratio lower than 1 favoring
+methylprednisolone and suggesting that the out-
+comes are shifted toward more favorable rank-
+ings. Estimates are presented with Wald-type
+approximate 95% confidence intervals. The pre-
+specified covariates were selected for inclusion
+in the model on the basis of previous analyses
+by the STS21 and trial simulations22 and included
+the following: age, weight, prematurity status,
+and the 2020 STS–European Association for
+Cardio-Thoracic Surgery (STAT) Mortality Cate-
+gory23
+; in addition, adjustment was made for the
+random effect of enrollment site. Imputation of
+missing data was performed in three records for
+prematurity and STAT Mortality Category. The
+underlying proportionality assumption in the
+model was assessed graphically by comparing
+empirical with predicted logits and statistically
+by conducting a score test. Graphical testing
+revealed no large visible violations of propor-
+tionality. Statistical testing indicated strong evi-
+dence of at least a small violation (P<0.001). The
+statistical analysis plan, available with the pro-
+tocol, anticipated that there would be interpret-
+ability issues for the logistic model if its assump-
+tions were violated and therefore specified the
+use of the win ratio24 (also known as a general-
+ized odds ratio25 ) as an additional assumption-
+free measure of treatment effect. The win ratio
+is calculated by forming all possible pairs con-
+sisting of one patient from the methylpredniso-
+lone group and one from the placebo group,
+then dividing the number of pairs in which the
+patient in the methylprednisolone group has a
+better outcome than the patient in the placebo
+group (i.e., a win) by the number of pairs in
+which the opposite occurs (i.e., a loss). A 95%
+confidence interval for the win ratio was calcu-
+lated with the use of the Agresti formula.25
+Exploratory analyses of heterogeneity of the
+treatment effect with respect to the primary end
+point were performed in prespecified subgroups.
+We used the covariate-adjusted proportional-
+odds model and modified it by estimating sub-
+group-by-trial-group interactions. Between-group
+differences with respect to all secondary end
+points were analyzed by means of regression
+modeling with adjustment for the same covari-
+ates as in the proportional-odds model used in
+the primary analysis. For binary outcomes, we
+used logistic regression. For postoperative length
+of hospital stay, we used the Fine and Gray
+model for time-to-event data,26 with in-hospital
+death as a competing risk.
+The statistical analysis plan did not include a
+provision to formally adjust for multiple com-
+parisons in the secondary end-point and sub-
+group analyses. Confidence intervals were not
+adjusted for multiplicity and should not be used
+in place of a hypothesis test.

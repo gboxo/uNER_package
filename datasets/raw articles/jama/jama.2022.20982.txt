@@ -1,0 +1,41 @@
+Statistical Analyses
+First, we compared the demographic characteristics and co-
+morbidities of patients hospitalized with STEMI and NSTEMI
+for each program in each calendar year; we present data for our
+first year (2009) and last year (2018) for simplicity with full re-
+sults for all study years available by request.
+Second, we calculated age- and sex-adjusted STEMI and
+NSTEMI rates (hospitalizations per 1000 enrolled population
+age ≥66 years per year), treatment approaches, outcomes, and
+measures of resource use for each program and calendar year,
+standardized to match the age and sex distribution of Medi-
+care Advantage enrollees in 2018.28 To test for differences in
+rates, we used χ2 tests or t tests as appropriate. Less than 0.1%
+of patients were missing data on either age or sex, and these
+observations were excluded from the analyses.
+Third, to adjust rates of 30-day mortality and 30-day
+readmissions for a larger set of patient characteristics, we
+estimated the Medicare Advantage/traditional Medicare dif-
+ference in rates using a nested sequence of linear regression
+models introducing, in turn, control variables for age and sex,
+sociodemographic characteristics (race and ethnicity and
+Medicaid dual eligibility), and Elixhauser comorbidities. To
+simplify the presentation of these results, we estimated this
+sequence of models for the first and last years of the study
+period separately.
+Fourth, we added hospital fixed effects to distinguish
+residual Medicare Advantage/traditional Medicare differ-
+ences due to systematically different assignment to high-
+performing hospitals vs those driven by treatment differ-
+ences within each hospital. Results in models that included
+hospital fixed effects were similar, so we present results from
+models that did not include hospital fixed effects. Because
+coefficients for readmission were largely similar when con-
+trolling for this broader set of covariates, we present the age
+and sex standardized results for readmissions. Statistical
+tests were considered significant at a threshold of P value of
+less than .05, and all testing was 2-sided. Because of the
+potential for type I error due to multiple comparisons, find-
+ings for analyses of secondary end points should be inter-
+preted as exploratory. Our analyses were performed using
+SAS version 9.4.29

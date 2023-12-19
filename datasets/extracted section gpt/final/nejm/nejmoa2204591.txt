@@ -1,0 +1,4 @@
+- Continual reassessment method
+- Bayesian logistic regression
+- Descriptive statistics
+- Two-sided CI

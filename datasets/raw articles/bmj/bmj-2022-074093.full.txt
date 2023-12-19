@@ -1,0 +1,136 @@
+Statistical analysis
+Football players and men from the general population
+were followed from cohort entry to emigration, outcome
+event, death, or end of follow-up (31 December 2020).
+Emigration, death that did not include an outcome
+event, and end of follow-up constituted censoring
+events. We used Cox regression analysis with age as the
+time scale and adjusted for region of residence, place
+of birth, and calendar time as a time varying covariate
+(supplementary table 3) to estimate the hazard ratio
+for the risk of the primary outcome among football
+players versus men from the general population.
+We performed additional analyses. Rules and norms
+regarding alcohol consumption among football players
+have differed substantially over time in Sweden.18 19 We
+therefore modelled the interaction between the year of
+the player’s first season in the top tier of competition
+using restricted cubic splines with 3 knots and a
+flexible parametric survival model20 to calculate the
+hazard ratio for football players versus matched men
+from the general population by year of the football
+player’s first season.
+Some of the most high profile cases of alcohol
+addiction have occurred among players famous for
+their goal scoring abilities. Previous studies have
+shown associations between personality traits and
+alcohol consumption.21 Therefore, we hypothesised
+that factors potentially associated with scoring goals
+(eg, sensation seeking),21 might also be associated
+with the risk of alcohol related disorders. Further,
+football players who have played many games and
+seasons in the top tier could have been more exposed
+to drinking culture associated with elite football, fame,
+and public scrutiny. Another possibility is that football
+players with drinking problems could have terminated
+their careers early. We therefore hypothesised that the
+number of games and seasons in the top tier might be
+associated with alcohol related disorders.
+In analyses restricted to football players, we used
+the Cox regression model additionally adjusted for
+birth cohort (categorical variable; supplementary table
+3) to separately assess the association with alcohol
+related disorders for number of goals scored per 10
+games (among outfield players who had played at
+least 10 games), the number of top tier games played,
+and the number of seasons played, modelled using
+cubic splines with 3 knots. We also assessed the risk
+of alcohol related disorders among outfield players
+versus goalkeepers.
+Studies have indicated that elite athletes could
+be at increased risk of alcohol related disorders
+after retirement from their elite careers14 15 22 owing
+to changes in life circumstances associated with
+retirement. We therefore assessed whether the risk of
+alcohol related disorders among football players versus
+men from the general population varied across age.
+As outcome data from death certificates and hospital
+admissions might poorly reflect the timing of the first
+diagnosis, we set the earliest cohort entry to 1 January
+2002, one year after the start of nationwide coverage
+for outpatient visits in the National Patient Register.
+We excluded football players (and matched men from
+the general population) and men from the general
+population who had died, emigrated, or had any
+history of alcohol related disorders before cohort entry.
+We calculated the hazard ratio of the risk of alcohol
+related disorders for football players versus men from
+the general population using the total follow-up time
+in this analysis, and in another analysis modelling age
+using restricted cubic splines with 3 knots.
+We performed a sensitivity analysis. The earliest
+possible cohort entry was in 1969. If players and men
+from the general population had different risks of death
+with alcohol related disorders, the exclusion of those
+who died before 1969 could introduce left truncation
+bias owing to a depletion of individuals susceptible to
+alcohol related disorders.23 We therefore conducted an
+analysis including only those players and those men
+from the general population who were 49 years or
+younger at cohort entry.
+We performed exploratory analyses assessing the
+impact of accounting for some characteristics that
+might differ between elite football players and men
+from the general population. Some men from the
+general population could have had severe health or
+social problems that precluded participation in the
+workforce and increased the risk of alcohol related
+disorders. Therefore, we performed two analyses that
+excluded men from the general population with zero
+registered income at cohort entry, and at age 40-44
+years (supplementary table 4). For these analyses, we
+excluded men from the general population without
+available income data and football players with no
+matched men from the general population for whom
+income data was available. We then performed the
+analysis with and without exclusion of men from the
+general population with zero registered income.
+Next, we used data from the Military Conscription
+Register. Firstly, we performed the analysis including all
+football players and men from the general population
+born in 1951-87, because military conscription was
+mandatory at around age 18 years for men born during
+this period.24 Individuals living abroad, those with
+certain health conditions, and those with functional
+impairments were exempt from conscription or
+tests (supplementary material (data sources) and
+supplementary table 4), so we performed the analyses
+excluding football players and men from the general
+population born 1951-87 without complete data on test
+results, including stress reliance, cognitive ability, body
+mass index, muscle strength, and cardiorespiratory
+exercise capacity (supplementary table 4). We then
+performed analyses adjusting for stress resilience and
+cognitive ability scores.25-27 Finally, we further adjusted
+the model for body mass index, muscle strength, and
+cardiorespiratory exercise capacity.
+The secondary outcome of disorders related to other
+drug misuse was also assessed. ICD-8 codes, which
+were used before 1987, did not contain diagnoses
+suitable for capturing the secondary outcome in death
+certificates, so we set the earliest date of cohort entry
+to 1 January 1987, when nationwide coverage in the
+National Patient Register for inpatient diagnoses
+began. In these analyses, we excluded players who
+died or emigrated before 1987 and their matched men
+from the general population, and men from the general
+population who died or emigrated before 1987. We also
+excluded players and men from the general population
+aged 65 years or older in 1987 to avoid potential left
+truncation bias.23
+Analyses were conducted using SAS software
+(version 9.4) and Stata (version 16.1). Hazard ratios
+whose confidence intervals did not overlap 1.0 were
+considered as significant.
+
+

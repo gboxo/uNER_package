@@ -1,0 +1,13 @@
+- Power calculation
+- Hazard ratio estimation
+- Two-sided alpha level
+- Interim analysis
+- Type I error rate
+- Unadjusted log-rank tests
+- Stratification by factors (VA health care system)
+- Competing-risk model
+- Adjusted Cox proportional-hazards models
+- Prespecified subgroup analyses
+- Point estimates
+- 95% confidence intervals
+- Software utilization (SAS software, version 9.4)

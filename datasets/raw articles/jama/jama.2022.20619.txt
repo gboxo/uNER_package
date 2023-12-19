@@ -1,0 +1,81 @@
+Analysis
+We examined the relationship between physicians’ MIPS scores
+and their performance on process and outcome measures. MIPS
+scores were categorized into low (≤30), medium (>30-75), and
+high (>75) performance, which aligns with MIPS program
+thresholds for payment adjustments (physicians with scores
+<30 received penalties and those with a score of 30 received
+no adjustment, while those with scores >30-75 received posi-
+tive adjustments and those with scores >75 were eligible for
+an “exceptional performance” bonus). We used categorical
+rather than continuous MIPS scores because of the highly
+skewed distribution. Using t tests to identify statistically sig-
+nificant differences, we compared the mean physician perfor-
+mance on process and outcome measures across MIPS score
+categories. The sample varied across analyses for process or
+outcome measures because some physicians had no relevant
+attributed patients for a particular measure.
+MIPS scores, which are based primarily on process mea-
+sures such as those included in this analysis, are not adjusted
+for patient clinical or social complexity; therefore, we used un-
+adjusted process measures to examine physicians’ perfor-
+mance on process measures. However, to examine physician
+performance on outcome measures, we adjusted for the clini-
+cal complexity of attributed patients. To construct the risk-
+adjusted outcome, we first calculated a physician’s observed-
+to-expected event rate using a patient-level logistic regression
+adjusting for enrollee age, sex, and Hierarchical Condition Cat-
+egory risk score, as well as physicians’ hospital referral re-
+gion. Enrollee age and Hierarchical Condition Category risk
+score were included as categorical variables to allow a nonlin-
+ear relationship with the outcome. Hospital referral region con-
+trols enabled outcomes to differ across regions. The event rate
+was scaled by the base rate in the sample and can be inter-
+preted as the rate that would be expected had the physician
+treated the average case-mix of patients. To account for varia-
+tion in a physician’s panel size, an empirical Bayes shrinkage
+estimator was applied to the adjusted outcomes, following an
+approach used in previous literature (additional details avail-
+able in the eMethods in Supplement 1).25,26
+We calculated the frequency at which physicians’ MIPS
+scores were discordant with their performance on patient out-
+comes. To ensure that outcome measures with large variabil-
+ity did not drive the composite outcome score, we created a
+composite outcome score for each physician by combining the
+unscaled risk-adjusted rates (observed-to-expected rate)
+weighted by each adjusted outcome’s inverse standard devia-
+tion. As a sensitivity analysis, we created a composite score
+weighting each outcome equally. We classified physicians into
+quintiles based on the composite score. We then compared the
+proportion of physicians in each quintile by low, medium, and
+high MIPS score status.
+We identified the characteristics of physicians for whom
+MIPS scores were discordant (in either direction) with their per-
+formance on patient outcome measures. We compared mean
+physician, practice, and patient panel characteristics for phy-
+sicians with discordance vs concordance using t tests to iden-
+tify statistically significant differences. Comparisons were sepa-
+rated by physicians with low vs high MIPS scores because the
+differences between discordant and concordant physicians
+could vary for each group (ie, characteristics for physicians with
+low MIPS scores and superior outcomes were potentially dif-
+ferent from the characteristics of physicians with high MIPS
+scores and poor outcomes). Because of the potential for type
+I error due to multiple comparisons, findings should be inter-
+preted as exploratory.
+We performed 2 additional sensitivity analyses. First, we
+repeated all analyses with a restricted sample of primary care
+physicians who had at least 1 attributed patient for every out-
+come measure and most process measures to compare a con-
+sistent set of physicians across all quality measures. We did not
+require physicians to have the tobacco screening measure for
+this analysis because a relatively small proportion of physi-
+cians have valid data for this measure owing to infrequent use
+of necessary modifier codes. Second, we used the 2022 per-
+formance year thresholds (physicians with scores <75 may re-
+ceive penalties, while those with scores >89 are eligible for an
+“exceptional performance” bonus) instead of the 2019 perfor-
+mance year thresholds to test the sensitivity of our results to
+the various program threshold values.
+Analyses were conducted using Stata version 16 (StataCorp).
+P < .05 (2-sided) was considered statistically significant.

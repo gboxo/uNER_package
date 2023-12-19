@@ -1,0 +1,7 @@
+- Age standardisation
+- Calculation of 95% confidence intervals
+- Joinpoint regression
+- Monte Carlo permutation method
+- Least squares regression
+- Generalised additive models
+- Proportional contribution estimation

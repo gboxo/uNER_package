@@ -1,0 +1,8 @@
+- Logistic regression
+- Odds Ratios
+- ANCOVA
+- Geometric Means
+- Subgroup analyses
+- Bonferroni Correction
+- Significance level
+- Point estimates with CIs

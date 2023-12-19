@@ -1,0 +1,100 @@
+tatistical Analysis
+On the basis of data from previous phase 2 trials
+involving patients with eosinophilic esophagi-
+tis25,34 and assuming a dropout rate of 15%, we
+calculated that a sample of 40 patients per trial
+group would provide Part A of the trial with
+more than 99% power to detect a between-group
+difference of 62 percentage points with respect
+to histologic remission at week 24 (65% with
+dupilumab and 3% with placebo) at a two-sided
+significance level of 5% using Fisher’s exact test.
+We also calculated that the enrollment of 40
+patients in each group would provide 80%
+power to detect a between-group difference in
+the absolute change from baseline in DSQ score
+at week 24 of −9.0 points, with a common stan-
+dard deviation of 13.0, at a two-sided signifi-
+cance level of 5%, using a two-sample t-test. On
+the basis of the results in Part A, we calculated
+that 70 patients per trial group would provide
+Part B of the trial with more than 99% power to
+detect a between-group difference of 55 percent-
+age points with respect to histologic remission
+at week 24 (60% with dupilumab and 5% with
+placebo) at a two-sided significance level of 5%
+using Fisher’s exact test. We also calculated that
+the enrollment of 70 patients per trial group
+would provide more than 99% power to detect a
+between-group difference in the absolute change
+from baseline in the DSQ score at week 24 of
+–12.3 points, with a common standard deviation
+of 15.0, at a two-sided significance level of 5%,
+using a two-sample t-test.
+Efficacy analyses were performed in the full
+analysis set (all the patients who had undergone
+randomization). Safety analyses were performed
+in the safety analysis set (all the patients who
+had undergone randomization and received at
+least one dose or part of a dose of dupilumab or
+placebo). The between-group differences in the
+percentage of patients with histologic remission
+and all binary secondary end points were ana-
+lyzed with the use of the Cochran–Mantel–
+Haenszel test adjusted for randomization strati-
+fication factors (i.e., age [12 to <18 years or ≥18
+years] and use of PPIs at randomization [yes or
+no]). Differences between the dupilumab and
+placebo groups in the absolute change from
+baseline in the DSQ score and all continuous
+secondary end points were analyzed with the use
+of analysis of covariance, with trial group, ran-
+domization stratification factors, and score at
+baseline (i.e., baseline DSQ score in the case of
+absolute change in DSQ score) as covariates in-
+cluded in the model. Safety analyses were de-
+scriptive.
+Parts A and B were carried out as two sepa-
+rate trials with no overlapping patients. Each trial
+part had a separate and independent two-sided
+alpha level of 0.05 and was considered to be
+positive independently on the basis of the sig-
+nificance of the findings with respect to the two
+primary end points. For each trial part, a hierar-
+chical procedure was applied to control the type
+I error. The hierarchical order for each trial part
+is provided in Tables S2 and S3. A P value of less
+than 0.05 was required for both primary end-
+point measures to consider the results for either
+to be significant. The testing would proceed to
+the next end point only if the difference was
+significant for the previous one.
+In Parts A and B, to account for the use of
+rescue treatment in the primary analysis for a
+peak esophageal intraepithelial eosinophil count
+of 6 or fewer eosinophils per high-power field,
+patients were considered to have had no re-
+sponse after the use of rescue treatment. For the
+primary end point of absolute change from base-
+line in the DSQ score, data were imputed with
+the use of multiple imputation for all time points
+subsequent to the use of rescue treatment. Pa-
+tients with missing values for the peak esopha-
+geal intraepithelial eosinophil count at week 24
+were classified as having no response if data
+were missing for reasons other than those related
+to coronavirus disease 2019 (Covid-19), or data
+were imputed with the use of multiple imputa-
+tion if they were missing because of restrictions
+related to Covid-19. The missing DSQ scores at
+week 24 were imputed with the use of multiple
+imputation. The 95% confidence intervals for the
+absolute change from baseline in the DSQ score
+were calculated according to Rubin’s formula. In
+Part C, analyses in the Part A–C group were
+purely descriptive and were based on all observed
+data regardless of the use of rescue treatment.
+Full details of the statistical methods are provided
+in the Supplementary Appendix and the statisti-
+cal analysis plan (available with the protocol).s
+

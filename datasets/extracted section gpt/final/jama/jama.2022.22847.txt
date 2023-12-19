@@ -1,0 +1,5 @@
+- T-tests
+- Fisher's exact test
+- Firth regression
+- Bonferroni adjustment
+- Test of proportions

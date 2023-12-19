@@ -1,0 +1,54 @@
+Statistical Analysis
+The overall and annual prevalence of self-reported labor union
+coverage among US health care workers was examined
+throughout the 2009-2021 study period. To assess whether
+there was an increasing or decreasing trend of labor unioniza-
+tion across the last decade, trend analysis was conducted using
+the Cox-Stuart trend test.14 The prevalence of unionization was
+estimated by state and types of health care workers. The preva-
+lence odds ratios and their 95% CIs for being a unionized vs
+nonunionized worker by sociodemographic groups were es-
+timated using multivariable logistic regression.
+To evaluate associations between unionization with pay,
+noncash benefits, and work hours, each outcome was re-
+gressed on unionization status in separate models, adjusting
+for sociodemographic characteristics (age, sex, race and eth-
+nicity, state of residence, metropolitan or rural area, central city
+status, occupation, education, mean weekly work hours, pub-
+lic or private sector employee). Linear regression was used for
+pay (ie, mean weekly earnings), employers’ contributions to
+workers’ health insurance plan, and work hours outcomes, and
+logistic regression for noncash benefit outcomes to estimate
+multivariable models and marginal means with 95% CIs. All
+dollars were inflation-adjusted to 2020 US dollars using the
+consumer price index.
+Disparities in pay among sex and racial and ethnic sub-
+groups have been documented in the literature.10,11,15 Two-
+sided t tests were used to test for interactions between union
+membership and mean weekly earnings by sex and by race and
+ethnicity groups. Because of the paucity of studies in diverse
+populations, stratified analyses were prespecified and con-
+ducted by sex (male; female) and by racial and ethnic groups
+(Asian, Hispanic, or non-Hispanic Black; non-Hispanic White).
+Several sensitivity analyses were conducted. To examine
+the potential different effect of union membership and union
+coverage, individuals who reported being covered by a labor
+union but not being a member were excluded from the union-
+ized group. To provide a more generalized assessment of health
+insurance benefits, analyses were conducted to examine the
+likelihood of having employer-sponsored partial or full pre-
+mium–covered health insurance plans compared with none.
+To determine whether there remains residual influence of the
+cost of living on the association between unionization and pay
+(ie, mean weekly earnings) besides state of residence and cen-
+tral city status, analyses were conducted in the subsample of
+2000 respondents living in major metropolitan areas.
+All estimates were weighted to be nationally representa-
+tive and correct for nonresponse bias. Less than 0.5% of data
+were missing for weekly earnings; therefore, missing data were
+classified as unknown in our model for the pay outcome.
+Throughout, a 2-sided P < .05 was considered statistically
+significant. Because of the potential for type I error due to
+multiple comparisons, findings should be interpreted as
+exploratory. All analyses were performed using R version 3.6.3
+(R Foundation).

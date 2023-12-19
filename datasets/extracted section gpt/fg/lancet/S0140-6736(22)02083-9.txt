@@ -1,0 +1,23 @@
+- Power calculations
+- Time-to-first-event analysis
+- Cox proportional hazards model
+- Recurrent event analysis
+- Meta-analysis
+- Odds ratio calculation
+- Hazard ratio assumption revision
+- Covariate inclusion in analyses
+- Validly randomly assigned population analysis
+- Rate ratio estimation
+- Mean frequency function display
+- Prespecified subgroup analyses
+- Hierarchical analysis of endpoints
+- Cumulative incidence functions
+- Kaplan-Meier curves
+- Interaction term testing for non-proportionality of hazards
+- Analysis of covariance (ANCOVA)
+- Multiple imputation for missing values
+- Safety analysis assuming binomial distributions
+- Sensitivity analysis with censoring
+- Independent data monitoring committee interim analyses
+- Use of SAS software
+- Use of R software

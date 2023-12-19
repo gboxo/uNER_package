@@ -1,0 +1,92 @@
+Statistical Analysis
+Baseline covariates were compared between the
+exposure groups with the use of standardized
+mean differences (a difference of <10% was con-
+sidered to be balanced). Propensity scores for
+each exposure window were calculated with the
+use of logistic regression, with exposure to bu-
+prenorphine as the dependent variable and with
+all the covariates as independent predictors.23 In
+addition, we used a high-dimensional propensity-
+score algorithm to empirically select variables from
+all available diagnosis codes, procedure codes, and
+medication dispensings, with the goal of captur-
+ing confounders beyond the prespecified list.24
+All the prespecified covariates were forced into
+the high-dimensional propensity-score model, and
+200 additional covariates were included on the
+basis of the strength of their relationship to the
+exposure status.
+Overlap weights were calculated. This meth-
+od upweighted persons in the overlapping por-
+tion of the propensity-score distribution by as-
+signing each person a weight reflective of the
+propensity to receive the alternative treatment and
+created perfect balance between the exposure
+groups with regard to all the covariates included
+in the propensity score.25 Crude and adjusted risk
+ratios for buprenorphine as compared with meth-
+adone were estimated with the use of log-bino-
+mial regression, and two-sided 95% confidence
+intervals were calculated with the use of a robust
+variance estimator to account for weighting. Ab-
+solute risk differences were estimated with the
+use of weighted binomial regression. No adjust-
+ment was made for multiple testing, so the widths
+of the confidence intervals should not be used in
+place of hypothesis testing.
+Multiple sensitivity analyses were conducted
+to test the robustness of the findings. Exposure
+misclassification is possible for buprenorphine
+because we had records of dispensings, not of
+consumption, whereas methadone was adminis-
+tered under supervision in a clinic. To address this
+potential misclassification, buprenorphine expo-
+sure was redefined as two or more dispensings
+during the exposure window on the assumption
+that if the medication was refilled, it was probably
+taken as prescribed.
+We did not require a diagnosis code for opioid
+use disorder in order for a person to be included
+in the study population because we limited expo-
+sure to formulations and procedure codes that
+were indicated only for opioid agonist therapy.
+To test the robustness of the underlying assump-
+tion that all the patients treated with these for-
+mulations had opioid use disorder, the cohort
+was restricted to pregnant persons with a diag-
+nosis code for opioid use disorder from 90 days
+before the last menstrual period to 1 day before
+delivery.
+Buprenorphine and methadone treatment were
+not covered by Medicaid in all states or for all
+years of our study period. This factor could have
+introduced confounding if the risk of the outcomes
+varied between states or changed over time. There-
+fore, we identified the start of Medicaid coverage
+for buprenorphine and methadone treatment in
+each state26 and limited the analysis to pregnan-
+cies in which the date of the last menstrual period
+occurred when both medications were covered by
+Medicaid.
+Persons who received buprenorphine may have
+received more comprehensive care in an office-
+based care setting than persons who received
+methadone in an opioid treatment program,16,27
+which could have resulted in the underdiagnosis
+of health conditions in persons who received
+methadone; therefore, we performed an analysis
+in each group that included only pregnant per-
+sons who received the highest level of prenatal
+care according to the Adequacy of Prenatal Care
+Utilization Index (which measures the adequacy
+of the timing of initiation of prenatal care and
+number of received prenatal care visits).22 Preg-
+nant persons who received timely prenatal care
+were assumed to have similar quality of care
+across all health care domains and therefore to
+be less susceptible to residual confounding. Fi-
+nally, in order to quantify potential bias owing
+to unmeasured confounding and outcome misclas-
+sification, we conducted an E-value assessment28
+and quantitative bias analyses.29

@@ -1,0 +1,60 @@
+Statistical Analysis
+We determined that a sample size of 36,000 men
+would provide the trial with 80% power to show
+the superiority of MRI-targeted biopsy alone as
+compared with systematic biopsy with respect to
+the reduction in clinically insignificant prostate
+cancer, with the use of a two-sided test at a sig-
+nificance level of 0.05 for the primary outcome.
+These calculations were based on the assumption
+that the strategy of using MRI-targeted biopsy
+alone would reduce the overdiagnosis of clinically
+insignificant cancer by 50% (Section S7).
+We performed analyses on the results of the
+first screening round of the GÖTEBORG-2 trial
+(Fig. 1). The main analysis, performed according
+to the intention-to-treat principle, examined data
+from all the participants in the two groups, re-
+gardless of whether they had adhered to the
+protocol. Two variants of per-protocol analyses
+were performed as sensitivity analyses. For pur-
+poses of the intention-to-treat analysis, partici-
+pants who had an indication for biopsy but did
+not undergo biopsy were considered not to have
+cancer. To investigate the importance of these
+missing values, we performed another sensitivity
+analysis based on multiple imputation of the
+primary outcome (Section S8).
+The per-protocol analysis was restricted to
+participants who had strictly adhered to the di-
+agnostic pathway specified in the protocol. The
+modified per-protocol analysis included data
+from participants who had strictly adhered to
+the diagnostic pathway, but excluded results from
+possible systematic biopsies in the experimental
+group if those biopsies had been performed dur-
+ing the diagnostic biopsy phase of the trial and
+the targeted biopsies were benign.
+We evaluated the primary and secondary out-
+comes by comparing the relative risk and differ-
+ence in cancer detection between the experimen-
+tal group and the reference group and calculated
+two-sided 95% confidence intervals. The biopsy
+results in the reference group were evaluated in
+two ways: one that included all cancers that had
+been detected (results from MRI-targeted and
+systematic biopsy) and one that included cancers
+that were detected when targeted biopsy was
+disregarded (results from systematic biopsy only).
+The score method was used for testing and calcu-
+lating confidence intervals.24 The widths of the
+confidence intervals were not adjusted for multi-
+plicity and should not be used in place of hypoth-
+esis testing. Significance testing was performed
+only for the main definition of clinically insig-
+nificant cancer (Gleason score, 3+3). A P value of
+less than 0.05 was considered to indicate statis-
+tical significance. Statistical analyses were con-
+ducted with the use of R statistical software,
+version 4.0.3 (R Foundation).
+

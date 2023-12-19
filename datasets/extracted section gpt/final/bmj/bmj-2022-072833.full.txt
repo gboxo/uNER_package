@@ -1,0 +1,6 @@
+- Linear mixed models
+- Bonferroni Correction
+- Pairwise comparisons
+- Mean and standard deviation
+- Confidence intervals
+- Pearson Correlation

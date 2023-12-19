@@ -1,0 +1,18 @@
+Statistical Analysis
+Dichotomous outcomes were compared via χ2 test. All ran-
+domized participants were analyzed according to their
+randomization group. The per-protocol analysis set included
+all randomized patients who underwent a frozen embryo
+transfer and had no major protocol deviation. Post hoc subset
+analyses were performed: (1) including only those partici-
+pants with nonreceptive endometrial receptivity results
+(those for whom any adjustment in transfer timing was rec-
+ommended) and (2) including only those participants for
+whom endometrial receptivity testing recommended an
+adjustment of at least 24 hours relative to standard timing.
+Analyses were performed using the R statistical computing
+system (version 3.6.3; The R Foundation). No interim analysis
+was performed. A 2-tailed P value less than .05 was consid-
+ered statistically significant. Because of the potential for type
+I error due to multiple comparisons, findings for analyses of
+secondary end points should be interpreted as exploratory.

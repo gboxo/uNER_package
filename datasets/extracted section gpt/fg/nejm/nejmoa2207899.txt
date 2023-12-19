@@ -1,0 +1,19 @@
+- Power calculation
+- Relative difference estimation
+- Event rate calculation
+- Type I error rate consideration
+- Sample size determination
+- Crossover consideration
+- Loss to follow-up consideration
+- Interim analysis
+- Intention-to-treat principle
+- Kaplan–Meier plots
+- Log-rank test
+- Cox proportional hazards model
+- Stratification according to randomization
+- Hazard ratio calculation
+- Confidence interval calculation
+- Multiple imputation
+- P value correction (for interim analyses)
+- SAS Enterprise Guide software
+- R software

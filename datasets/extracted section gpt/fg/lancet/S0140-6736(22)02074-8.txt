@@ -1,0 +1,25 @@
+- Summary data extraction
+- Consensus discussion
+- Efficacy analyses
+- Definition-based outcome assessment
+- Re-analysis of eGFR data
+- Medical Dictionary for Regulatory Activities
+- Standardisation across trials
+- Cause-specific mortality assessment
+- Prespecified subgroup analysis
+- Sensitivity analysis
+- Exploratory analyses
+- Cox models
+- Log relative risk (RR) estimation
+- Inverse-variance-weighted averages
+- Meta-analysis
+- Tests of between-study heterogeneity
+- Standard χ² tests for heterogeneity
+- Forest plots
+- χ² test for trend
+- Estimation of mean and SD from median and IQR
+- Sensitivity analysis for albuminuria levels
+- Rate of outcome events per 1000 patient-years
+- Estimation of absolute benefits and harms
+- Use of SAS (version 9 4) 
+- Use of R (version 3 6 2)

@@ -1,0 +1,104 @@
+Statistical analysis
+Summary statistics are presented for all outcome
+measures, with the relevant adjusted relative effect
+measures (risk ratio), 95% CIs and p values from
+two-sided tests. After monitoring baseline variables
+during the trial and before finalising the statistical
+analysis plan, we planned to adjust the primary outcome
+analysis for imbalanced variables likely to influence
+results owing to the clustered design. These included
+hospital-level minimisation variables (country and
+non-referral vs referral hospital type) and key patient
+factors, which were both deemed by the trial management
+group to be of high clinical importance (contamination
+and urgency of surgery), which might be imbalanced
+because of the cluster design. No adjustment for multiple
+comparisons was made. For all binary outcomes, adjusted
+risk ratios (with 95% CIs) were calculated by means of
+multilevel log-binomial regression models when possible.
+Standardised residuals for each level (hospital nested
+within country, by means of an unstructured covariance
+structure) to account for the clustered nature of the
+sample, and hospital type, contamination, operative
+approach, and timing of surgery as fixed effects. The
+intraclass correlation coefficient used in the model was
+calculated by means of the one-way ANOVA method,
+with bootstrapped (cluster resampling with replacement)
+95% CIs (1000 replications were sampled).17 If the
+log-binomial model failed to converge, a multilevel
+modified Poisson regression model with robust standard
+errors was used to estimate the same parameters.
+Standardised residuals for each level of random effects
+and the joint distribution of the random-effect terms were
+examined to confirm that they followed a multivariate
+normal distribution. For length of hospital stay, a
+multilevel linear mixed model was used, after checking
+that assumptions of linear models were met, and adjusted
+mean differences with 95% CIs were presented.
+Sensitivity analyses were done for the primary outcome
+to explore the effectiveness of the intervention under
+different scenarios. First, a per-protocol analysis, where
+participants not adherent to their randomised treatment
+were excluded from the analysis population. Second,
+best-case and worst-case scenarios, where all patients
+with missing data for the primary outcome were recoded
+as having achieved the primary outcome (ie, SSI “yes”) or
+having not achieved the primary outcome (ie, SSI “no”)
+respectively. This analysis also included those who died
+before 30 days without having an SSI and were therefore
+excluded from the intention-to-treat primary analysis.
+Third, cluster size sample size scenarios, to take into
+account differing cluster sizes, activity, and recruitment
+rates, which might represent the complexity of hospitals,
+with larger hospitals offering more complex surgery. Two
+sensitivity analyses were done to address this: including
+only clusters that reached the central recruitment target
+(200 patients) and including only clusters that reached
+50% of the recruitment target (100 patients). Finally, a
+sensitivity analysis adjusting for only the minimisation
+factors (country and type of hospital) was done.
+The following prespecified subgroup analyses were
+done for the primary outcome to explore whether there
+was any evidence of differential treatment effects:
+country (type of hospital [non-referral vs referral], urgency
+of surgery [elective vs emergency], contamination of
+wound [clean–contaminated vs contaminated–dirty],
+operative approach [midline vs non-midline] and age of
+patient [children (≤16 years) vs adults (>16 years)]). Tests
+for statistical heterogeneity are presented alongside the
+effect estimate within subgroups. Heterogeneity was
+assessed by including an interaction parameter of the
+subgroup of interest and treatment group in the model.
+Subgroup analyses used a test of interaction to explore
+whether there was evidence that the treatment effects
+differed across subgroups. An exploratory, descriptive
+subgroup analysis by type of 30-day follow-up consent
+[written vs verbal] was also done.
+The sample size control group rate of 16% was based
+on published GlobalSurg 2 cohort study data.1 To
+detect an absolute difference of 4% (relative reduction
+of 25%, considered by an international group of surgeons
+as the minimum clinically important risk reduction)
+to 12%, with 90% power and by means of a 5% two-sided
+significance level, a minimum of 1580 participants were
+required in each group. To allow for clustering of centres
+the sample size was adjusted by inflating the estimate by
+the design effect given by 1 + (n–1)ρ, where n is the average
+cluster size and ρ is the estimated intraclass correlation
+coefficient. The estimate for intraclass correlation
+coefficient was also calculated from GlobalSurg 2 data.1
+With an assumption of an intraclass correlation coeffi­
+cient value of 0·01, power calculations indicated that
+30 clusters (average size=170 participants) per treatment
+group were required. After allowing for 15% loss to
+follow-up rate for participants and 5% dropout rate for
+clusters, the total sample size was 6400 per group, aiming
+for recruitment from 32 clusters per group (64 total) with
+an average of 200 participants. This also allowed for
+variation in cluster size across our heterogeneous delivery
+network (coefficient of variation=0·5). The sample size
+was calculated by means of the clustersampsi Command
+in Stata 15. The trial was registered with ClinicalTrials.go,
+NCT03700749.
+
+

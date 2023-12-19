@@ -1,0 +1,14 @@
+- Risk difference estimation
+- One-sided CI
+- Farrington-Manning test
+- Per-protocol analysis
+- Full analysis set
+- Relative Risks Estimation
+- Chi-square test
+- t-test
+- Mann-Whitney U Test
+- Bootstrapping
+- Kaplan-Meier curve
+- Log-rank test
+- Sensitivity analysis
+- Multiple imputation

@@ -1,0 +1,5 @@
+- κ (kappa) statistics with Fleiss-Cohen weights
+- Mean percentage calculation
+- Percentage of manuscripts with ≥50% editor agreement
+- Cut-off based analysis (>30 and >50 citations)
+- Citation analysis within the first two years after publication

@@ -1,0 +1,65 @@
+Analytic Plan
+All changes to the final analytic protocol were made before
+study results were reviewed. Investigators and data analysts
+were unaware of outcome results until all follow-up data were
+obtained and the primary analytic strategies were finalized.
+Means and frequencies of prerandomization variables were
+reported separately for each group. Differences between treat-
+ment groups were evaluated using standardized mean differ-
+ences. Participants were analyzed according to their random-
+ization group, regardless of adherence. Analyses for the 2
+primary outcomes compared each treatment with usual care
+using multiple imputation to handle missing data and a
+Bonferroni-corrected 2-tailed type I error of .025. We per-
+formed 20 imputations with a fully conditional specification
+using Proc MI in SAS.30 Imputation was performed with the
+following prespecified variables: age, study group, study site,
+clinic, sex, race and ethnicity, body mass index, exercise fre-
+quency at baseline, education, employment status, smoking
+status, other medical conditions at baseline, number of medi-
+cations used for spine pain at baseline, duration of pain at base-
+line, number of previous pain episodes, STarT Back score, base-
+line ODI, baseline self-efficacy, baseline EQ-5D-5L, and scores
+for patient-reported outcomes at every follow-up point (ODI,
+cost, Lorig et al self-efficacy scale, and EQ-5D-5L). Each im-
+puted data set was analyzed separately using Proc GENMOD
+in SAS (with an identity link and normally distributed errors
+for ODI and a log link and Poisson-distributed errors for spine-
+related spending). Models adjusted for the correlation of
+participants within clinics (ie, the cluster randomized de-
+sign) and included fixed effects for the delivery networks used
+for recruitment. Individual models were pooled using Proc
+MIANALYZE and adjusted for age and sex. Secondary analy-
+ses adjusted for covariates that had standardized mean dif-
+ferences greater than 0.1 at baseline despite randomization.
+We conducted several prespecified sensitivity analyses.
+First, for pain-related disability, we evaluated the proportion of
+participants achieving a 6-point reduction in ODI from baseline
+to 3 months. These models used a logit link and binary distrib-
+uted errors. Second, we conducted a complete-case analysis in-
+cluding individuals with no missing data. Third, because re-
+source utilization and ODI were collected at multiple points, we
+evaluated cost and ODI data from each point using a repeated
+measures design. Fourth, because of the skewed nature of cost
+data, we repeated our analyses after replacing extreme cost val-
+ues with the 95th percentile value for costs.
+We evaluated the effect of treatment within prespecified
+subgroups including age, sex, STarT Back risk group, pain lo-
+cation, and whether this was the patient’s first pain episode.
+These analyses included terms interacting with the subgroup
+variable of interest and indicator terms for study group assign-
+ment. We considered treatment effects to differ by subgroup if
+the 2-tailed P value for the interaction term was less than .05.
+Post hoc analyses evaluated spine-related spending after
+excluding the cost of the ICE and IPT interventions and the
+comparison of rates of outpatient visits, procedures, diagnos-
+tic testing, emergency department visits, hospitalization days,
+and medication use.
+Prespecified analyses of secondary outcomes and post hoc
+analyses used the same methods as the primary ODI analy-
+ses, using 2-tailed P values with a type I error rate of .05.
+Because of the potential for type I error due to multiple com-
+parisons, findings for secondary end points should be inter-
+preted as exploratory.
+All analyses used SAS version 9.4 (SAS Institute Inc).
+

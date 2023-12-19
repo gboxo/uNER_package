@@ -1,0 +1,14 @@
+- Power calculation
+- Relative Difference Estimation
+- Event rate calculation
+- Type I error consideration
+- Sample size determination
+- Interim analysis
+- Intention-to-treat analysis
+- Kaplan–Meier
+- Log-rank test
+- Cox model
+- Hazard ratio
+- Confidence interval
+- Multiple imputation
+- P value correction

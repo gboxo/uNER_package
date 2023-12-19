@@ -1,0 +1,167 @@
+Statistical analysis
+We present continuous variables as mean (SD) or as
+adjusted mean (SE), as appropriate, and categorical
+variables as absolute and relative frequencies. We did all
+efficacy and safety analyses in the intention-to-treat
+(ITT) population, which included all patients who were
+validly randomised to the treatment group to which they
+were randomly assigned. Analyses of all 180-day outcomes
+included only patients enrolled at sites where the ethics
+committees approved protocol amendment 1 or 2,
+allowing follow-up of patients to day 180.
+We compared the occurrence of primary endpoint events
+between treatment groups using a χ² test of the difference
+in 180-day event rates between groups, calculated from the
+difference in Kaplan-Meier estimates of the cumulative
+risks at 180 days adjusted for LVEF (≤40% vs >40%) and
+geographical region (South America, Russia, Africa, and
+western and eastern Europe) using Mantel-Haenszel
+weights, and from the variance calculated from their
+associated SEs. We combined countries into regions for
+analysis because of the sparseness of events in some
+countries. Because the protocol was amended on the basis
+of a lower than expected event rate to increase the sample
+size and change the primary endpoint from 90-day to
+180-day death or heart failure readmission, for 180-day
+outcomes we down-weighted the results of the initial
+cohort (hereafter referred to as cohort 1; which included
+patients randomly assigned to treatment on or before
+Feb 7, 2020) in the main analysis, proportional to half its
+sample size.18 The remaining patients (ie, recruited after
+Feb 7, 2020), are referred to as cohort 2. We present the
+total number of events and adjusted and down-weighted
+event rates in each treatment group, and both the adjusted
+risk difference (the absolute difference in proportions) and
+adjusted risk ratio [RR] for the primary endpoint. Based on
+simulations, with 1800 patients randomly assigned to
+treatment groups, we estimated the study to have
+approximately 89% power to detect a difference in event
+rates of 14% versus 20% at the two-sided 0·05 significance
+level.
+In prespecified analyses of the primary endpoint, we
+assessed subgroup-by-treatment group interactions by
+comparing estimated treatment group risk differences
+between subgroups defined by age at study entry
+(≤65 vs >65 years and ≤75 vs >75 years), baseline
+LVEF (≤40% vs >40%), baseline systolic blood pressure
+(≤median vs >median), baseline local value of
+NT-proBNP (≤median vs >median), and history of atrial
+fibrillation or flutter or atrial fibrillation or flutter
+present at screening (yes vs no). In post-hoc analyses,
+we examined additional subgroups including baseline
+LVEF (<50% vs ≥50%), region (Europe vs not Europe),
+race (White or Caucasian vs not White), sex (male vs
+female), and baseline estimated glomerular filtration
+rate (≤median vs >median). We constructed a χ² test of
+the treatment-by-subgroup interaction from the
+unadjusted Kaplan-Meier estimates of event rate
+differences and associated SEs in each level of a
+subgroup factor. Event rates from cohort 1 were down-
+weighted in these subgroup analyses.
+Secondary endpoints were to be tested sequentially. For
+the prespecified main analysis of the EQ-VAS, we used
+only observed data and excluded patients for whom no
+linguistically validated EQ-5D translation was available.
+We compared treatment groups using ANCOVA, with
+fixed terms for treatment, LVEF (≤40 vs >40%),
+geographical region, and baseline value. We analysed the
+secondary, prespecified exploratory, and sensitivity
+180-day clinical outcomes similarly to the primary
+endpoint. For 90-day outcomes, patients enrolled at all
+sites were included and the results of cohort 1 were not
+down-weighted.
+We calculated the Finkelstein-Schoenfeld hierarchal
+composite endpoint by comparing each patient with
+every other patient within randomisation strata with
+respect to a hierarchy of outcomes: time to death up to
+day 90, number of heart failure readmissions up to
+day 90, and categorised change in EQ-5D VAS from
+baseline to day 90. We present the treatment effect
+as the Mann-Whitney odds adjusted for LVEF
+(≤40% vs >40%) and geographical region using Mantel-
+Haenzsel weights. We compared treatment groups
+using the van Elteren’s test, stratified by LVEF
+(≤40% vs >40%) and geographical region, using modified
+ridit scores.
+We did prespecified sensitivity analyses of the primary
+endpoint in which the results in cohort 1 were fully
+weighted according to its sample size and in which
+results in cohort 1 were discarded thus including only
+results in cohort 2. We also did a prespecified sensitivity
+analysis to assess the effect of COVID-19 on the result,
+in which we censored the time to event in patients who
+died due to COVID-19 without a previous hospitalisation
+due to heart failure on the date of death due to COVID-19.
+To assess the effect of investigator experience on the
+findings, we did a prespecified sensitivity analysis of the
+primary endpoint only including patients at sites that
+enrolled more than ten patients. We did a prespecified
+sensitivity analysis of the change in EQ-VAS from
+baseline to day 90 in which a missing value due to death
+was set to 0 (“the worst health you can imagine”) and
+then remaining missing values were multiply imputed;
+estimates and tests of treatment effect were then
+combined over the imputation datasets using Rubin’s
+algorithm. We did post-hoc exploratory analyses to
+assess all-cause death or all-cause readmission to
+hospital at 180 days, including COVID-19-related events
+and excluding COVID-19-related events. In these
+analyses, we used the same methods as for the primary
+endpoint, with the same adjustment for LVEF and
+geographical region and with results in cohort 1 down-
+weighted.
+We compared treatment groups with respect to
+changes in vital signs and in local laboratory values from
+baseline to day 90 using ANCOVA models with fixed
+terms for treatment, LVEF (≤40% vs >40%), geographical
+region, and baseline value; we present least square mean
+(SE) for each treatment group along with the estimated
+adjusted mean treatment group difference (95% CI).
+Local measurements of NT-proBNP greater than the
+upper reporting limit for the assay used were set to the
+upper reporting limit; values were log-transformed for
+analysis. Geometric means with associated 95% CIs at
+each visit, and adjusted ratios of follow-up to baseline
+geometric means are presented in each treatment group,
+along with the treatment group ratio of these ratios. We
+compared the treatment groups with respect to ordered
+categorical measures of heart failure signs and symptom
+severity using van Elteren’s tests, stratified by LVEF
+(≤40% vs >40%), geographical region, and baseline value;
+we present treatment effects as Mann-Whitney odds
+stratified by LVEF (≤40% vs >40%), geographical region,
+and baseline value.
+As stated in the protocol, the DSMB could recommend
+that the study be discontinued for futility at either of
+two planned interim futility analyses if the estimated
+conditional power for the primary endpoint—assuming
+that the treatment effect assumed for the sample size in
+the protocol applies to the remainder of the study—was
+less than 0·25. No adjustment to the final α level was
+required for these futility analyses. After a planned
+interim futility analysis, when approximately 500 patients
+had 90-day follow-up data, the study was amended to
+revise the primary endpoint and increase the sample size
+to increase power to assess the outcome differences
+between the two treatment groups. It was not intended to
+stop the trial early for superior efficacy. However, after
+reviewing a second interim futility analysis presented at a
+planned safety evaluation when approximately
+1000 patients had 90-day follow-up data, the DSMB
+recommended stopping the trial because of the larger
+than expected risk reduction of the primary endpoint in
+the high-intensity care group, which remained highly
+significant in sensitivity analyses, and without safety
+concerns. Patients who had not completed the trial at the
+time the trial was terminated were brought in for a final
+study visit. These and any other censored follow-up times
+were included in the Kaplan-Meier estimates of
+cumulative risks.
+Two-sided p values of less than 0.05 were considered to
+be statistically significant. We did all analyses using
+SAS (version 9.4). This study is registered at ClinicalTrials.
+gov, NCT03412201.
+
+
+
+

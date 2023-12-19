@@ -1,0 +1,12 @@
+- Mean
+- Median
+- Range
+- Sensitivity
+- Specificity
+- Positive predictive value
+- Negative predictive value
+- Generalised linear mixed model
+- Maximum likelihood estimation
+- Laplace approximation
+- Bivariate binomial random effects meta-analysis
+- Summary receiver operator characteristic (ROC) curves

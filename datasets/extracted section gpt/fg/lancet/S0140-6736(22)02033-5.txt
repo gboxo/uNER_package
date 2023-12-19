@@ -1,0 +1,17 @@
+
+- Sample size determination for phase 1 studies
+- Evaluation of safety, pharmacokinetic, and pharmacodynamic parameters
+- Two-group t-test with a two-sided significance level
+- Power analysis for detecting differences in means and standard deviations
+- Safety population (participants who received at least one dose of the study drug)
+- Pharmacokinetic and pharmacodynamic population
+- Intention-to-treat principle for statistical analysis
+- Efficacy estimand for pharmacodynamic measures
+- Mixed-model repeated-measure analyses
+- Absolute values and change from baseline analysis
+- Least-squares means (LSMs) and 90% confidence intervals (CIs)
+- Unstructured covariance structure and compound symmetric structure in statistical modeling
+- Pharmacokinetic dose proportionality analysis
+- Log-transformed Cmax and AUC (Area Under the Curve) for dose-normalized geometric means
+- Registration of the study at ClinicalTrialsgov, NCT04143802
+- Use of SAS version 94 for data analysis

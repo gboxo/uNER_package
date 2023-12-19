@@ -1,0 +1,4 @@
+- Descriptive statistics
+- Aggregate data analysis
+- Deidentified data presentation
+- Group comparison

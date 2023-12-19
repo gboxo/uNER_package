@@ -1,0 +1,16 @@
+- Marginal model for repeated measures analyses
+- Between-participant main effects
+- Interaction effects
+- Within-participants effects
+- Covariance matrix
+- Covariates adjustment
+- Clustering
+- Contrast analysis
+- 2 × 2 factorial design analysis
+- Bonferroni adjustment
+- Effect sizes with 95% confidence intervals
+- Mixed-model analytic approach
+- Post hoc analyses
+- Per-protocol analyses
+- Subgroup analyses
+- Mediator analysis (as planned, later modified)

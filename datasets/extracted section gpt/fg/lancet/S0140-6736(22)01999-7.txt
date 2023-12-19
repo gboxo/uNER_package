@@ -1,0 +1,40 @@
+- Incidence
+- Primary endpoint
+- Heparin group
+- Absolute risk reduction
+- Bivalirudin
+- 2-sided α (alpha) level
+- Data collection
+- Predefined statistical analysis plan
+- Intention to treat
+- Sensitivity analyses
+- Per-protocol population
+- Patients who received any dose of study medication
+- Inclusion criteria
+- Exclusion criteria
+- Imputation
+- Missing values
+- Censored data
+- Categorical variables
+- χ² test (Chi-squared test)
+- Fisher’s exact test
+- Continuous data
+- Mean and standard deviation
+- Median and IQR (Interquartile Range)
+- Student’s t-test
+- Wilcoxon rank-sum test
+- Time-to-first-event rates
+- Kaplan-Meier method
+- Log-rank test
+- Hazard ratios (HR)
+- 95% CIs (Confidence Intervals)
+- Cox model
+- Proportional hazards assumption
+- Log(–log) plots
+- Number needed to treat
+- Treatment effect
+- Prespecified subgroups
+- Statistical analyses
+- Two-sided tests
+- SAS version 94
+
