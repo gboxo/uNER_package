@@ -1,0 +1,126 @@
+Statistical analysis
+Human participants
+We calculated the mean, median, and range of
+examination scores (with percentages) across each
+of the 10 mock examinations for all radiologist
+participants. We assigned a pass mark of 27/30
+(90%), in line with the scoring criteria used by the
+RCR. We also calculated the sensitivity, specificity, and
+positive and negative predictive values per radiologist.
+In addition, we calculated the mean, median, and
+range of scores for radiologists’ perceptions of how
+representative the mock examinations were of the
+actual FRCR rapid reporting examination, how well
+they believed they had performed, and how well
+they believed the artificial intelligence model would
+perform.
+Commercial artificial intelligence tool
+Given that some of the radiographs in each of the rapid
+reporting examinations would be uninterpretable
+by the artificial intelligence tool (for example, axial
+skeleton, facial bones), we calculated the examination
+score for the artificial intelligence in four different
+ways.
+Scenario 1—scoring only the radiographs the
+artificial intelligence model could interpret. In this
+scenario, we excluded any radiographs the artificial
+intelligence model deemed “non-interpretable.” A
+score for each mock examination was based on only
+those radiographs that could be interpreted (therefore,
+total marks per examination could be less than the
+available 30, depending on the number of non-
+interpretable radiographs per set). This scenario would
+be akin to a generous examiner making exceptions for
+the candidate.
+Scenario
+2—scoring
+all
+non-interpretable
+radiographs as “normal.” In this scenario, we
+imagined that the “artificial intelligence candidate”
+had not prepared sufficiently for the examination
+and could not interpret certain radiographs. Given
+the lack of negative marking in the examination, we
+imagined that the artificial intelligence candidate took
+a chance and assigned a default answer of “normal”
+for each non-interpretable case as this would be better
+than leaving it blank. We assigned a total score out
+of 30 marks. Abnormal non-interpretable cases were
+therefore calculated as false negatives, and normal
+non-interpretable cases were calculated as true
+negatives.
+Scenario
+3—scoring
+all
+non-interpretable
+radiographs as “abnormal.” In this scenario, we
+imagined that the “artificial intelligence candidate”
+attempted the opposite tactic to scenario 2 and
+assigned a default answer of “abnormal” for each
+non-interpretable case. We assumed that where an
+abnormality was present it was correct. We assigned
+a total score out of 30 marks. Abnormal non-
+interpretable cases were therefore calculated as true
+positives, but normal non-interpretable cases were
+calculated as false positives.
+Scenario
+4—Scoring
+all
+non-interpretable
+radiographs as wrong. In this scenario, the “artificial
+intelligence candidate” had simply chosen not to
+commit to an answer and left the answer box blank
+for non-interpretable cases. Therefore, the total
+score for each examination was out of 30, and we
+assigned no marks to non-interpretable radiographs
+(as would be the case for a human radiologist in
+the real examination). This therefore represents the
+most realistic like-for-like marking method in real
+life. For the purposes of the confusion matrix, we
+assumed that all non-interpretable radiographs were
+“wrong” and calculated those that were abnormal as
+false negatives and those that were normal as false
+positives.
+For ease of comparison between the radiologists’
+performance and that of the artificial intelligence, we
+pooled results for summation of the accuracy of the
+radiologists across all 10 reporting sets (300 films
+in total, and also for the subset that the artificial
+intelligence could interpret) by using the lme4
+package within R (R version 3.6.29) within the RStudio
+environment (version 1.1.463) to do a bivariate
+binomial random effects meta-analysis.10 This uses
+a binary (logit) generalised linear mixed model fit by
+maximum likelihood (using a Laplace approximation).
+We constructed bivariate summary receiver operator
+characteristic curves by using the bivariate random
+effects model outputs. On this summary receiver
+operator characteristic curve, we superimposed the
+artificial intelligence global accuracy across the subset
+of artificial intelligence interpretable radiographs (that
+is, scenario 1) for comparison.
+Imaging pitfalls
+To understand how and where the artificial
+intelligence tool could aid or mislead healthcare
+professionals, we reviewed all cases in which:
+apparently non-interpretable images were given a
+diagnosis by the artificial intelligence tool (that is,
+cases in which the artificial intelligence should have
+recognised the image was inappropriate for analysis
+but analysed it erroneously anyway); fewer than 50%
+of the radiologists could correctly analyse the imaging,
+and how often the artificial intelligence tool was
+correct (that is, in which cases artificial intelligence
+could help radiologists to get “off the fence”); and
+almost all (>90%) radiologists correctly identified the
+imaging findings but the artificial intelligence tool
+was incorrect (that is, abnormalities for which the
+artificial intelligence may potentially mislead non-
+radiologists).
+
+
+
+
+
+
+

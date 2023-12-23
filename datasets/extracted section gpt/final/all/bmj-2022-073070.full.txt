@@ -1,0 +1,9 @@
+- Conditional logistic regression
+- Student’s t-test
+- Mann-Whitney U Test
+- Kruskal-Wallis test
+- Chi-square Test
+- Profile Likelihood Method
+- Bootstrapping
+- Linear regression
+- Mann-Whitney test

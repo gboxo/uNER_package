@@ -1,0 +1,64 @@
+Statistical Analysis
+The sample size was estimated with the use of
+McNemar’s test and the incidences of response
+observed in the phase 1–2 trial at weeks 8 through
+12. At a power of 90% and a two-sided alpha level
+of 5%, we calculated that 24 patients (24 pri-
+mary wound pairs) would show a difference
+between trial groups if the true incidence of
+response was 75% for B-VEC and 25% for pla-
+cebo and if responses for matched pair members
+were uncorrelated. A 20 to 25% dropout rate was
+assumed with a target sample size of 30 to 32
+patients.
+Primary and secondary efficacy analyses and
+baseline summaries were based on the intention-
+to-treat population, which included all the pa-
+tients whose primary wounds underwent ran-
+domization, regardless of whether B-VEC or
+placebo was applied. If the results for the pri-
+mary end point were significant, the two-sided
+5% alpha level was to be passed to the key
+secondary end point. The widths of confidence
+intervals for differences between trial groups for
+all other analyses were not adjusted for multi-
+plicity, and definite conclusions cannot be drawn
+from these results. The primary and key second-
+ary patient-level end points were binary indica-
+tors of wound healing that were summarized
+within trial groups as percentages. Subgroup
+analyses for the primary end point were pre-
+specified on the basis of sex and age; a post hoc
+subgroup analysis was performed on the basis of
+area or size category of the primary wounds.
+Supplementary analyses assessed complete wound
+closure at various time points, including a post
+hoc assessment of durability of wound healing
+(confirmed at two consecutive visits 2 weeks
+apart) at both 3 and 6 months. Safety analyses
+were based on the safety population, which in-
+cluded all the patients who had received at least
+one dose of B-VEC or placebo.
+To account for the paired nature of the data,
+an exact McNemar’s test was used to analyze
+primary and key secondary efficacy end points.
+A multiple imputation approach involving the
+Markov chain Monte Carlo method under the
+assumption that all the variables in the imputa-
+tion model have a joint multivariate normal
+distribution was used to impute missing data,
+and the resulting 10 data sets were combined.20
+The 95% confidence intervals were calculated
+for the percentage of wounds with a response to
+B-VEC as compared with placebo. Analysis of
+covariance, with trial product and patient as the
+fixed effects and baseline pain severity as the co-
+variate, was used to evaluate the difference be-
+tween B-VEC and placebo in the change from
+baseline to weeks 22, 24, and 26 in pain severity
+during wound-dressing changes as measured by
+VAS and FLACC-R scores. Changes in EQ-5D-5L
+and Skindex-29 scores were reported with the
+use of mean values and standard errors. All sta-
+tistical analyses were performed with the use of
+SAS software, version 9.4.

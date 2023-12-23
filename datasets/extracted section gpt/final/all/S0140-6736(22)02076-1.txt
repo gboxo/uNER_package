@@ -1,0 +1,17 @@
+- Adjusted mean presentation
+- Categorical variables analysis
+- Intention-to-treat analysis
+- Kaplan-Meier estimates
+- Chi-square test
+- Mantel-Haenszel weights
+- Adjusted Risk Difference
+- Adjusted risk ratio
+- Subgroup analyses
+- ANCOVA
+- Composite endpoint
+- Mann-Whitney odds
+- van Elteren’s test
+- Ridit scores
+- Sensitivity analyses
+- Rubin's Algorithm
+- SAS Analysis

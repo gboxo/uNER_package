@@ -1,0 +1,11 @@
+Statistical analysis
+Linear mixed models were used to examine variances
+in VO
+̇ 2 and EE among participants across the different
+walking styles. Alpha was adjusted using the
+Bonferroni correction for multiple comparisons. All
+pairwise comparisons are reported as mean±standard
+deviation, and with 95% confidence intervals. Pearson
+correlations were performed to examine the relation
+between body mass and EE expressed in kcal/min
+during each of the three different walks.

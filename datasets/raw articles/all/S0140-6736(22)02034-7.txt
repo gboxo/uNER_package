@@ -1,0 +1,45 @@
+Statistical analysis
+Statistical analyses and protocol changes have been
+published previously.23 The sample size was driven by the
+power for the key secondary endpoint. The within-group
+SD for the change from withdrawal baseline (week 36) to
+week 40 in mean trough SBP (measured as office blood
+pressure) was expected to be around 15 mm Hg.22 With a
+type I error of 0·05 (two sided), the sample size needed
+for 90% power to detect a difference of 5 mm Hg between
+aprocitentan 25 mg and placebo was 380 patients.
+Assuming a drop-out rate of 37% during the 9 months
+between randomisation and start of the withdrawal part,
+to have 380 patients in the withdrawal part, a total of
+600 patients needed to be randomly assigned (200 in each
+of the three groups in the withdrawal part). Therefore,
+for the primary endpoint, the power to detect a difference
+of 6 mm Hg was over 90% (for 5·5 mm Hg, 6 mm Hg, or
+6·5 mm Hg, the power was 92%, 96% and 98%,
+respectively). Ultimately, 730 patients were randomly
+assigned. The over-running was caused by the addition
+of sites to compensate for lower recruitment due to the
+COVID–19 pandemic. Briefly, the primary and key
+secondary analyses were investigated using a mixed
+model with factors for treatment group, visit, and
+treatment by visit interaction, and covariates for baseline
+or withdrawal baseline SBP and the interaction between
+baseline or withdrawal baseline and visit using the
+missing-at-random assumption. The key secondary
+analysis included the randomised treatment in the
+double-blind part as an additional factor for stratum. To
+maintain an overall type I error at 0·05, two-sided
+significance levels were set at 0·025 for the primary
+endpoint, which assessed the efficacy of two aprocitentan
+doses, and at 0·05 for the key secondary endpoint. No
+multiplicity adjustment was applied to the analysis of
+other variables.
+Sensitivity analyses assessed the impact of deviations
+from the missing-at-random assumption of the mixed
+models for repeated measures and the impact of premature
+discontinuation of double-blind treatment or the addition
+of a diuretic or antihypertensive rescue medication.
+Supportive analyses evaluated the impact of protocol
+deviations and substitution rules. Exploratory analyses of
+prespecified subgroups were performed. The study is
+registered on ClinicalTrials.gov, NCT03541174.

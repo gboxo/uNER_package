@@ -1,0 +1,33 @@
+- Hazard ratio
+- Type I error rate
+- Harmonic mean
+- Coefficient of variation
+- Power analysis
+- Composite outcome
+- Key Secondary Outcome
+- ICC
+- Comparative analyses
+- Sub-distribution hazard ratio
+- Multivariable GEE
+- Model assumptions
+- Sensitivity analyses
+- Competing-Risk Events
+- Cause-specific hazard model
+- Subgroup analyses
+- Unadjusted Linear Mixed Model
+- Cluster summaries
+- Repeated measures
+- Correlation structures
+- Unstructured covariance
+- AIC
+- Bayesian information criterion
+- Autoregressive model
+- Time-to-event analysis
+- Negative Binomial Model
+- Relative risks
+- Sandwich estimator
+- Alpha-spending
+- Confidence intervals
+- Multiplicity
+- Interim Analyses
+

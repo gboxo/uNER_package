@@ -2,7 +2,7 @@
 from abc import ABC, abstractmethod
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForMaskedLM,AutoModel
-
+import tqdm
 # The structure of an algorithm in this application is the following
 # The input is an string representing a scientific article
 # The first step is to load the required data (usually in the form of an external file)
@@ -54,7 +54,9 @@ class Trivial(Algorithm):
         extracted_techniques = {key:extract_techniques(article, self.data) for key,article in self.corpus.items()}
         extracted_techniques = {key:[a[0] for a in value[0]]+[a[1] for a in value[0]] for key,value in extracted_techniques.items()}
 
-        self.output = {key:return_substrings(tokenize_string(text),[tokenize_string(v) for v in value]) for (key,value),text in zip(extracted_techniques.items(),self.corpus.values())}
+        extracted_techniques = {key:return_substrings(tokenize_string(text),[tokenize_string(v) for v in value]) for (key,value),text in zip(extracted_techniques.items(),self.corpus.values())}
+        self.output = {key:list(set([v for v in value if len(v)>0])) for key,value in extracted_techniques.items() }
+
         return self.output
 
 class Fuzzy(Algorithm):
@@ -83,6 +85,8 @@ class Fuzzy(Algorithm):
 
         # Extracting techniques from each article in the corpus
         extracted_techniques = {key: extract_techniques_fuzzy(article, self.data) for key, article in self.corpus.items()}
+        
+        extracted_techniques = {key:list(set([v for v in value if len(v)>0])) for key,value in extracted_techniques.items() }
 
         # Format the extracted techniques appropriately
         # Assuming a specific output format is needed
@@ -96,36 +100,56 @@ class Fuzzy(Algorithm):
 
 
 class uNER_fast(Algorithm):
-    def __init__(self,bootstrap_file_path,folder_path_corpus,encode=False):
+    def __init__(self,bootstrap_file_path,folder_path_corpus,encode,model,tokenizer):
         super().__init__(encode)
         self.bootstrap_file_path = bootstrap_file_path
         self.folder_path_corpus = folder_path_corpus
-        self.model = AutoModel.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
-        self.tokenizer = AutoTokenizer.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
+        self.model = model
+        self.tokenizer = tokenizer
+        
+    def load_data(self):
+        self.terms_dict,self.lc_terms_dict=read_labels(self.bootstrap_file_path)
+        corpus = read_all_text_files(self.folder_path_corpus)
+        self.corpus = {key:value for key,value in corpus.items() if len(value)>0}
 
-        def load_data(self):
-            self.terms_dict,self.lc_terms_dict=read_labels(self.bootstrap_file_path)
-            self.corpus = read_all_text_files(self.folder_path_corpus)
-        def run_algorithm(self):
-            if not hasattr(self, 'data') or not hasattr(self, 'corpus'):
-                self.load_data()
-            dictionary_predictions = {}
-            for keys,text in self.corpus.items():
-                words = self.tokenizer.tokenize(text)
-                word_list = np.array_split(words,len(words)//128)
-                stls = list()
-                for w in word_list:
-                    topk_vals, topk_inds = generate_predictions(w, self.tokenizer, get_predictions)
-                    max_entities = process_data(topk_inds, topk_vals, self.terms_dict, self.tokenizer, F)
-                    stl=["STL","MODEL","DISTRB","STUDY","MEASURES","SAMPLING","D_TYPE","STATISTICS","TESTS","SOFTWARE"]
-                    entity=[c for (a,b,c,d) in max_entities]
-                    entity=[ent if ent in stl else "UNTAGGED" for ent in entity]
-                    score=np.array([d for (a,b,c,d) in max_entities])
-                    score[score == -np.inf] = 0
-                    score=np.array([0 if ent=="UNTAGGED" else sc for sc,ent in zip(score,entity)])
-                    stls.append(w[np.where(score!=0)])
-                dictionary_predictions[keys] = stls
 
-                
-            return self.output
+    def run_algorithm(self):
+        if not hasattr(self, 'terms_dict') or not hasattr(self, 'corpus'):
+            self.load_data()
 
+        dictionary_predictions = {}
+        for keys, text in tqdm.tqdm(self.corpus.items()):
+            indices = self.tokenizer(text,return_tensors = "pt",add_special_tokens = False )['input_ids'][0]
+            if (len(indices))<128:
+                continue
+            ind_list = np.array_split(indices, len(indices) // 128)
+            stls = list()
+            for ind in ind_list:
+                topk_vals, topk_inds = generate_predictions(ind, self.tokenizer, self.model)
+                max_entities = process_data(topk_inds, topk_vals, self.terms_dict, self.tokenizer)
+                stl = ["STL", "MODEL", "DISTRB", "STUDY", "MEASURES", "SAMPLING", "D_TYPE", "STATISTICS", "TESTS", "SOFTWARE"]
+                entity = [c for (a, b, c, d) in max_entities]
+                entity = [ent if ent in stl else "UNTAGGED" for ent in entity]
+                score = np.array([d for (a, b, c, d) in max_entities])
+                score[score == -np.inf] = 0
+                score = np.array([0 if ent == "UNTAGGED" else sc for sc, ent in zip(score, entity)])
+
+                # Initialize list to store groups of joined words
+                joined_words_list = []
+                temp_words = []
+                w = [self.tokenizer.convert_ids_to_tokens(i) for i in ind.numpy().tolist()]
+
+                for word, sc in zip(w, score):
+                    if sc != 0:
+                        temp_words.append(word)
+                    elif temp_words:
+                        joined_words_list.append(' '.join(temp_words))
+                        temp_words = []
+                if temp_words:  # Check if any words are left in temp_words
+                    joined_words_list.append(' '.join(temp_words))
+
+                stls.append(joined_words_list)
+
+            dictionary_predictions[keys] = stls
+
+        return dictionary_predictions

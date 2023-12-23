@@ -1,0 +1,4 @@
+- Intention-to-treat analysis
+- Sample size determination
+- Two-sided P value
+- CI

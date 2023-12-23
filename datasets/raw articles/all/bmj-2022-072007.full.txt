@@ -1,0 +1,64 @@
+Statistical analysis
+Analysis was conducted according to a statistical
+analysis plan agreed in advance with the independent
+trial steering committee or data monitoring committee
+and reported according to CONSORT (consolidated
+standards of reporting trials) guidelines.39 40 The two
+trials (parents or carers, and young people) were
+analysed separately. We used descriptive statistics to
+compare baseline characteristics of trial participants
+by allocated group. The primary analyses for the total
+POEM score used generalised linear mixed models with
+observations over time from week 1 to week 24 (level
+1) nested within participants (level 2). Our primary
+outcome is based on adjusted results, controlling
+for age, baseline POEM score, recruiting centre, sex,
+ethnicity, prior belief in the intervention, previous
+use of a website or app for eczema, and parental
+education (in the parent and carer trial). We also report
+unadjusted results for the primary outcome.
+Participants who had at least one follow-up POEM
+score between weeks 6 and 24 were included in the
+primary repeated measures analysis. For all models,
+participants were analysed in the group to which they
+were randomised, regardless of their adherence to that
+allocation (intention-to-treat analysis).
+The model used all the observed data and implicitly
+assumes that, given the observed data, missing POEM
+scores were missing at random. The model included a
+random effect for centre (random intercept) and patient
+(random intercept and slope on time) to allow for
+differences between participants and between centres
+at baseline and differences between participants
+in the rate of change over time if a treatment-time
+interaction was statistically significant, and fixed
+effects for baseline covariates. We initially fitted this
+model (as specified in the statistical analysis plan),
+but as the intraclass correlation coefficient for regional
+centre was <0.001, regional centre was included as a
+fixed effect (rather than a random effect) in the final
+model. An unstructured covariance matrix was used.
+We examined the structure and pattern of missing
+data, and multiple imputation was performed as a
+sensitivity analysis. The imputation model included
+all the covariates in the analysis model, as well as
+any covariates predictive of missingness. Overall,
+100 imputed datasets were generated using multiple
+imputation with chained equations, and the data was
+analysed using the same model as for the primary
+analysis.
+For the analysis of secondary outcomes, we used
+repeated measures analysis for the monthly POEM
+measure up to 52 weeks consistent with that used for
+the primary outcome. For other secondary outcomes,
+linear regression was used for continuous outcomes
+if the assumptions were met. Logistic regression was
+used for dichotomous outcomes. When appropriate,
+we analysed highly skewed variables as dichotomous
+outcomes. All secondary analyses controlled for
+baseline value, recruiting centre, age, sex, ethnicity,
+prior belief in the intervention, previous use of a
+website or app for eczema, and parental education
+(in the parent and carer trial). The data were analysed
+using Stata version 16.
+

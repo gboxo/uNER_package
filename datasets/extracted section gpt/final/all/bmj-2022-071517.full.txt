@@ -1,0 +1,5 @@
+- Median and interquartile range calculation
+- Absolute and relative frequency calculation
+- Proportion assessment
+- Distribution description
+- Stratified analysis

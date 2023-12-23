@@ -1,0 +1,2 @@
+- Kappa statistics
+- Mean percentage calculation

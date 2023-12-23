@@ -1,0 +1,26 @@
+- Incidence
+- Absolute risk reduction
+- 2-sided alpha level
+- Intention-to-treat analysis
+- Sensitivity analyses
+- Imputation
+- Missing values
+- Censored data
+- Categorical variables
+- Chi-squared test
+- Fisher’s Exact Test
+- Mean and standard deviation
+- Student’s t-test
+- Wilcoxon test
+- Time-to-First-Event Rates
+- Kaplan-Meier Method
+- Log-rank test
+- Hazard ratios
+- 95% CIs
+- Cox model
+- Proportional hazards
+- Log-log plots
+- Number Needed to Treat
+- Statistical analysis
+- Two-sided tests
+

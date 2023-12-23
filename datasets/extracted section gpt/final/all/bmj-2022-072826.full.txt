@@ -1,0 +1,11 @@
+- Mean
+- Median
+- Range
+- Specificity
+- Positive predictive value
+- Negative predictive value
+- GLMM
+- Maximum likelihood estimation
+- Laplace approximation
+- Bivariate meta-analysis
+- Summary ROC Curves

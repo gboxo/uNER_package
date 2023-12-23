@@ -1,0 +1,85 @@
+Statistical Analysis
+We determined that the enrollment of 410 pa-
+tients (205 per trial group) would provide a power
+of 80% to determine a minimum relevant be-
+tween-group difference in the eGFR of 5 ml per
+minute per 1.73 m2 at an alpha level of 0.05,
+assuming a loss to follow-up of 20%. This dif-
+ference would represent an effect size of 0.31,
+with a standard deviation of 16 ml per minute
+per 1.73 m2.
+Analyses were based on the intention-to-treat
+principle and were adjusted for the minimiza-
+tion variables and baseline values (where avail-
+able). The intention-to-treat population included
+all the patients who had undergone randomiza-
+tion, regardless of what treatment (if any) they
+had received. All available data for patients who
+had been lost to follow-up, had withdrawn from
+the trial, or had died before trial completion
+were included in the analysis. The statistical
+analysis plan did not include a provision for cor-
+rection for multiplicity, so secondary outcomes
+are reported as point estimates and 95% confi-
+dence intervals. The widths of confidence inter-
+vals have not been adjusted for multiple com-
+parisons and may not be used for hypothesis
+testing. Full details regarding the analysis meth-
+ods are provided in the statistical analysis plan,
+available with the protocol.
+We used a repeated-measures, mixed-effects
+linear regression model (which included a term
+for the interaction of the time with treatment
+group) to estimate the between-group difference
+in eGFR at 3 years. A compound symmetry co-
+variance structure was assumed. Any measure-
+ments of eGFR that were made after patients
+had initiated dialysis or undergone kidney trans-
+plantation were excluded. To examine the effect
+of data that were not missing at random, we
+performed sensitivity analyses by fitting pattern-
+mixture and joint models for the primary out-
+come. We also repeated analyses for the primary
+outcome with the use of two other four-variable
+equations for the eGFR calculation: the Chronic
+Kidney Disease Epidemiology Collaboration 2009
+(CKD-EPI 2009) equation and the MDRD186
+equation. Details regarding these analyses are
+provided in the Supplementary Appendix, avail-
+able at NEJM.org.
+Continuously distributed secondary outcomes,
+such as blood pressure, were analyzed with the
+use of the same methods that were used in the
+primary analysis, but data were not censored at
+the time of initiation of renal-replacement ther-
+apy. Categorical (dichotomous) secondary out-
+comes were analyzed with the use of a Poisson
+regression model with robust standard errors to
+estimate the relative risk and 95% confidence
+interval, because the log-binomial model did not
+converge. We used a Cox proportional-hazards
+model to calculate hazard ratios and 95% confi-
+dence intervals for time-to-event outcomes, such
+as the development of ESKD or the initiation of
+renal-replacement therapy. Categorical safety out-
+come measures (i.e., hospitalization and serious
+adverse events) were summarized as the percent-
+age of patients with these events.
+Data collection for kidney outcomes did not
+distinguish between ESKD and renal-replacement
+outcomes (i.e., both outcomes used the same
+end-point code), although investigators could
+note the specific outcome. Prespecified sub-
+group analyses were performed only for the
+primary outcome according to the minimization
+variables. Time and subgroup were included in
+the model to allow for the possibility of differ-
+ential changes over time within subgroups, time
+according to subgroup, and the three-way inter-
+action among the variables of treatment, time,
+and subgroup. Although all data were included
+in the regression models for the subgroup
+analyses, only estimates of differences at 3 years
+are presented. All analyses were performed with
+the use of SAS software, version 9.4 (SAS Insti-
+tute), and Stata software, version 17 (StataCorp).

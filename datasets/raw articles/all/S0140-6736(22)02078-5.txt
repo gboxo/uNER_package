@@ -1,0 +1,61 @@
+Statistical analysis
+We estimated that a sample of 200 participants allocated
+to each regimen would give 80% power to show the
+non-inferiority of the oral regimen versus the control
+regimen at a one-sided significance level of 0·025 using a
+10% margin of non-inferiority. This assumed the
+following: a favourable efficacy outcome at 76 weeks in
+80% of participants in the control regimen and 82% of
+those in the oral regimen, and 14% of participants
+excluded in the per-protocol analysis.
+In the primary efficacy analysis, we calculated the
+absolute between-group difference (with 95% CI) in the
+proportion of participants with a favourable outcome,
+adjusted for HIV status and randomisation protocol, using
+Cochran-Mantel-Haenszel weights.10 Non-inferiority was
+shown if the upper boundary of the 95% CI was less than
+10% in both the modified intention-to-treat (mITT) and
+per-protocol populations. The mITT population included
+all randomly assigned participants with a positive culture
+for M tuberculosis at screening or randomisation, except for
+participants with isolates taken before randomisation who
+were subsequently found to be susceptible to rifampicin or
+resistant to both fluoroquinolones and second-line
+injectables on phenotypic drug-susceptibility testing. The
+per-protocol population is the same as the mITT population
+with the exclusion of participants who did not complete a
+protocol-adherent course of treatment, other than for
+treatment failure, change of treatment for an adverse
+event, or death (appendix pp 16–17). We did one-sided tests
+for non-inferiority and calculations of the 95% CIs using
+the Wald standard error. Prespecified tests for superiority
+were done when non-inferiority was shown. The
+proportion of participants meeting each safety outcome
+was calculated similarly in the safety population, which
+comprised all participants who received at least one dose of
+a trial medication, with two-sided tests of superiority. We
+included a Bayesian interpretation of the primary outcome
+as a supplementary analysis. Prespecified sensitivity
+analyses of the primary efficacy analysis included analyses
+that were unadjusted, adjusted for important baseline
+characteristics, and where the definition of an unfavourable
+outcome was modified (appendix p 25). The primary
+efficacy analysis was also repeated in subgroups according
+to prespecified baseline characteristics (appendix p 26). We
+analysed time-to-event outcomes using the Kaplan-Meier
+product limit estimator, log-rank tests for differences
+between groups, and Cox-proportional hazards models;
+these were displayed with the KMunicate format.11 We
+tested assumptions of proportional hazards using
+Schoenfeld residuals.
+All comparisons were restricted to participants
+randomly assigned concurrently. Analyses other than the
+primary outcome were stratified by randomisation
+protocol alone. Baseline characteristics and treatment
+adherence were summarised using counts and
+percentages or medians and IQRs. All analyses were
+done in STATA, version 17.0. An independent Trial
+Steering Committee oversaw the study with advice from
+an independent Data Monitoring Committee who
+regularly reviewed unblinded trial data. This trial is
+registered with ISRCTN, ISRCTN18148631.

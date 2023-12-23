@@ -6,7 +6,7 @@
 #- Labeling
 #- Wordmap
 #- Wordmap mosaic
-
+#- Number of empty relation dictionary with respect to the total number of dictionaries
 
 
 import matplotlib.pyplot as plt
@@ -78,7 +78,7 @@ def plot_pca_tensors_with_clusters(tensors, labels, cluster_labels):
     plt.show()
 
 
-def plot_histograms_metric(data):
+def plot_histograms_metric(data1,data2,data3,data4):
     """
     Plots a three overlapping histograms for the metric provided by a 3xn dimensional array
     where n is the number of articles used in the experiment.
@@ -87,9 +87,11 @@ def plot_histograms_metric(data):
     """
     # Creating the plot with overlapped histograms
     plt.figure(figsize=(10, 6))
-    plt.hist(data[0], bins=30, alpha=0.5, color='red', label='Trivial Algorithm')
-    plt.hist(data[1], bins=30, alpha=0.5, color='blue', label='Fuzzy Algorithm')
-    plt.hist(data[2], bins=30, alpha=0.5, color='green', label='uNER Algorithm')
+    plt.hist(data1, bins=15, alpha=0.5, color='red', label='Trivial Algorithm')
+    plt.hist(data2, bins=15, alpha=0.5, color='blue', label='Fuzzy Algorithm')
+    plt.hist(data3, bins=15, alpha=0.5, color='green', label='uNER Algorithm')
+    plt.hist(data4, bins=15, alpha=0.5, color='yellow', label='Random')
+
     # Adding legend
     plt.legend()
 
@@ -118,7 +120,51 @@ def plot_piechart_labels(counter):
     
     # Adding title
     plt.title('Pie Chart from Counter')
-    plt.legend()
+    #plt.legend()
 
     # Display the plot
+    plt.show()
+
+
+from wordcloud import WordCloud
+
+def plot_word_cloud(weights):
+    # Create a word cloud instance with custom settings
+    wordcloud = WordCloud(width=800, height=800,
+                          background_color='white',
+                          min_font_size=10).generate_from_frequencies(weights)
+
+    # Plot the word cloud
+    plt.figure(figsize=(8, 8), facecolor=None)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.tight_layout(pad=0)
+
+    # Show the plot
+    plt.show()
+
+
+
+
+def plot_similarity_word_cloud(data):
+    # Combine and count word frequencies
+    word_freq = {}
+    for key, value in data.items():
+        all_words = value['ex'] + value['gt']
+        for word in all_words:
+            word_freq[word] = word_freq.get(word, 0) + 1
+    print(word_freq)
+    # Create a word cloud instance with custom settings
+    wordcloud = WordCloud(width=800, height=800,
+                          background_color='white',
+                          colormap='viridis',  # You can change colormap for different color schemes
+                          min_font_size=10).generate_from_frequencies(word_freq)
+
+    # Plot the word cloud
+    plt.figure(figsize=(8, 8), facecolor=None)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.tight_layout(pad=0)
+
+    # Show the plot
     plt.show()

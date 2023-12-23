@@ -1,0 +1,92 @@
+The primary analysis was conducted using a frequentist approach.
+Dichotomous variables were pooled using a random effects model
+(DerSimonian and Laird), and effect estimates were reported as
+relative risks with corresponding 95% confidence intervals, and
+continuous variables as mean differences with corresponding 95%
+confidence intervals. Mean values and standard deviations were
+estimated from median and interquartile range when required, as
+previously described.22 Oxygen saturation to fraction of inspired
+oxygen (SpO2:FiO2) ratios were estimated from arterial oxygen
+tension to fraction of inspired oxygen (PaO2:FiO2) ratios as
+previously described.23 For cluster randomized controlled trials we
+planned to account for the design effect17 using intraclass correlation
+reported in the study or in other similar studies, but these trials did
+not contribute to any outcomes that were meta-analyzed. Trials
+with no events in both arms were excluded from primary analyses.
+We assessed the percentage of the total variance due to
+2
+heterogeneity between trials using the I statistic.24 Intention-to-treat
+data were used whenever possible.
+Preplanned secondary bayesian analyses for endotracheal
+intubation and mortality outcomes were also performed to assess
+the robustness of results according to varying and prespecified prior
+beliefs about the effect of awake prone positioning. The bayesian
+approach differs from the conventional frequentist approach. We
+used established informative priors for heterogeneity between
+studies.25 We used non-informative priors for mean effects, followed
+by those informed by a previously published meta-analysis of
+controlled observational studies involving 1526 patients pooled
+from 10 studies9 (see supplemental eTable 1 for intubation priors
+and mortality priors) and hypothetical ones based on a proposed
+framework in critical care.25 26 Priors were defined and declared a
+priori. Bayesian random effects meta-analysis was performed using
+normal-normal hierarchical models and a hybrid random walk
+Metropolis-Hastings algorithm with Gibbs updates and blocked
+model parameters, four chains, random initial chain values, a
+minimum of 40 000 Markov chain Monte Carlo samples with 10 000
+burn-in, and thinning of 10 to estimate posterior distributions of
+effects. Convergence was confirmed visually and with Gelman-Rubin
+diagnostic statistics all less than 1.1 (see supplemental eFigure 7).
+Results from the bayesian analyses were reported as relative risks
+and corresponding centile based 95% credible intervals.
+Trial sequential analysis was performed to assess risks of random
+error in the conventional meta-analyses and if the required
+information size assumptions were met according to prespecified
+effect sizes of interest (see supplemental eMethods 3).27
+In addition, we performed several preplanned subgroup analyses
+according to risk of bias, duration of awake prone positioning,
+severity of baseline hypoxemia, geographic/economic setting,
+location at randomization, and baseline mode of oxygen delivery.
+The cut points defining the subgroups for duration of awake prone
+positioning (≥5 h/day v <5 h/day and severity of baseline hypoxemia
+(SpO2:FiO2 <150 v ≥150) were chosen as they approximated the
+median values in the COVI-PRONE trial14 and the Ehrmann et al
+prospective meta-analysis,11 which represented the largest trials
+with data available to us at the time of protocol development. Our
+assumption was that these cut points would approximate the median
+of the medians across all trials. We conducted several preplanned
+sensitivity analyses: excluding unpublished trials (ie, abstracts and
+preprints), trials reported as stopping early, outcomes from the
+individual trials of the prospective meta-analysis (and instead
+substituting with pooled outcomes from the prospective
+meta-analysis of randomized trials), trials with no events in either
+arm, cluster randomized trials, quasi-randomized trials, and studies
+with more than low risk of bias. A post hoc sensitivity analysis was
+conducted with a random effects model using a restricted maximum
+likelihood approach with the Hartung-Knapp-Sidik-Jonkman
+confidence interval correction.28 Because more randomized
+controlled trials were identified than anticipated, we modified the
+analysis plan post hoc to exclude any quasi-randomized trials from
+the primary and secondary outcome analyses and instead include
+such trials in a sensitivity analysis. We performed a preplanned
+meta-regression to assess the association between the average daily
+duration of awake prone positioning (predictor variable) and the
+primary outcome of endotracheal intubation. We examined small
+study effects by inspecting funnel plots and the results of Egger’s
+test.29
+Frequentist and bayesian analyses were performed in STATA (Stata
+version 16.0 and 17.0). We used trial sequential analysis software
+(version 0.9.5.10 Beta, Copenhagen Trial Unit, Center for Clinical
+Intervention Research, Rigshospitalet, Copenhagen, Denmark).
+Two sided P values <0.05 were considered statistically significant.
+GradePro software was used to summarize Grading of
+Recommendations, Assessment, Development, and Evaluation
+(GRADE) recommendations and to calculate absolute effect
+calculations based upon the baseline risk and relative effect size.
+We used the GRADE approach to assess the certainty of evidence
+for every outcome based on the following domains: risk of bias,
+inconsistency, indirectness, imprecision, and publication bias.30
+Certainty of the evidence was classified as high, moderate, low, or
+very low.
+
+

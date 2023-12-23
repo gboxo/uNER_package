@@ -1,0 +1,17 @@
+- Intention-to-treat analysis
+- Two-sided test
+- Longitudinal data analysis
+- ANCOVA
+- Nonparametric ANCOVA
+- Multiple imputation
+- Regression-switching
+- Predictive mean matching
+- Logistic regression
+- Rubin’s rules
+- LOCF
+- Leave-one-out analysis
+- Subgroup analyses
+- Linear mixed model
+- Kaplan–Meier
+- Cox model
+- Schoenfeld residuals

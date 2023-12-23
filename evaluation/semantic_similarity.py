@@ -1,78 +1,33 @@
 import numpy as np
-import os
-import glob
-import importlib
+
 import pandas as pd
-from algorithms.trivial import extract_techniques
+import torch.nn.functional as F
+from itertools import combinations
 
 # The definition of an algorithm is an object that gets a string of text and returns a list of strings
+# This substring output can be postprocessed into an embedding
+# Cluster the substrings that are very  similar (eg. model and models)
+# Asses the similarity of the extracted substrings (embedded and clustered if needed) and the ground truth (embedded and clustered if needed)
+# Establish a dictionary of relationships between objects from the extracted and gt sets, a dicionary might be empty
+# Compute the mean cosine similarity of the relation dictionaries. A mean cosine similarity close to 1 will indicate a good performing algorithm.
 # The definition of a metric object is such that given a list of paired lists of strings returns a score
 
+import torch
+import torch.nn.functional as F
 
-class DataExtractor():
-    def __init__(self, gt_folder, raw_corpus_folder):
-        self.gt_folder = gt_folder
-        self.raw_corpus_folder = raw_corpus_folder
+# Assuming `tensor1` and `tensor2` are the given tensors of shape [n, 768] and [m, 768]
+# Placeholder tensors for the sake of demonstration
+def metric(tensor1,tensor2):
+    # Normalize the tensors along the last dimension
+    tensor1_norm = F.normalize(tensor1, p=2, dim=1)
+    tensor2_norm = F.normalize(tensor2, p=2, dim=1)
 
-        # List files in each set
-        self.files_in_set1 = {folder: self.list_files_in_directory(os.path.join(self.gt_folder, folder)) 
-                        for folder in os.listdir(self.gt_folder)}
-        self.files_in_set2 = {folder: self.list_files_in_directory(os.path.join(self.raw_corpus_folder, folder)) 
-                        for folder in os.listdir(self.raw_corpus_folder)}
+    # Compute pairwise cosine similarity
+    similarity_matrix = torch.matmul(tensor1_norm, tensor2_norm.transpose(0, 1))
 
-        self.common_files = self.find_common_files()
-        self.ground_truth = self.load_gt()
-        self.corpus = self.load_corpus()
+    # Select the highest similarity for each row
+    highest_similarity, selected_indices = torch.max(similarity_matrix, dim=1)
 
-    def list_files_in_directory(self, directory):
-        """List all text files in a given directory."""
-        return {file for file in os.listdir(directory) if file.endswith('.txt')}
-
-    def find_common_files(self):
-        """Find common files in two sets."""
-        common_files = {}
-        for folder in self.files_in_set1:
-            common_folder_files = self.files_in_set1[folder].intersection(self.files_in_set2.get(folder, set()))
-            if common_folder_files:
-                common_files[folder] = common_folder_files
-        return common_files
-
-    def load_gt(self):
-        file_contents = {}
-        for folder, files in self.common_files.items():
-            for file in files:
-                file_path = os.path.join(self.gt_folder, folder, file)
-                with open(file_path, 'r') as f:
-                    file_contents[file] = f.read().replace("- ", "").split("\n")[:-2]
-        return file_contents
-    def load_corpus(self):
-        file_contents = {}
-        for folder, files in self.common_files.items():
-            for file in files:
-                file_path = os.path.join(self.raw_corpus_folder, folder, file)
-                with open(file_path, 'r') as f:
-                    file_contents[file] = f.read().replace("\n", " ")
-        return file_contents
-    
-    
-class Algorithm:  
-    def __init__(self,corpus,techniques_file):
-        self.techniques_df = pd.read_excel(techniques_file)
-        self.corpus = corpus
-    def extract_techniques_from_corpus(self):
-        """Apply the extract_techniques function to the entire corpus."""
-        results = {}
-        for file, text in self.corpus.items():
-            results[file] = extract_techniques(text, self.techniques_df)
-        return results
-    
-
-class MetricCalculator:
-    def calculate_metric(self,ground_truth,algoithm_output):
-        return
-
-
-
-
-
-
+    # Retrieve the selected tensors from tensor2
+    selected_tensors = tensor2[selected_indices]
+    return highest_similarity.mean()

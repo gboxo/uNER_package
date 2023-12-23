@@ -1,0 +1,24 @@
+- Sample size calculation
+- Two-tailed Alpha Level
+- Incidence rate ratio
+- Adjusted mean difference
+- Intention-to-treat analysis
+- Prespecified covariate adjustment
+- GEE
+- Correlation structure
+- Clustering
+- Poisson distribution
+- Log link function
+- Normality assumption
+- Identity link function
+- Bonferroni Correction
+- Covariate inclusion
+- Modified GEE analyses
+- Random effects
+- Relative risk
+- Dichotomous outcome analysis
+- Confidence Intervals
+- Missing data imputation
+- Fully Conditional Specification
+- Model-based imputation
+- Fisher’s Exact Test

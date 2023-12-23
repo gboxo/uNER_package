@@ -128,7 +128,11 @@ def read_gt_folder(folder_path):
     for file_path in text_files:
         with open(file_path, 'r', encoding='utf-8') as file:
             file_contents[os.path.basename(file_path)] = file.read().replace("- ","").split("\n")[:-2]
-
+            content = file.read().replace("- ","").split("\n")[:-2]
+            if len(content)>0:
+                file_contents[os.path.basename(file_path)] = content
+    file_contents = {key:value for key,value in file_contents.items() if len(value)>0}# The file cannot be empty
+    file_contents = {key:[v for v in value if len(v)>0] for key,value in file_contents.items() }# the substring cannot be empty
     return file_contents
 
 

@@ -1,0 +1,2 @@
+- Median score ranking
+- Score summation

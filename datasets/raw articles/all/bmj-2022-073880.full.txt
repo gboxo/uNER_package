@@ -1,0 +1,28 @@
+Statistical analysis
+Primary analysis
+The category “no citations” was used sparingly, so
+we pooled the categories “no citations” and “below
+average” citations for analysis. For each editor, we
+calculated the number of manuscripts they assigned
+to the correct citation category. We calculated κ
+statistics (95% confidence intervals) for each editor,
+using Fleiss-Cohen weights,22 as implemented in the R
+package vcd.23 We calculated how often each editor’s
+classification was “extremely wrong” (a highly cited
+paper was estimated to have low citation potential or
+vice versa). We compared editors’ ability to predict
+citation potential for articles published in The BMJ
+versus elsewhere. We assessed accuracy separately
+for Research Methods and Reporting (RMR) articles, as
+these are typically highly cited. To assess the editors as
+a group, we calculated the mean percentage of editors
+identifying the correct category per manuscript and
+the number and percentage of manuscripts for which
+at least 50% of the editors were correct.
+Secondary analysis
+Additional unplanned analyses included repeating the
+primary analyses using cut-offs of >30 and >50 citations
+to look at ability to predict the citation potential of
+the most highly cited articles and using the outcome
+of citations in the first two years after publication to
+reflect the impact factor calculation.

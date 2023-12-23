@@ -1,0 +1,77 @@
+Statistical Analysis
+On the basis of an expected mean difference of
+3 points favoring deferiprone in the change in
+the MDS-UPDRS total score from baseline at 36
+weeks (as reported in a trial of rasagiline involv-
+ing persons with Parkinson’s disease21), a stan-
+dard deviation of 9.0, and a 23% dropout rate,
+we calculated that 372 participants in total (186
+per group) would be sufficient to show superior-
+ity of deferiprone over placebo, with a statistical
+power of 80%. Efficacy analyses involved all
+randomly assigned participants in their assigned
+group according to the intention-to-treat princi-
+ple with the use of a two-sided test with a sig-
+nificance level of 0.05. The results for the pri-
+mary efficacy outcome in the deferiprone and
+placebo groups were compared with the use of
+the constrained longitudinal data analysis (cLDA)
+model (changed before the database was locked
+from analysis of covariance [ANCOVA] in the
+original protocol) including site as a random ef-
+fect, from which the baseline-adjusted mean
+difference at 36 weeks was estimated with a 95%
+confidence interval as a measure of treatment
+effect.22 All secondary and exploratory outcomes
+were also analyzed with the use of the cLDA
+model; in cases of deviation from normality and
+when logarithmic transformation could not be
+applied, the absolute changes between baseline
+and the follow-up time point of interest were
+calculated and compared between the two groups
+with the use of nonparametric ANCOVA adjusted
+for baseline values (standardized difference and
+95% confidence interval).
+For all clinical outcomes, primary efficacy
+analyses were performed after multiple imputa-
+tion for missing values, including for partici-
+pants who withdrew from the trial, with imputa-
+tion under a missing-at-random assumption, with
+the use of trial group and the main baseline
+characteristics. Imputation was performed with
+the use of a regression-switching approach (chained
+equations, m = 20 imputations), with a predictive
+mean matching method for quantitative vari-
+ables and logistic-regression models (binomial,
+ordinal, or multinomial) for categorical vari-
+ables.23 Treatment-effect estimates that were ob-
+tained in multiple imputed datasets were to be
+combined with the use of Rubin’s rules.24,25 Two
+sensitivity analyses were performed, first by re-
+stricting the analysis to available data and
+second by imputing missing outcome values
+with the use of the last observation carried for-
+ward. For per-protocol analyses of the primary
+outcome, leave-one-out site analysis (an un-
+planned analysis to assess the site effect) and
+prespecified subgroup analyses were performed.
+An exploratory analysis was performed to esti-
+mate and compare the slope of evolution in
+MDS-UPDRS total scores with the use of a linear
+mixed model with random coefficients. For un-
+planned analyses, we estimated the cumulative
+incidence of adverse events and dropouts for
+aggravation of Parkinson’s disease using the
+Kaplan–Meier method and comparing deferi-
+prone with placebo by means of the Cox propor-
+tional-hazards model (hazard ratio) after check-
+ing the proportionality assumption using
+Schoenfeld residual plots. Details are provided
+in the statistical analysis plan, available with the
+protocol at NEJM.org. Because there was no plan
+for adjustment of the widths of confidence inter-
+vals for multiple comparisons of secondary out-
+comes, P values are not reported and no definite
+conclusions can be drawn from these results.
+Data were analyzed with the use of SAS soft-
+ware, release 9.4 (SAS Institute).

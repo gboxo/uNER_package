@@ -1,0 +1,77 @@
+Statistical analysis
+We based power calculations on a time-to-first-event
+analysis in a Cox proportional hazards model, because of
+the complexity of power calculations based on recurrent
+events and uncertainty about whether recurrent event
+analysis increases statistical power. Because both
+recruitment and event rates were lower than anticipated,
+the trial duration had to be extended. These issues were
+exacerbated by the COVID-19 pandemic. The AFFIRM-
+AHF trial10 followed by a meta-analysis of published trials
+of intravenous iron in patients with heart failure
+suggested a larger treatment effect than originally
+anticipated (odds ratio 0·73 [95% CI 0·59–0·90]).11 For
+these reasons, the power calculations were revised and
+the assumed hazard ratio changed from 0·80 to 0·75,
+requiring 379 patients to reach a first primary endpoint in
+order to provide 80% power at the 5% significance level.
+Analyses included treatment group and recruitment
+context as covariates. All efficacy analyses were done in the
+validly randomly assigned population. Recurrent events
+were analysed by the method of Lin and colleagues,12 with
+treatment effect estimated in the form of rate ratios and
+95% CIs, and mean frequency functions displayed using
+the method of Ghosh and Lin.13 Prespecified subgroup
+analyses were done for the primary endpoint. An
+interaction term between randomly assigned treatment
+group and the subgroup variable was added to the fitted
+model and tested for significance. Primary and secondary
+endpoints were analysed hierarchically in the order given
+in the statistical analysis plan. Each outcome was analysed
+sequentially with a requirement that a p value would not
+be interpreted as meaningful unless the analysis of the
+previous outcome was significant with a p value of less
+than 0·05. Time-to-first-event outcomes were analysed
+using Cox proportional hazards models and displayed
+graphically using cumulative incidence functions or
+Kaplan-Meier curves as appropriate. Non-proportionality
+of hazards was assessed for each clinical outcome by
+adding an interaction of treatment with the logarithm of
+time to each model and testing for the significance of these
+interactions. Quality of life scores and 6 min walk test
+results were analysed using analysis of covariance with
+multiple imputation for missing values, except results for
+the 6 min walk test at 20 months, where the degree of
+missingness, largely due to the COVID-19 pandemic, was
+considered too great for valid imputation.
+Safety analyses were done for patients assigned to
+ferric derisomaltose who received at least one infusion
+and all patients assigned to usual care. Proportions of
+patients having serious adverse events in each system
+organ class were compared between treatment groups
+assuming binomial distributions.
+Consistent with regulatory14,15 and other16 guidance to
+reduce the effect of the COVID-19 pandemic on the trial
+results, we prespecified a sensitivity analysis including all
+patients randomly assigned until March 31, 2020, around
+the start of the first national lockdown in the UK. The
+censoring date was Sept 30, 2020, based on the assumption
+that most patients would remain iron replete for at least
+6 months from their last dose of ferric derisomaltose or
+last test showing iron repletion. Very few research patients
+could be seen in person in and around the time of the
+COVID-19 lockdown. At the request of a referee we carried
+out two additional post-hoc sensitivity analyses. In the
+first, the COVID-19 sensitivity analysis was censored at
+March 31, 2020, and in the second, censoring was further
+set at 1 year to permit comparison with results from the
+AFFIRM-AHF trial.
+An Independent data monitoring committee reviewed
+trial data on a regular basis and conducted preplanned
+interim analyses of the primary endpoint when
+approximately 50% and 70% of the target number of first
+primary endpoints had been reached, requiring a p value
+of less than 0·001 to recommend early stopping. No
+p value adjustments were made for these interim analyses.
+All analyses used SAS version 9.4 or R version 3.6.1. This
+trial is registered with ClinicalTrials.gov, NCT02642562.

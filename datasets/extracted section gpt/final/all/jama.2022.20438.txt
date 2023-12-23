@@ -1,0 +1,5 @@
+- Chi-square test
+- Per-protocol analysis
+- Post Hoc Analyses
+- 2-tailed P value
+- Type I Error Consideration

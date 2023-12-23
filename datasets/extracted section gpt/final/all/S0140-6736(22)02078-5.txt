@@ -1,0 +1,19 @@
+- Sample size estimation
+- Power calculation
+- Non-inferiority analysis
+- One-sided Significance Level
+- Per-protocol analysis
+- mITT analysis
+- Mantel-Haenszel method
+- Confidence Interval Calculation
+- Wald error
+- Tests for superiority
+- Two-sided Superiority Tests
+- Bayesian Analysis
+- Sensitivity analysis
+- Subgroup analysis
+- Kaplan-Meier estimator
+- Log-rank test
+- Cox model
+- Proportional Hazards Testing
+- Descriptive statistics

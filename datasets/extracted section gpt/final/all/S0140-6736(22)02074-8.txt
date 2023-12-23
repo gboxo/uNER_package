@@ -1,0 +1,17 @@
+- Data extraction
+- Efficacy analyses
+- Cause-specific Mortality Assessment
+- Subgroup analysis
+- Sensitivity analysis
+- Exploratory analyses
+- Cox model
+- Log relative risk estimation
+- Inverse-variance weighting
+- Meta-analysis
+- Heterogeneity tests
+- Chi-square tests for heterogeneity
+- Chi-squared test for trend
+- Mean and SD estimation
+- Sensitivity Analysis
+- Rate per 1000 patient-years
+- Absolute benefits and harms estimation

@@ -1,0 +1,23 @@
+- Risk Ratio
+- Confidence Intervals
+- Two-sided Tests
+- Clustered Design
+- Log-binomial regression
+- Standardised residuals
+- Unstructured covariance
+- Intraclass Correlation Coefficient
+- One-way ANOVA
+- Bootstrapped CIs
+- Poisson regression
+- Robust errors
+- Multivariate Normal Distribution
+- Linear Mixed Model
+- Adjusted Mean Differences
+- Sensitivity Analyses
+- Per-protocol Analysis
+- Cluster sample size
+- Heterogeneity tests
+- Interaction parameters
+- Design effect
+- Intraclass Correlation Coefficient
+- Power calculations

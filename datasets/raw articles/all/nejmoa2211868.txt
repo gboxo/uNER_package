@@ -1,0 +1,103 @@
+Statistical Analysis
+Data from the AID-ICU cohort study8 provided
+us with the likely distribution of days alive and
+out of the hospital at 90 days in the placebo
+group. Assuming that haloperidol would lead to
+a 15% lower incidence of death in the hospital
+and a shorter hospital admission time than pla-
+cebo, such that the combined effect would re-
+flect an 8% greater mean number of days alive
+and out of the hospital, we estimated that 1000
+patients would be required for the trial to have
+90% power to detect such a difference at an al-
+pha level of 5%.
+Analyses of the primary and secondary out-
+comes were performed in the intention-to-treat
+population, which included all patients who had
+undergone randomization, received the assigned
+haloperidol or placebo,15 and provided consent
+for their data to be used. The per-protocol popu-
+lation included the patients in the intention-to-
+treat population, with the exclusion of those who
+had one or more major protocol violation. Ad-
+ditional information on the definitions and oc-
+currence of major protocol violations is provided
+in the Supplementary Appendix.
+The statistical analyses were performed ac-
+cording to the published statistical analysis plan
+by the first and tenth authors, who were un-
+aware of the trial-group assignments.11 All anal-
+yses were adjusted for stratification variables
+(trial site and delirium motor subtype). In the
+primary analysis, we used a linear-regression
+model to estimate the adjusted mean difference
+between the groups. Because of the nonnormal
+distribution, we bootstrapped 95% confidence
+intervals; 50,000 resampling iterations were used
+in the bootstrap. The Kryger Jensen and Lange16
+test was used to estimate the P value because
+this test was designed for distributions of out-
+come results that show many patients with a
+value of zero, which would be the case for the
+number of days alive and out of the hospital, the
+outcome used in the current trial. The two com-
+ponents of the primary outcome — mortality
+and hospital length of stay at 90 days — were
+analyzed with the use of binary logistic regres-
+sion and a linear-regression model, respectively.
+The secondary analysis of the primary out-
+come was adjusted for additional predefined risk
+factors at baseline (the presence of traumatic brain
+injury, stroke, mental illness, neurodegenerative
+illness, alcohol overconsumption, substance abuse,
+benzodiazepine use, tobacco smoking, predicted
+90-day mortality, and use of haloperidol before
+ICU admission). The primary outcome was fur-
+ther analyzed in the per-protocol population, and
+heterogeneity of treatment effect was evaluated
+in prespecified subgroups that were defined at
+baseline according to trial site, delirium motor
+subtype (hyperactive vs. hypoactive), ICU admis-
+sion type (medical vs. surgical), sex (female vs.
+male), age (<69 years vs. ≥69 years8), patients with
+one or more risk factors of delirium (yes vs. no),
+and disease severity (SMS-ICU score <25 vs. ≥25).
+With regard to the secondary outcomes, days
+alive without delirium or coma in the ICU and
+days alive without mechanical ventilation were
+analyzed with the use of a linear-regression
+model; the number of patients with one or more
+serious adverse reactions and the number of
+patients receiving rescue medication were ana-
+lyzed with the use of logistic regression; and the
+total number of serious adverse reactions and
+the number of days with use of rescue medica-
+tion per patient were analyzed with the use of
+Poisson regression.
+A two-sided P value of less than 0.05 was
+considered to indicate statistical significance in
+the analysis of the primary outcome. If the be-
+tween-group difference with respect to the pri-
+mary outcome was found to be significant, a
+hierarchical testing procedure would be applied,
+in which the alpha level (5%) would be divided
+evenly among the six secondary outcomes, cor-
+responding with a significance level of 0.83%.
+To account for correlation among outcomes, the
+0.83% alpha level was rounded to 1%, and con-
+sequently, 99% confidence intervals were used.
+If the between-group difference with respect to
+the primary outcome was not found to be sig-
+nificant, the secondary outcomes would be con-
+sidered to be explorative in accordance with the
+principles in Jakobsen et al.17,18
+No imputation for missing data was performed
+because the number of patients with missing data
+was low for all outcomes and was therefore con-
+sidered to be negligible.19 We performed all sta-
+tistical analyses with R software, version 4.1.2
+(R Core Team, R Foundation for Statistical Com-
+puting). Additional details regarding the statisti-
+cal methods are provided in the Supplementary
+Appendix.
+

@@ -1,0 +1,47 @@
+Statistical Analysis
+The analyses followed a prespecified statistical analysis plan,
+and detailed information is available in Supplement 2. The pri-
+mary outcome, measured using the PGI-I, was dichotomized
+as subjective improvement (much or very much) or not (all other
+reported values), and the risk difference was estimated.
+A 1-sided 95% CI was used to assess noninferiority, in line with
+the 1-sided test α of 5%. When the lower limit of the confi-
+dence interval of the risk difference included or extended be-
+low the noninferiority margin of −10%, noninferiority was not
+proven. The Farrington-Manning test was used to calculate a
+P value for noninferiority. Populations used for assessing the
+primary outcome were the population analyzed as random-
+ized, as well as a per-protocol population. The full analysis set
+contained the entire population as randomized with their ini-
+tially allocated treatment and irrespective of adherence. The
+per-protocol population consisted of all women randomized
+to pessary therapy who continued pessary use at 24 months,
+and all women randomized to surgery without receiving ad-
+ditional treatment (ie, pessary or repeat surgery). Both re-
+sults based on the population as randomized, as well as those
+based on the per-protocol population, were used for the over-
+all conclusion about noninferiority of pessary treatment as
+compared to surgery in this trial.
+For dichotomous secondary outcomes, relative risks with
+2-sided 95% CIs were estimated. Statistical testing was con-
+ducted using a χ2 test. Continuous secondary outcomes were
+analyzed using the t test or Mann-Whitney U test, depending
+on normality, and described as mean (SD) or median (IQR) as
+appropriate. Differences in PFDI-20, PFIQ-7, and PISQ-IR scores
+were reported with 2-sided 95% CIs obtained by bootstrap-
+ping (10 000 replications). A 2-sided P value of ≤.05 was con-
+sidered as statistically significant.
+Time to discontinuation of initial treatment, reoperation,
+switching from pessary to surgery, or additional use of a pes-
+sary by women after surgery was analyzed by plotting a Kaplan-
+Meier curve and log-rank test.
+For primary outcomes of patients in the as-randomized
+population, as well as the per-protocol population, who were
+lost to follow-up due to missing status, sensitivity analyses were
+specified using multiple imputation to assess robustness of re-
+sults, especially if noninferiority would be shown (eAppen-
+dix in Supplement 3). SPSS version 27 (IBM) and SAS version
+9.4 (SAS Institute) were used for statistical analyses. Because
+of the potential for type I error due to multiple comparisons,
+findings for analyses of secondary end points should be inter-
+preted as exploratory.

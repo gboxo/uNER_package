@@ -1,0 +1,60 @@
+Statistical Analysis
+Sample sizes for comparing each vaccine regimen
+with placebo with regard to antibody response
+and serious adverse events, separately among
+adults and children, exceeded those required. A
+larger-than-required sample size was specified
+because if a correlate of protection was identi-
+fied after the start of the trial, the plan was to
+compare the active vaccines with one another
+(Sections S3.2 and S4). For the comparisons be-
+fore the second injection in the rVSV group
+(which was placebo) and the rVSV–booster group,
+data from the two groups were pooled.
+Data from adults and children were analyzed
+as two separate trials, with the use of identical
+statistical analyses. The trial involving children
+also included additional, prespecified analyses
+(see below).
+Each active vaccine was compared with the
+pooled placebo group in the analysis of antibody
+response at month 12 with the use of logistic
+regression with trial site as a covariate. Odds
+ratios with 95% confidence intervals were used
+to compare percentages of participants with an
+antibody response between each vaccine regimen
+and placebo at each follow-up visit. Additional
+analyses to further characterize the antibody
+response are described in the Supplementary Ap-
+pendix.
+After log10 transformation, the mean anti-
+body concentrations were compared between the
+vaccine groups and the placebo group at each
+follow-up visit, with the use of analysis of covar­
+iance with the baseline log10 level and site as
+covariates. Geometric mean concentrations after
+back-transformation are reported. Geometric mean
+ratios (for each vaccine vs. placebo) and 95% con-
+fidence intervals are also reported.
+Subgroup analyses for antibody response were
+performed according to laboratory and according
+to country within laboratory. In addition, in the
+trial involving children, we performed prespeci-
+fied subgroup analyses according to age group.
+For each of the two trials, one involving chil-
+dren and one involving adults, we used a two-
+sided significance level of 0.0167 (Bonferroni
+method) to control the type I error for the three
+comparisons of each vaccine group with the
+placebo group for the primary analysis at month
+12. Because the statistical analysis plan did not
+include a provision for correcting for multiplicity
+across outcomes, results for secondary outcomes
+are reported as point estimates with 95% confi-
+dence intervals. The widths of these confidence
+intervals have not been adjusted for multiplicity,
+so the intervals should not be used to infer de-
+finitive treatment effects for secondary outcomes.
+Statistical analyses were performed with the use
+of SAS software, version 9.4 (SAS Institute).
+

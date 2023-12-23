@@ -23,10 +23,9 @@ def get_predictions(sentence,mask_position_list,model,tokenizer):
     predictions = torch.stack([outputs.logits[i,pos,:] for i,pos in  enumerate(mask_position_list) ])
     return predictions
 
-def get_predictions_mixed(sentence,model,tokenizer):
+def get_predictions_mixed(tokens,model,tokenizer):
 
     with torch.no_grad():
-        tokens = tokenizer(sentence, return_tensors="pt", truncation=True)
         outputs = model(**tokens)    
         lhs=outputs.last_hidden_state   
         to_mskd=mskd_model.get_submodule("cls")(lhs)
@@ -92,13 +91,13 @@ def read_labels(labels_file):
     print("count of labels in " + labels_file + ":", len(terms_dict))
     return terms_dict,lc_terms_dict
 
-def generate_predictions(words, tokenizer,model, get_predictions):
+def generate_predictions(indices, tokenizer,model):
     masked_sentences2 = []
     mask_position_list = []
-    for i in range(len(words)):
+    for i in range(len(indices)):
         # Create a copy of the words list
-        masked = words.copy()
-        sent = 'A '+masked[i] + ' is a [MASK].'
+        masked = indices.numpy().tolist().copy()
+        sent = tokenizer.convert_tokens_to_string((tokenizer.convert_ids_to_tokens([2,43]+[masked[i]]+[1977,43,4,3])))
         # Create the first type of masked sentence
         #masked_i = tokenizer.convert_ids_to_tokens((tokenizer(masked[i], add_special_tokens=False)['input_ids'][0]))
         inputs = tokenizer(sent, return_tensors="pt",padding=True)
@@ -111,9 +110,11 @@ def generate_predictions(words, tokenizer,model, get_predictions):
     # Convert lists of tensor predictions into tensors
 
 
+    
+    
+    tokens = {'input_ids':torch.cat((torch.tensor([2]),indices,torch.tensor([3]))).unsqueeze(0),'token_type_ids':torch.zeros((1,len(indices)+2),dtype=torch.int),'attention_mask':torch.ones((1,len(indices)+2),dtype=torch.int)}
 
-    text2 = tokenizer.convert_tokens_to_string(words)
-    predictions2 = get_predictions_mixed(text2,model,tokenizer)[0,1:-1,:]
+    predictions2 = get_predictions_mixed(tokens,model,tokenizer)[0,1:-1,:]
     predictions = torch.stack((predictions1, predictions2))
 
     # Get top 10 predictions
@@ -121,7 +122,7 @@ def generate_predictions(words, tokenizer,model, get_predictions):
 
     return topk_vals, topk_inds
 
-def process_data(topk_inds, topk_vals, terms_dict, tokenizer, F):
+def process_data(topk_inds, topk_vals, terms_dict, tokenizer):
     max_entities = []
     
     for p in range(topk_inds.size(1)):

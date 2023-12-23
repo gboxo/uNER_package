@@ -1,0 +1,55 @@
+Statistical Analysis
+We originally determined that the enrollment of
+2100 patients (1620 in cohort 1 and 480 in co-
+hort 2) would provide 85% power to detect a
+relative difference of 25% in the primary out-
+come favoring the surgical group (i.e., an event
+rate of 53.0% in the surgical group and 61.1% in
+the endovascular group) in cohort 1 and 80%
+power to detect a relative difference of 30% in
+the primary outcome favoring the endovascular
+group (i.e., an event rate of 53.0% in the surgical
+group and 45.3% in the endovascular group) in
+cohort 2. In the two cohorts, the null hypothesis
+was that there would be no difference in the
+time from randomization to a primary-outcome
+event between the surgical group and the endo-
+vascular group. In the two cohorts, the calcula-
+tions were to be based on 2.95 years of follow-up
+and a type I error rate of 0.05; the sample sizes
+were determined to allow for crossover between
+groups, loss to follow-up, and the performance
+of two interim analyses at prespecified intervals.
+Trial enrollment was stopped early after 1830
+patients had been enrolled owing to a lack of
+continued funding. Supplemental funding was
+raised to allow for 24 months of follow-up for all
+the patients in cohort 1. Details regarding revi-
+sions to the statistical analysis plan are provided
+in the trial protocol.
+The primary and secondary outcome analyses
+were performed according to the intention-to-
+treat principle. Analyses were carried out sepa-
+rately in each cohort. Time-to-event outcomes
+were described with the use of Kaplan–Meier
+plots, and the two treatment groups were com-
+pared with the use of log-rank test statistics. We
+used a prespecified covariate-adjusted Cox model
+that was stratified according to randomization
+categories to calculate hazard ratios and their
+95% confidence intervals. Missing baseline co-
+variates were imputed with the use of multiple
+imputation. We used Cox models that had been
+adjusted for the imputed covariates to calculate
+the results of secondary efficacy and safety analy-
+ses. In the primary analysis, a P value of less
+than 0.045 after correction for two interim analy-
+ses was considered to indicate statistical signifi-
+cance. The widths of the confidence intervals
+have not been adjusted for multiplicity, so confi-
+dence intervals should not be used for hypothe-
+sis testing. All the analyses were performed with
+the use of SAS Enterprise Guide software, version
+8.3 (SAS Institute), and R software, version 4.02.
+Additional details regarding the statistical analy-
+sis are provided in the Supplementary Appendix.

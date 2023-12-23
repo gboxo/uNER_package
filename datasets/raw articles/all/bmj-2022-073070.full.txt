@@ -1,0 +1,98 @@
+Statistical analyses
+We matched cases and controls one to one on province
+of residence, week of testing, type of test (antigen or
+genomic), presence of comorbidities, sex, and age
+(±1 year). Ties during matching were automatically
+and randomly resolved by the algorithm. Matching
+improves statistical efficiency in case-control
+studies and yields unbiased estimates when a model
+accounting for matching, such as conditional logistic
+regression, is used. The effect of the matching factors
+on the outcome cannot be estimated in matched sets
+and thus is a considerable disadvantage of matching.
+To compare characteristics between cases and test
+negative controls, we did descriptive analyses for the
+unmatched and matched cohorts. P values shown refer
+to Student’s t test, Mann-Whitney U test, or Kruskal-
+Wallis rank sum test for differences in numerical
+variables or χ2 tests for proportions.
+We used conditional logistic regression to compare
+the odds of SARS-CoV-2 infection as a function of
+vaccination status, taking the matching pairs into
+consideration. We estimated vaccine effectiveness
+as (1–odds ratio)×100% and presented it with its
+corresponding 95% confidence interval by using the
+profile likelihood method. We estimated the same
+intervals by using bootstrapping as a robustness
+analysis. We created 1000 resampled datasets of
+matched case-control pairs. The total number of
+participants in each sample was equal to that of the
+original dataset (or the subset, for subgroup analysis),
+but differences within datasets were due to allowing
+4
+replacement when sampling. For each of these
+datasets, we fitted a conditional logistic regression
+model and calculated vaccine effectiveness as in the
+main analysis. We calculated bootstrapping based
+vaccine effectiveness by taking the mean of the 1000
+resampled datasets and defined its confidence interval
+limits as the empirical centiles 0.25 and 97.5.
+We classified vaccination status in different levels
+depending on the subanalysis. The unvaccinated group
+was the selected reference group in all the analyses.
+Other levels of the vaccination status variable refer to
+participants who were partially vaccinated (at least 14
+days between first dose and test), those who received
+three doses, and others (details in Data sources and
+definitions). The level of interest of this study is the
+fully vaccinated group with at least 14 days between
+their second dose and the diagnostic test.
+We did several subanalyses. Firstly, we split data
+according to the study period (on 25 December 2021)
+considering the change in the dominant variant (from
+delta to omicron). In the last week of the delta period,
+68.2% of cases were identified as due to delta and 31.7%
+as due to omicron. During the first week of the omicron
+period, 79.2% of the studied cases were assigned to this
+variant.22 For a second subanalysis, we used another
+split in age subgroups (3-11 and 12-17 years).
+Seeking evidence of waning immunity, in a third
+subanalysis we divided the fully vaccinated group into
+four levels according to the time between their second dose
+and the test (15-30, 31-45, 46-60, ≥61 days). For a fourth
+subanalysis, we split the same level to assess vaccine
+effectiveness by product in the adolescent subpopulation,
+with all possible combinations of BNT162b2 and mRNA-
+1273 vaccines against both variants.
+Fifthly, we did three sensitivity analyses. We
+assessed the effect of the type of test in the estimation
+by doing a subanalysis estimating RT-PCR and antigen
+based vaccine effectiveness separately. We fitted a
+linear regression model and used the non-parametric
+Mann-Whitney-Wilcoxon test to assess whether the
+difference between estimations was different from zero.
+For the linear model, PCR based estimates were the
+predictor variable and antigen based estimates were
+the dependent variable, as most test negative, case-
+control studies use PCR tests to assign participants
+a case status. We then repeated the main analysis
+excluding matching pairs in epidemiological weeks
+with zero fully vaccinated, to assess how not holding
+the positivity assumption might bias our estimates.
+Lastly, we excluded participants who had a previous
+infection to assess whether these participants might be
+biasing our estimates.
+Finally, for a fatality analysis, we matched
+participants with covid-19 associated death one to
+four to covid-19 negative participants by using the
+same matching criteria as the one used in the primary
+analysis estimating vaccine effectiveness against
+SARS-CoV-2 infection. On this second matched case-
+control group, we estimated vaccine effectiveness
+against mortality through an adjusted conditional
+logistic regression model.
+Data preprocessing was carried out with PostgreSQL
+(PostgreSQL Global Development Group). We used R
+software (R Development Core Team, version 3.6.1) for
+all statistical analyses.
+

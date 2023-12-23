@@ -1,0 +1,34 @@
+Statistical analysis
+Assuming a 3·3% incidence of the primary endpoint in
+the heparin group and allowing for 1% loss to follow-up,
+3000 patients per group (6000 total) would provide 80%
+power to detect a 1·2% absolute risk reduction with
+bivalirudin with a 2-sided α of 0·05.6 Data were collected
+and analysed according to the predefined statistical
+analysis plan. All primary analyses were by intention to
+treat. Sensitivity analyses were performed in the
+per-protocol population (defined as patients who received
+any dose of study medication and who met all inclusion
+criteria and no exclusion criteria) and among patients in
+whom PCI was performed. No imputation was used to
+infer missing values. Those with missing primary and
+secondary endpoint data were censored at the time of
+withdrawal of consent or loss to follow-up. Categorical
+variables were compared using the χ² test or Fisher’s
+exact test. Continuous data were presented as the mean
+and standard deviation or median and IQR and were
+compared using a Student’s t-test or the Wilcoxon rank-
+sum test. Time-to-first-event rates were estimated using
+the Kaplan-Meier method and were compared with the
+log-rank test. Hazard ratios (HR) and 95% CIs were
+established from a Cox model. The proportional hazards
+assumption for the primary outcome was confirmed
+graphically using log(–log) plots. The number of patients
+needed to treat with bivalirudin rather than heparin to
+prevent one primary endpoint event was calculated.
+Consistency of the treatment effect for the primary
+endpoint was examined in 19 prespecified subgroups.
+Detailed information of prespecified subgroups are listed
+in the appendix (pp 44–45). All statistical analyses were
+two-sided and were performed with SAS version 9.4. The
+trial is registered with ClinicalTrials.gov (NCT03822975).

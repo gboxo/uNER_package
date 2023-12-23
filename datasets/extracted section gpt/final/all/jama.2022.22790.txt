@@ -1,0 +1,9 @@
+- Trend analysis
+- Cox-Stuart test
+- Multivariable logistic regression
+- Linear regression
+- Logistic regression
+- t-tests
+- Stratified analyses
+- Sensitivity analyses
+- Weighting

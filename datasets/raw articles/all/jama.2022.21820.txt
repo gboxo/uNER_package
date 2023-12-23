@@ -1,0 +1,58 @@
+Statistical Analysis
+All analyses were preplanned, prespecified, and conducted
+using the doubly robust weighted least squares estimator to
+reduce potential bias and improve precision.30,31 This method
+estimates the average treatment effect of the intervention, the
+comparison in population average outcomes between all in-
+dividuals being assigned to the treatment group and all indi-
+viduals being assigned to the wait-list control group. The dou-
+bly robust weighted least squares estimator uses an outcome
+regression model with weights to account for imbalance in
+baseline covariates between treatment groups and missing
+data. The analytic weights involve a propensity score weight
+and an inverse probability of attrition weight (IPAW). Code for
+the estimator was written by J.B. and validated by E.E.G.M.
+A sensitivity analysis repeated the analysis with exclusion
+of outcomes obtained more than 30 days outside of the study
+window to assess the influence of outcomes obtained out-
+side the protocol window. A post hoc sensitivity analysis as-
+sessed the influence of imputation by using the screening
+HHIE-S scores to impute missing baseline HHIE-S scores. All
+randomized participants were included in analyses, includ-
+ing the primary analysis, and were analyzed according to how
+they were randomized irrespective of the treatment they re-
+ceived. An additional secondary analysis estimated the com-
+plier average causal effect by including weights from a pro-
+pensity model to account for differences in baseline HHIE-S,
+age, and PTA between those who did and did not adhere to the
+intervention.32 Adherence was defined as attending all inter-
+vention sessions and reporting at least 1 hour per day of am-
+plification device use 3 months postintervention.
+In each analysis, the propensity score models, IPAW mod-
+els, and outcome models included the baseline value of the out-
+come, age, and PTA in the better-hearing ear as linear terms, and
+estimates are valid under the assumption that data are missing
+at random given this information and treatment assignment.
+Means and their differences at 3 months postrandomiza-
+tion and 12 months postintervention were estimated using
+IPAW to account for missing data. Specification of IPAW mod-
+els was identical to the inverse-weight models in the primary
+and secondary analyses. Twelve-month postintervention IPAW
+models additionally included 3-month postrandomization
+change in the outcome as a covariate.
+Ninety-five percent confidence intervals were obtained
+using bias-corrected and accelerated bootstrap resampling pro-
+cedure with 10 000 replicates. Mean or mode imputation of
+any missing baseline covariates was performed within each
+bootstrap sample. All analyses conducted were reported, and
+confidence intervals for secondary and exploratory analyses
+were not adjusted for multiplicity. Statistical significance was
+assessed at the .05 level using 2-sided testing. Because of the
+potential for type I error due to multiple comparisons, find-
+ings for analyses of secondary end points should be inter-
+preted as exploratory. Given the low-risk nature of the inter-
+vention, no interim analyses and stopping guidelines were
+applied. Analyses were completed using Stata version SE 16.0
+(StataCorp) and R version 4.2.0.
+
+

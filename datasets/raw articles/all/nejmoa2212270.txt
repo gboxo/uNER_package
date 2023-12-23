@@ -1,0 +1,39 @@
+Statistical Analysis
+We calculated that 1055 primary-outcome events
+would provide the trial with 90% power to detect
+a 17.5% lower hazard for the primary outcome
+in the chlorthalidone group at a two-sided alpha
+level of 0.049, assuming a 3% annual incidence
+of the primary outcome in the hydrochlorothia-
+zide group. A planned interim analysis of the
+primary hypothesis was performed after 500
+primary-outcome events had occurred, with a
+type I error rate of 0.01.
+Primary analyses were performed with the
+use of unadjusted log-rank tests that were strat-
+ified according to VA health care system. Sec-
+ondary analyses and analysis of the time to
+hospitalization for hypokalemia were performed
+with the use of a competing-risk model.15 Ad-
+justed Cox proportional-hazards models were
+also used for secondary analyses that were con-
+trolled for age, sex, race, estimated glomerular
+filtration rate (GFR), baseline diabetes, and his-
+tory of myocardial infarction or stroke.5 Pre-
+specified subgroup analyses were conducted
+with the use of baseline data with regard to
+median age, race (Black or non-Black), estimated
+GFR (<60 or ≥60 ml per minute per 1.73 m2 of
+body-surface area), sex, presence or absence
+of diabetes, history of myocardial infarction or
+stroke, and median systolic blood pressure.
+Because the statistical analysis plan did not
+include a provision for multiplicity when tests
+were conducted for secondary or other out-
+comes, results are reported as point estimates
+and 95% confidence intervals. The widths of the
+confidence intervals were not adjusted for multi-
+plicity, so intervals should not be used in place
+of hypothesis testing. All the analyses were per-
+formed with the use of SAS software, version 9.4
+(SAS Institute).
